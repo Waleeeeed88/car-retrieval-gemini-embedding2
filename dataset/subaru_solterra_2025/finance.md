@@ -1,0 +1,22 @@
+# 2025 Subaru Solterra Finance Snapshot
+
+- Market: US
+- MSRP: $38,495
+- Total before tax: Starting MSRP about $38,495 before tax, destination, and dealer fees.
+- APR: 0% APR for 75 months
+- Finance payment: Equivalent to $13.33 per $1,000 financed per Subaru's current national offer text.
+- Finance down payment: No down payment required per the current Subaru offer disclaimer.
+- Lease payment: Subaru says lease offers are available, but exact Solterra lease-payment figures were not exposed in the static HTML captured here.
+- Lease term: term varies
+- Due at signing: Varies by location and lease structure.
+- Incentives: Subaru's current special-offers page says that through March 31, 2026, buyers can get 0% APR for 75 months on a new 2026 Solterra and that the offer includes a $2,000 retail customer cash rebate.
+- Warranty: Subaru's current warranty booklet states basic coverage at 3 years/36,000 miles. For battery-electric models, powertrain coverage is 5 years/60,000 miles, and the battery and electric drive units are covered for 8 years/100,000 miles.
+- Best for: EV shoppers who want standard AWD and one of the clearest current national finance offers in this dataset.
+- Financial strengths: This is one of the few entries where the OEM publicly exposes a strong national finance offer, which materially improves payment predictability.
+- Financial concerns: The special offer is explicitly tied to 2026 Solterra inventory and location availability; exact lease terms were not exposed.
+- Notes: Snapshot uses Subaru US pricing and offer text on March 25, 2026. The public offer page references 2026 Solterra retail support, while the research list tracked a 2025 brochure.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.subaru.com/vehicles/solterra.html
+  - https://www.subaru.com/shopping-tools/special-offers.html
+  - https://techinfo.subaru.com/stis/doc/warrantyBooklet/5125115-Subaru_MSA5M2301M-text.PDF

@@ -1,0 +1,22 @@
+# 2025 Subaru Crosstrek Finance Snapshot
+
+- Market: US
+- MSRP: $26,995
+- Total before tax: Starting MSRP about $26,995 before tax, destination, and dealer fees.
+- APR: Model-specific national APR was not exposed in static Subaru HTML for Crosstrek.
+- Finance payment: Use Subaru special offers and retailer quote flow.
+- Finance down payment: Varies by retailer, term, and credit profile.
+- Lease payment: Use Subaru special offers and retailer quote flow.
+- Lease term: term varies
+- Due at signing: Varies by retailer and region.
+- Incentives: Subaru's public offers page currently emphasizes general programs rather than a visible national Crosstrek payment ad.
+- Warranty: Subaru's current warranty booklet states basic coverage at 3 years/36,000 miles. Most gas models carry 5 years/60,000 miles of powertrain coverage. Subaru also uses the special offers page to highlight Lease Loyalty and College Graduate programs that can improve effective ownership cost.
+- Best for: Smaller-budget AWD buyers who want hatch-like utility.
+- Financial strengths: Strong Subaru value at the low end of the lineup and standard AWD can avoid option-package creep.
+- Financial concerns: Exact new-car payment support is not published nationally in static HTML for this model.
+- Notes: Snapshot uses Subaru US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.subaru.com/vehicles/crosstrek.html
+  - https://www.subaru.com/shopping-tools/special-offers.html
+  - https://techinfo.subaru.com/stis/doc/warrantyBooklet/5125115-Subaru_MSA5M2301M-text.PDF

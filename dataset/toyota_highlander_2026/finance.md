@@ -1,0 +1,23 @@
+# 2026 Toyota Highlander Finance Snapshot
+
+- Market: US
+- MSRP: $45,570
+- Total before tax: Starting MSRP about $45,570 before tax, destination, and dealer fees.
+- APR: Toyota routes current finance offers through ZIP-based Local Specials.
+- Finance payment: Use Toyota Local Specials or a dealer quote.
+- Finance down payment: Varies by ZIP, trim, and credit profile.
+- Lease payment: Use Toyota Local Specials or a dealer quote.
+- Lease term: term varies
+- Due at signing: Varies by ZIP, trim, and dealer.
+- Incentives: Toyota's Highlander page includes offer discovery but keeps exact APR and lease terms behind ZIP/dealer context.
+- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
+- Best for: Three-row shoppers who want Toyota reliability without stepping up to a full-size SUV.
+- Financial strengths: Mainstream three-row pricing plus ToyotaCare can keep ownership cost manageable for families.
+- Financial concerns: Localized incentives and destination charges make the final out-the-door number meaningfully higher than the entry MSRP.
+- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.toyota.com/highlander/
+  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/owners/warranty-owners-manuals/
+  - https://www.toyota.com/electrified-vehicles/warranty/

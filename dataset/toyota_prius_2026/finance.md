@@ -1,0 +1,23 @@
+# 2026 Toyota Prius Finance Snapshot
+
+- Market: US
+- MSRP: $28,550
+- Total before tax: Starting MSRP about $28,550 before tax, destination, and dealer fees.
+- APR: Toyota routes current finance offers through ZIP-based Local Specials.
+- Finance payment: Use Toyota Local Specials or a dealer quote.
+- Finance down payment: Varies by ZIP, trim, and credit profile.
+- Lease payment: Use Toyota Local Specials or a dealer quote.
+- Lease term: term varies
+- Due at signing: Varies by ZIP, trim, and dealer.
+- Incentives: Toyota's Prius page points shoppers to localized offers; published national APR and lease numbers were not visible without ZIP context.
+- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
+- Best for: Drivers who want one of the lowest fuel-cost ownership profiles in this list.
+- Financial strengths: Strong efficiency plus Toyota's hybrid battery coverage helps long-run cost confidence.
+- Financial concerns: Real purchase cost still depends on local supply and Toyota's local specials rather than a national payment ad.
+- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.toyota.com/prius/
+  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/owners/warranty-owners-manuals/
+  - https://www.toyota.com/electrified-vehicles/warranty/

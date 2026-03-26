@@ -1,0 +1,49 @@
+{
+  "id": "18",
+  "slug": "honda_ridgeline_2025",
+  "make": "Honda",
+  "model": "Ridgeline",
+  "year": 2025,
+  "market": "Canada",
+  "paths": {
+    "spec_pdf": "spec.pdf",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "carPDFs/18_Honda Ridgeline (2025).pdf",
+    "finance": "financing/18_2025_Honda_Ridgeline.md",
+    "image": "carImages/18_2025 Honda Ridgeline.png"
+  },
+  "source_urls": {
+    "spec_pdf": "https://www.honda.ca/-/media/Brands/Honda/Models/RIDGELINE/2025/PDF/2025-Honda-Ridgeline-Specifications---EN.pdf?rev=ad6966746d374f73af182c3ba51d6f67",
+    "image_gallery": "https://www.honda.ca/en/ridgeline"
+  },
+  "finance_snapshot": {
+    "msrp": "Honda Canada builder selling price shown: $56,136",
+    "total_before_tax": "Honda Canada Build & Price shows $56,136 before tax, with freight, PDI, levies, and dealer fees included in the displayed selling price.",
+    "apr": "Honda Canada does not expose a stable national APR in the public model-selection HTML.",
+    "finance_payment": "Use the Honda Canada Build & Price payment tool for province-specific finance estimates.",
+    "finance_down_payment": "Varies by province, trim, and credit profile.",
+    "lease_payment": "Use the Honda Canada Build & Price payment tool for province-specific lease estimates.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by province, trim, and dealer.",
+    "incentives": "Ridgeline pricing is current in Honda Canada's builder, but exact monthly offers require the live calculator and local assumptions.",
+    "warranty": "Honda Canada's standard warranty booklet lists Honda's Five Year/100,000 km No Nonsense powertrain warranty, distributor's warranty at 3 years/60,000 km, and roadside assistance for 3 years with no distance limit. Hybrid-specific components carry additional coverage in the Honda warranty guide.",
+    "best_for": "Lifestyle truck buyers who want easier everyday drivability than a traditional body-on-frame pickup.",
+    "financial_strengths": "Honda's fee-inclusive builder display makes total pre-tax spend easier to compare with crossovers and midsize trucks.",
+    "financial_concerns": "The original research set used a 2025 Ridgeline PDF, but the active Honda Canada retail flow is 2026 Ridgeline.",
+    "notes": "Snapshot uses Honda Canada's active builder data on March 25, 2026. The current consumer flow for this nameplate is 2026 Ridgeline.",
+    "snapshot_date": "March 25, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle."
+  }
+}

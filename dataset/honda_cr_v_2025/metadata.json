@@ -1,0 +1,49 @@
+{
+  "id": "13",
+  "slug": "honda_cr_v_2025",
+  "make": "Honda",
+  "model": "CR-V",
+  "year": 2025,
+  "market": "Canada",
+  "paths": {
+    "spec_pdf": "spec.pdf",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "carPDFs/13_Honda CR-V (2025).pdf",
+    "finance": "financing/13_2025_Honda_CR_V.md",
+    "image": "carImages/13_2025 Honda CR-V.png"
+  },
+  "source_urls": {
+    "spec_pdf": "https://www.honda.ca/-/media/Brands/Honda/Models/CR-V/2025/PDF/2025-Honda-CR-V-Specifications---EN_v3.pdf?rev=161c72b1f43f44b58c61114b012d64e5",
+    "image_gallery": "https://www.honda.ca/en/cr-v"
+  },
+  "finance_snapshot": {
+    "msrp": "Honda Canada builder selling price shown: $40,121",
+    "total_before_tax": "Honda Canada Build & Price shows $40,121 before tax, with freight, PDI, levies, and dealer fees included in the displayed selling price.",
+    "apr": "Honda Canada does not expose a stable national APR in the public model-selection HTML.",
+    "finance_payment": "Use the Honda Canada Build & Price payment tool for province-specific finance estimates.",
+    "finance_down_payment": "Varies by province, trim, and credit profile.",
+    "lease_payment": "Use the Honda Canada Build & Price payment tool for province-specific lease estimates.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by province, trim, and dealer.",
+    "incentives": "Honda Canada exposes the live CR-V pricing flow, but exact national APR and lease examples are not published in static HTML.",
+    "warranty": "Honda Canada's standard warranty booklet lists Honda's Five Year/100,000 km No Nonsense powertrain warranty, distributor's warranty at 3 years/60,000 km, and roadside assistance for 3 years with no distance limit. Hybrid-specific components carry additional coverage in the Honda warranty guide.",
+    "best_for": "Compact-SUV buyers who want family practicality and strong resale.",
+    "financial_strengths": "Freight-inclusive builder pricing reduces comparison noise, and CR-V demand usually supports residual value.",
+    "financial_concerns": "The original research set used a 2025 CR-V PDF, but the active builder flow is 2026 CR-V; exact payments depend on province, credit, and trim.",
+    "notes": "Snapshot uses Honda Canada's active builder data on March 25, 2026. The current consumer flow for this nameplate is 2026 CR-V.",
+    "snapshot_date": "March 25, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle."
+  }
+}

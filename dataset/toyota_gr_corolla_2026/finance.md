@@ -1,0 +1,22 @@
+# 2026 Toyota GR Corolla Finance Snapshot
+
+- Market: US
+- MSRP: $39,920
+- Total before tax: Starting MSRP about $39,920 before tax, destination, and dealer fees.
+- APR: Toyota routes current finance offers through ZIP-based Local Specials.
+- Finance payment: Use Toyota Local Specials or a dealer quote.
+- Finance down payment: Varies by ZIP, trim, and credit profile.
+- Lease payment: Likely dealer-specific; confirm directly with a Toyota store.
+- Lease term: term varies
+- Due at signing: Varies by dealer and market support.
+- Incentives: GR Corolla's page exposes Toyota's offer lookup but does not publish a national payment ad in static HTML.
+- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
+- Best for: Enthusiasts who still want Toyota service-network support.
+- Financial strengths: Toyota ownership costs are usually easier to predict than boutique performance brands.
+- Financial concerns: Dealer markups, limited stock, and thinner incentive support can dominate the financing picture.
+- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.toyota.com/grcorolla/
+  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/owners/warranty-owners-manuals/

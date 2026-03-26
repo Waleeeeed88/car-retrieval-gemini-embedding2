@@ -1,0 +1,49 @@
+{
+  "id": "04",
+  "slug": "toyota_corolla_hatchback_2026",
+  "make": "Toyota",
+  "model": "Corolla Hatchback",
+  "year": 2026,
+  "market": "US",
+  "paths": {
+    "spec_pdf": "spec.pdf",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "carPDFs/04_Toyota Corolla Hatchback (2026).pdf",
+    "finance": "financing/04_2026_Toyota_Corolla_Hatchback.md",
+    "image": "carImages/04_2026 Toyota Corolla Hatchback.jpg"
+  },
+  "source_urls": {
+    "spec_pdf": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/corollahatchback_ebrochure.pdf",
+    "image_gallery": "https://www.toyota.com/corollahatchback/photo-gallery/"
+  },
+  "finance_snapshot": {
+    "msrp": "$24,380",
+    "total_before_tax": "Starting MSRP about $24,380 before tax, destination, and dealer fees.",
+    "apr": "Toyota routes current finance offers through ZIP-based Local Specials.",
+    "finance_payment": "Use Toyota Local Specials or a dealer quote.",
+    "finance_down_payment": "Varies by ZIP, trim, and credit profile.",
+    "lease_payment": "Use Toyota Local Specials or a dealer quote.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by ZIP, trim, and dealer.",
+    "incentives": "Toyota's model page points to local special offers, but exact Corolla Hatchback finance and lease terms are dealer-localized.",
+    "warranty": "Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.",
+    "best_for": "Small-car buyers who want cargo flexibility without moving up to a crossover.",
+    "financial_strengths": "Reasonable entry price and hatchback practicality can keep total household car spend down.",
+    "financial_concerns": "Availability and local incentives can be thinner than Corolla sedan inventory in some markets.",
+    "notes": "Snapshot uses Toyota US pricing on March 25, 2026.",
+    "snapshot_date": "March 25, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle."
+  }
+}

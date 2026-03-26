@@ -1,0 +1,23 @@
+# 2025 Honda HR-V Finance Snapshot
+
+- Market: Canada
+- MSRP: Honda Canada builder selling price shown: $33,446
+- Total before tax: Honda Canada Build & Price shows $33,446 before tax, with freight, PDI, levies, and dealer fees included in the displayed selling price.
+- APR: Honda Canada does not expose a stable national APR in the public model-selection HTML.
+- Finance payment: Use the Honda Canada Build & Price payment tool for province-specific finance estimates.
+- Finance down payment: Varies by province, trim, and credit profile.
+- Lease payment: Use the Honda Canada Build & Price payment tool for province-specific lease estimates.
+- Lease term: term varies
+- Due at signing: Varies by province, trim, and dealer.
+- Incentives: Honda Canada's HR-V builder is the right current source, but exact APR and lease examples require the province-specific payment flow.
+- Warranty: Honda Canada's standard warranty booklet lists Honda's Five Year/100,000 km No Nonsense powertrain warranty, distributor's warranty at 3 years/60,000 km, and roadside assistance for 3 years with no distance limit. Hybrid-specific components carry additional coverage in the Honda warranty guide.
+- Best for: Entry-crossover buyers who want Honda practicality without moving up to CR-V pricing.
+- Financial strengths: Relatively accessible entry price for a Honda SUV and clear freight-inclusive display price.
+- Financial concerns: The original research set used a 2025 HR-V PDF, but Honda Canada's active retail flow is 2026 HR-V.
+- Notes: Snapshot uses Honda Canada's active builder data on March 25, 2026. The current consumer flow for this nameplate is 2026 HR-V.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.honda.ca/en/buildyourhonda/trims?model_key=hr_v&model_year=2026&payment_frequency=weekly&payment_method=lease&term_and_rate=60&trade_in_value=0&trade_in_owing=0&down_payment=0
+  - https://www.honda.ca/en/honda-financial-services
+  - https://www.honda.ca/en/honda-plus/standard-warranty
+  - https://integration.honda.ca/Content/honda.ca/C1964D80-9DEE-4EAE-847A-11FBDA5A82A6/GenericContent_FFH/2020%20Honda%20Warranty%20-%2000X38-H20-W000-E-with%20tires.pdf

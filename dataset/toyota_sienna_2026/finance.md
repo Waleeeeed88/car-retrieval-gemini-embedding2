@@ -1,0 +1,23 @@
+# 2026 Toyota Sienna Finance Snapshot
+
+- Market: US
+- MSRP: $40,420
+- Total before tax: Starting MSRP about $40,420 before tax, destination, and dealer fees.
+- APR: Toyota routes current finance offers through ZIP-based Local Specials.
+- Finance payment: Use Toyota Local Specials or a dealer quote.
+- Finance down payment: Varies by ZIP, trim, and credit profile.
+- Lease payment: Use Toyota Local Specials or a dealer quote.
+- Lease term: term varies
+- Due at signing: Varies by ZIP, trim, and dealer.
+- Incentives: The Sienna page points to Toyota's localized-offer flow; public HTML did not expose a national payment example.
+- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
+- Best for: Large families who want hybrid fuel economy in a true minivan package.
+- Financial strengths: Hybrid efficiency can materially reduce family fuel spend, and ToyotaCare helps with early maintenance.
+- Financial concerns: Family-vehicle insurance, destination, and dealer-add-on risk can move the payment more than headline MSRP suggests.
+- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.toyota.com/sienna/
+  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/owners/warranty-owners-manuals/
+  - https://www.toyota.com/electrified-vehicles/warranty/

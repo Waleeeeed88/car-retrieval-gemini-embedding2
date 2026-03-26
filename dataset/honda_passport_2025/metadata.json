@@ -1,0 +1,49 @@
+{
+  "id": "16",
+  "slug": "honda_passport_2025",
+  "make": "Honda",
+  "model": "Passport",
+  "year": 2025,
+  "market": "Canada",
+  "paths": {
+    "spec_pdf": "spec.pdf",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "carPDFs/16_Honda Passport (2025).pdf",
+    "finance": "financing/16_2025_Honda_Passport.md",
+    "image": "carImages/16_2025 Honda Passport.png"
+  },
+  "source_urls": {
+    "spec_pdf": "https://www.honda.ca/-/media/Brands/Honda/Models/PASSPORT/2025/PDF/2025-Honda-Passport-Specifications---EN.pdf?rev=1ca7838422254b09bde7f4c32d7f4a01",
+    "image_gallery": "https://www.honda.ca/en/passport"
+  },
+  "finance_snapshot": {
+    "msrp": "Honda Canada builder selling price shown: $60,136",
+    "total_before_tax": "Honda Canada Build & Price shows $60,136 before tax, with freight, PDI, levies, and dealer fees included in the displayed selling price.",
+    "apr": "Honda Canada does not expose a stable national APR in the public model-selection HTML.",
+    "finance_payment": "Use the Honda Canada Build & Price payment tool for province-specific finance estimates.",
+    "finance_down_payment": "Varies by province, trim, and credit profile.",
+    "lease_payment": "Use the Honda Canada Build & Price payment tool for province-specific lease estimates.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by province, trim, and dealer.",
+    "incentives": "Passport pricing is live in Honda Canada's builder, but exact finance and lease quotes need the province-specific calculator.",
+    "warranty": "Honda Canada's standard warranty booklet lists Honda's Five Year/100,000 km No Nonsense powertrain warranty, distributor's warranty at 3 years/60,000 km, and roadside assistance for 3 years with no distance limit. Hybrid-specific components carry additional coverage in the Honda warranty guide.",
+    "best_for": "Buyers who want a two-row Honda SUV with more outdoor-oriented positioning than CR-V.",
+    "financial_strengths": "Builder pricing is fee-inclusive and easier to compare than a bare MSRP.",
+    "financial_concerns": "The original research set used a 2025 Passport PDF, but the active Honda Canada retail flow is 2026 Passport.",
+    "notes": "Snapshot uses Honda Canada's active builder data on March 25, 2026. The current consumer flow for this nameplate is 2026 Passport.",
+    "snapshot_date": "March 25, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle."
+  }
+}

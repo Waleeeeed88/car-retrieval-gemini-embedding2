@@ -1,0 +1,49 @@
+{
+  "id": "20",
+  "slug": "honda_prologue_2025",
+  "make": "Honda",
+  "model": "Prologue",
+  "year": 2025,
+  "market": "Canada",
+  "paths": {
+    "spec_pdf": "spec.pdf",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "carPDFs/20_Honda Prologue (2025).pdf",
+    "finance": "financing/20_2025_Honda_Prologue.md",
+    "image": "carImages/20_2025 Honda Prologue.png"
+  },
+  "source_urls": {
+    "spec_pdf": "https://www.honda.ca/-/media/Brands/Honda/Models/PROLOGUE/2025/PDF/MY25-Prologue-Specifications---EN.pdf?rev=f84c6da584884785ace35746e9c168c9",
+    "image_gallery": "https://www.honda.ca/en/prologue"
+  },
+  "finance_snapshot": {
+    "msrp": "Honda Canada builder selling price shown: $63,180",
+    "total_before_tax": "Honda Canada Build & Price shows $63,180 before tax, with freight, PDI, levies, and dealer fees included in the displayed selling price.",
+    "apr": "Honda Canada does not expose a stable national APR in the public model-selection HTML.",
+    "finance_payment": "Use the Honda Canada Build & Price payment tool for province-specific finance estimates.",
+    "finance_down_payment": "Varies by province, trim, and credit profile.",
+    "lease_payment": "Use the Honda Canada Build & Price payment tool for province-specific lease estimates.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by province, trim, dealer, and provincial EV policy.",
+    "incentives": "Prologue is available only through select Honda dealers in British Columbia, Ontario, and Quebec per Honda Canada's builder notice. Exact finance and lease terms are still calculator-based.",
+    "warranty": "Honda Canada publishes the standard Honda warranty framework and separate EV-specific coverage in its model and warranty materials. Use the live Prologue builder plus Honda warranty guide for the current EV-specific details.",
+    "best_for": "Canadian EV buyers who want a Honda-badged midsize crossover and access to select-dealer support.",
+    "financial_strengths": "Honda's fee-inclusive builder display helps set a realistic pre-tax starting point for an EV purchase.",
+    "financial_concerns": "Regional availability is limited, and final economics depend heavily on province, dealer, and EV-program assumptions.",
+    "notes": "Snapshot uses Honda Canada's active builder data on March 25, 2026. Honda Canada notes that Prologue availability is limited to select dealers in British Columbia, Ontario, and Quebec.",
+    "snapshot_date": "March 25, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle."
+  }
+}

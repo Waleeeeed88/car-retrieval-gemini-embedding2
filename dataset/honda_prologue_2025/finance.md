@@ -1,0 +1,22 @@
+# 2025 Honda Prologue Finance Snapshot
+
+- Market: Canada
+- MSRP: Honda Canada builder selling price shown: $63,180
+- Total before tax: Honda Canada Build & Price shows $63,180 before tax, with freight, PDI, levies, and dealer fees included in the displayed selling price.
+- APR: Honda Canada does not expose a stable national APR in the public model-selection HTML.
+- Finance payment: Use the Honda Canada Build & Price payment tool for province-specific finance estimates.
+- Finance down payment: Varies by province, trim, and credit profile.
+- Lease payment: Use the Honda Canada Build & Price payment tool for province-specific lease estimates.
+- Lease term: term varies
+- Due at signing: Varies by province, trim, dealer, and provincial EV policy.
+- Incentives: Prologue is available only through select Honda dealers in British Columbia, Ontario, and Quebec per Honda Canada's builder notice. Exact finance and lease terms are still calculator-based.
+- Warranty: Honda Canada publishes the standard Honda warranty framework and separate EV-specific coverage in its model and warranty materials. Use the live Prologue builder plus Honda warranty guide for the current EV-specific details.
+- Best for: Canadian EV buyers who want a Honda-badged midsize crossover and access to select-dealer support.
+- Financial strengths: Honda's fee-inclusive builder display helps set a realistic pre-tax starting point for an EV purchase.
+- Financial concerns: Regional availability is limited, and final economics depend heavily on province, dealer, and EV-program assumptions.
+- Notes: Snapshot uses Honda Canada's active builder data on March 25, 2026. Honda Canada notes that Prologue availability is limited to select dealers in British Columbia, Ontario, and Quebec.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.honda.ca/en/buildyourhonda/trims?model_key=prologue&model_year=2025&payment_frequency=weekly&payment_method=finance&term_and_rate=60&trade_in_value=0&trade_in_owing=0&down_payment=0
+  - https://www.honda.ca/en/honda-financial-services
+  - https://www.honda.ca/en/honda-plus/standard-warranty

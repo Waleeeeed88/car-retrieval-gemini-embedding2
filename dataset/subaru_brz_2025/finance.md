@@ -1,0 +1,22 @@
+# 2025 Subaru BRZ Finance Snapshot
+
+- Market: US
+- MSRP: $35,860
+- Total before tax: Starting MSRP about $35,860 before tax, destination, and dealer fees.
+- APR: Model-specific national APR was not exposed in static Subaru HTML for BRZ.
+- Finance payment: Use Subaru special offers and retailer quote flow.
+- Finance down payment: Varies by retailer, term, and credit profile.
+- Lease payment: Use Subaru special offers and retailer quote flow.
+- Lease term: term varies
+- Due at signing: Varies by retailer and region.
+- Incentives: Subaru's public offers page currently emphasizes general programs rather than a visible national BRZ payment ad.
+- Warranty: Subaru's current warranty booklet states basic coverage at 3 years/36,000 miles. Most gas models carry 5 years/60,000 miles of powertrain coverage. Subaru also uses the special offers page to highlight Lease Loyalty and College Graduate programs that can improve effective ownership cost.
+- Best for: Drivers prioritizing lightweight sports-car character over utility.
+- Financial strengths: Entry pricing stays lower than many sports-car alternatives while keeping a mainstream service network.
+- Financial concerns: Performance-car insurance and thin incentive visibility can weaken the monthly-cost story.
+- Notes: Snapshot uses Subaru US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.subaru.com/vehicles/brz.html
+  - https://www.subaru.com/shopping-tools/special-offers.html
+  - https://techinfo.subaru.com/stis/doc/warrantyBooklet/5125115-Subaru_MSA5M2301M-text.PDF

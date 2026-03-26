@@ -1,0 +1,22 @@
+# 2026 Toyota Corolla Finance Snapshot
+
+- Market: US
+- MSRP: $22,925
+- Total before tax: Starting MSRP about $22,925 before tax, destination, and dealer fees.
+- APR: Toyota routes current finance offers through ZIP-based Local Specials.
+- Finance payment: Use Toyota Local Specials or a dealer quote.
+- Finance down payment: Varies by ZIP, trim, and credit profile.
+- Lease payment: Use Toyota Local Specials or a dealer quote.
+- Lease term: term varies
+- Due at signing: Varies by ZIP, trim, and dealer.
+- Incentives: Toyota exposes local offer discovery but not a national Corolla APR or lease payment without local ZIP input.
+- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
+- Best for: Budget-focused commuting and first-time buyers.
+- Financial strengths: Lowest Toyota entry price in this set and ToyotaCare helps keep total cost predictable.
+- Financial concerns: Base sticker is low, but actual monthly cost still depends on local rate support and dealer fees.
+- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.toyota.com/corolla/
+  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/owners/warranty-owners-manuals/

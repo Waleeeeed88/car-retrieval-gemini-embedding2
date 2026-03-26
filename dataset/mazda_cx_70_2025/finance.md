@@ -1,0 +1,22 @@
+# 2025 Mazda CX-70 Finance Snapshot
+
+- Market: US
+- MSRP: $42,250
+- Total before tax: Starting MSRP about $42,250 before tax, destination, and dealer fees.
+- APR: 1.9% APR for 36 months
+- Finance payment: Mazda publishes the APR and term, but not a single national monthly payment example on the model page.
+- Finance down payment: Varies by lender structure and buyer credit.
+- Lease payment: Mazda publishes lease cash support, but the static model page did not expose one national CX-70 monthly lease payment example.
+- Lease term: term varies
+- Due at signing: Varies by dealer and lease structure.
+- Incentives: Mazda's CX-70 page currently advertises 1.9% APR for 36 months, plus $2,000 customer cash and $2,000 lease cash on 2026 CX-70 models.
+- Warranty: Mazda USA lists a 3-year/36,000-mile New-Vehicle Limited Warranty, 5-year/60,000-mile Powertrain Limited Warranty, and 24/7 roadside assistance tied to applicable warranty coverage.
+- Best for: Buyers who want a more premium-feeling two-row SUV and a visible national finance headline.
+- Financial strengths: Mazda is one of the few OEMs in this set exposing a clear public APR and cash-support package on the model page.
+- Financial concerns: The original research set used a 2025 CX-70 spec deck, while Mazda's current retail page and offers are for 2026 CX-70 inventory.
+- Notes: Snapshot uses Mazda USA pricing and offer text on March 25, 2026. The live consumer page is for 2026 CX-70 rather than a legacy 2025 retail page.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.mazdausa.com/vehicles/cx-70
+  - https://www.mazdausa.com/shopping-tools/special-offers-and-incentives#2026-cx-70
+  - https://www.mazdausa.com/owners/warranty

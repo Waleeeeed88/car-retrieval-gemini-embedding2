@@ -1,0 +1,49 @@
+{
+  "id": "27",
+  "slug": "subaru_legacy_2025",
+  "make": "Subaru",
+  "model": "Legacy",
+  "year": 2025,
+  "market": "US",
+  "paths": {
+    "spec_pdf": "spec.pdf",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "carPDFs/27_Subaru Legacy (2025).pdf",
+    "finance": "financing/27_2025_Subaru_Legacy.md",
+    "image": "carImages/27_2025 Subaru Legacy.jpg"
+  },
+  "source_urls": {
+    "spec_pdf": "https://www.subaru.com/services/vehicles/pdf/trimComparison/2025/LEG?hideBuildMsrp=false",
+    "image_gallery": "https://www.subaru.com/vehicles/legacy/2025/gallery.html"
+  },
+  "finance_snapshot": {
+    "msrp": "$26,810",
+    "total_before_tax": "Starting MSRP about $26,810 before tax, destination, and dealer fees.",
+    "apr": "Model-specific national APR was not exposed in static Subaru HTML for Legacy.",
+    "finance_payment": "Use Subaru special offers and retailer quote flow.",
+    "finance_down_payment": "Varies by retailer, term, and credit profile.",
+    "lease_payment": "Use Subaru special offers and retailer quote flow.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by retailer and region.",
+    "incentives": "Subaru's public offers page currently emphasizes general programs rather than a visible national Legacy payment ad.",
+    "warranty": "Subaru's current warranty booklet states basic coverage at 3 years/36,000 miles. Most gas models carry 5 years/60,000 miles of powertrain coverage. Subaru also uses the special offers page to highlight Lease Loyalty and College Graduate programs that can improve effective ownership cost.",
+    "best_for": "Sedan buyers who want standard AWD and conservative ownership economics.",
+    "financial_strengths": "Reasonable entry price for an AWD sedan and Subaru brand programs can help qualified shoppers.",
+    "financial_concerns": "Retailer-level quoting is still necessary because Subaru is not exposing a national Legacy payment banner here.",
+    "notes": "Snapshot uses Subaru US pricing on March 25, 2026.",
+    "snapshot_date": "March 25, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle."
+  }
+}

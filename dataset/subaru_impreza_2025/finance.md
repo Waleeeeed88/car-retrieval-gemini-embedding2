@@ -1,0 +1,22 @@
+# 2025 Subaru Impreza Finance Snapshot
+
+- Market: US
+- MSRP: $26,595
+- Total before tax: Starting MSRP about $26,595 before tax, destination, and dealer fees.
+- APR: Model-specific national APR was not exposed in static Subaru HTML for Impreza.
+- Finance payment: Use Subaru special offers and retailer quote flow.
+- Finance down payment: Varies by retailer, term, and credit profile.
+- Lease payment: Use Subaru special offers and retailer quote flow.
+- Lease term: term varies
+- Due at signing: Varies by retailer and region.
+- Incentives: Subaru's public offers page currently emphasizes general programs rather than a visible national Impreza payment ad.
+- Warranty: Subaru's current warranty booklet states basic coverage at 3 years/36,000 miles. Most gas models carry 5 years/60,000 miles of powertrain coverage. Subaru also uses the special offers page to highlight Lease Loyalty and College Graduate programs that can improve effective ownership cost.
+- Best for: Buyers who want an AWD hatchback without moving into crossover pricing.
+- Financial strengths: Accessible entry price and standard AWD are still differentiators in this segment.
+- Financial concerns: No visible national Impreza payment ad was exposed in static HTML, so dealer quotes matter.
+- Notes: Snapshot uses Subaru US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.subaru.com/vehicles/impreza.html
+  - https://www.subaru.com/shopping-tools/special-offers.html
+  - https://techinfo.subaru.com/stis/doc/warrantyBooklet/5125115-Subaru_MSA5M2301M-text.PDF

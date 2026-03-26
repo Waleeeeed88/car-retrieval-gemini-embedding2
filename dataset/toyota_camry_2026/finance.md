@@ -1,0 +1,23 @@
+# 2026 Toyota Camry Finance Snapshot
+
+- Market: US
+- MSRP: $29,100
+- Total before tax: Starting MSRP about $29,100 before tax, destination, and dealer fees.
+- APR: Toyota routes current finance offers through ZIP-based Local Specials.
+- Finance payment: Use Toyota Local Specials or a dealer quote.
+- Finance down payment: Varies by ZIP, trim, and credit profile.
+- Lease payment: Use Toyota Local Specials or a dealer quote.
+- Lease term: term varies
+- Due at signing: Varies by ZIP, trim, and dealer.
+- Incentives: Camry's page exposes Toyota's local-offers entry point, but exact APR, lease payment, and due-at-signing numbers stay behind ZIP-based local specials.
+- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
+- Best for: Mainstream midsize-sedan shoppers who want low running costs and strong resale.
+- Financial strengths: Low entry price for the segment and ToyotaCare improve the early-year cash picture.
+- Financial concerns: The real deal depends on local Toyota cash, APR, and inventory rather than a visible national payment ad.
+- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.toyota.com/camry/
+  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/owners/warranty-owners-manuals/
+  - https://www.toyota.com/electrified-vehicles/warranty/

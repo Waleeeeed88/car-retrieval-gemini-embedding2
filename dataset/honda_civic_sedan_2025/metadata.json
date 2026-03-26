@@ -1,0 +1,49 @@
+{
+  "id": "11",
+  "slug": "honda_civic_sedan_2025",
+  "make": "Honda",
+  "model": "Civic Sedan",
+  "year": 2025,
+  "market": "Canada",
+  "paths": {
+    "spec_pdf": "spec.pdf",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "carPDFs/11_Honda Civic Sedan (2025).pdf",
+    "finance": "financing/11_2025_Honda_Civic_Sedan.md",
+    "image": "carImages/11_2025 Honda Civic Sedan.png"
+  },
+  "source_urls": {
+    "spec_pdf": "https://www.honda.ca/-/media/Brands/Honda/Models/CIVIC-SEDAN/2025/PDF/2025-Honda-Civic-Sedan-Specifications---EN_v2.pdf?rev=b2d4207f30234c6ea83b3d611b95acf2",
+    "image_gallery": "https://www.honda.ca/en/civic_sedan"
+  },
+  "finance_snapshot": {
+    "msrp": "Honda Canada builder selling price shown: $31,316",
+    "total_before_tax": "Honda Canada's Build & Price flow shows $31,316 before tax, with freight, PDI, levies, and dealer fees included in the displayed selling price.",
+    "apr": "Honda Canada does not expose a stable national APR in the public model-selection HTML.",
+    "finance_payment": "Use the Honda Canada Build & Price payment tool for province-specific finance estimates.",
+    "finance_down_payment": "Varies by province, trim, and credit profile.",
+    "lease_payment": "Use the Honda Canada Build & Price payment tool for province-specific lease estimates.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by province, trim, and dealer.",
+    "incentives": "Honda Canada's live builder is the main official source for current pricing and estimated payments. Exact published Civic Sedan APR or lease examples were not exposed in the landing-page HTML.",
+    "warranty": "Honda Canada's standard warranty booklet lists Honda's Five Year/100,000 km No Nonsense powertrain warranty, distributor's warranty at 3 years/60,000 km, and roadside assistance for 3 years with no distance limit. Hybrid-specific components carry additional coverage in the Honda warranty guide.",
+    "best_for": "Canadian buyers who want an efficient compact sedan with predictable ownership cost.",
+    "financial_strengths": "Honda's builder price already includes major freight and fee items, which makes comparison shopping cleaner than a bare MSRP.",
+    "financial_concerns": "The original research list used a 2025 Civic Sedan PDF, but Honda Canada's active retail flow is now the 2026 Civic Sedan; exact payment estimates still vary by province and dealer.",
+    "notes": "Snapshot uses Honda Canada's active builder data on March 25, 2026. The current consumer flow for this nameplate is 2026 Civic Sedan rather than a primary 2025 retail page.",
+    "snapshot_date": "March 25, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle."
+  }
+}

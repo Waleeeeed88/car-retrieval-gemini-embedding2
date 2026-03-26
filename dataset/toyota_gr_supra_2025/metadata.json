@@ -1,0 +1,49 @@
+{
+  "id": "06",
+  "slug": "toyota_gr_supra_2025",
+  "make": "Toyota",
+  "model": "GR Supra",
+  "year": 2025,
+  "market": "US",
+  "paths": {
+    "spec_pdf": "spec.pdf",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "carPDFs/06_Toyota GR Supra (2025).pdf",
+    "finance": "financing/06_2025_Toyota_GR_Supra.md",
+    "image": "carImages/06_2025 Toyota GR Supra.jpg"
+  },
+  "source_urls": {
+    "spec_pdf": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2025/grsupra_ebrochure.pdf",
+    "image_gallery": "https://www.toyota.com/grsupra/photo-gallery/"
+  },
+  "finance_snapshot": {
+    "msrp": "$58,300",
+    "total_before_tax": "Starting MSRP about $58,300 before tax, destination, and dealer fees.",
+    "apr": "Toyota routes current finance offers through ZIP-based Local Specials.",
+    "finance_payment": "Use Toyota Local Specials or a dealer quote.",
+    "finance_down_payment": "Varies by ZIP, trim, and credit profile.",
+    "lease_payment": "Confirm with a dealer; performance-car lease support can be limited.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by dealer and market support.",
+    "incentives": "Toyota does not expose a national GR Supra monthly offer in public page HTML; local-specials flow is required.",
+    "warranty": "Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.",
+    "best_for": "Buyers prioritizing sports-car performance over monthly-cost efficiency.",
+    "financial_strengths": "Toyota dealer network helps with support relative to niche performance alternatives.",
+    "financial_concerns": "Higher MSRP and potentially limited incentives make this one of the least payment-friendly Toyota entries.",
+    "notes": "Snapshot uses Toyota US pricing on March 25, 2026.",
+    "snapshot_date": "March 25, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle."
+  }
+}

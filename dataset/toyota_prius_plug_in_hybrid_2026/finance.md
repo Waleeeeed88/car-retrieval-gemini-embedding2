@@ -1,0 +1,23 @@
+# 2026 Toyota Prius Plug-in Hybrid Finance Snapshot
+
+- Market: US
+- MSRP: $33,775
+- Total before tax: Starting MSRP about $33,775 before tax, destination, and dealer fees.
+- APR: Toyota routes current finance offers through ZIP-based Local Specials.
+- Finance payment: Use Toyota Local Specials or a dealer quote.
+- Finance down payment: Varies by ZIP, trim, and credit profile.
+- Lease payment: Use Toyota Local Specials or a dealer quote.
+- Lease term: term varies
+- Due at signing: Varies by ZIP, trim, and dealer.
+- Incentives: Toyota's plug-in Prius page uses localized offer lookup; exact APR, lease payment, and due-at-signing figures were not exposed in static HTML.
+- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
+- Best for: Short-distance commuters who can plug in and still want Toyota hybrid flexibility on longer trips.
+- Financial strengths: Plug-in fuel savings and Toyota electrified warranty coverage improve long-term value if the vehicle is charged regularly.
+- Financial concerns: Upfront price is higher than standard Prius, and local incentive visibility is limited without ZIP input.
+- Notes: Snapshot uses Toyota US pricing on March 25, 2026. Toyota markets this model online via the Prius Plug-in Hybrid page.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.toyota.com/priuspluginhybrid/
+  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/owners/warranty-owners-manuals/
+  - https://www.toyota.com/electrified-vehicles/warranty/

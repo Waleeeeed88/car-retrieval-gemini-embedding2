@@ -1,0 +1,49 @@
+{
+  "id": "17",
+  "slug": "honda_odyssey_2025",
+  "make": "Honda",
+  "model": "Odyssey",
+  "year": 2025,
+  "market": "Canada",
+  "paths": {
+    "spec_pdf": "spec.pdf",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "carPDFs/17_Honda Odyssey (2025).pdf",
+    "finance": "financing/17_2025_Honda_Odyssey.md",
+    "image": "carImages/17_2025 Honda Odyssey.png"
+  },
+  "source_urls": {
+    "spec_pdf": "https://www.honda.ca/-/media/Brands/Honda/Models/ODYSSEY/2025/PDF/2025-Honda-Odyssey-Specifications---EN_v3.pdf?rev=c3cb93f5db7b451db61538b3cbe35d82",
+    "image_gallery": "https://www.honda.ca/en/odyssey"
+  },
+  "finance_snapshot": {
+    "msrp": "Honda Canada builder selling price shown: $54,566",
+    "total_before_tax": "Honda Canada Build & Price shows $54,566 before tax, with freight, PDI, levies, and dealer fees included in the displayed selling price.",
+    "apr": "Honda Canada does not expose a stable national APR in the public model-selection HTML.",
+    "finance_payment": "Use the Honda Canada Build & Price payment tool for province-specific finance estimates.",
+    "finance_down_payment": "Varies by province, trim, and credit profile.",
+    "lease_payment": "Use the Honda Canada Build & Price payment tool for province-specific lease estimates.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by province, trim, and dealer.",
+    "incentives": "Honda Canada's Odyssey builder gives live pricing; exact payment ads require the live payment calculator rather than static HTML.",
+    "warranty": "Honda Canada's standard warranty booklet lists Honda's Five Year/100,000 km No Nonsense powertrain warranty, distributor's warranty at 3 years/60,000 km, and roadside assistance for 3 years with no distance limit. Hybrid-specific components carry additional coverage in the Honda warranty guide.",
+    "best_for": "Families who care more about real people-mover practicality than crossover image.",
+    "financial_strengths": "A minivan's usability can reduce the need for a second larger family vehicle, which matters more than sticker alone.",
+    "financial_concerns": "The original research set used a 2025 Odyssey PDF, but the active Honda Canada retail flow is 2026 Odyssey.",
+    "notes": "Snapshot uses Honda Canada's active builder data on March 25, 2026. The current consumer flow for this nameplate is 2026 Odyssey.",
+    "snapshot_date": "March 25, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle."
+  }
+}

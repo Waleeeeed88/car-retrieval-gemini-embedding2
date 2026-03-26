@@ -1,0 +1,23 @@
+# 2026 Toyota Crown Finance Snapshot
+
+- Market: US
+- MSRP: $41,440
+- Total before tax: Starting MSRP about $41,440 before tax, destination, and dealer fees.
+- APR: Toyota routes current finance offers through ZIP-based Local Specials.
+- Finance payment: Use Toyota Local Specials or a dealer quote.
+- Finance down payment: Varies by ZIP, trim, and credit profile.
+- Lease payment: Use Toyota Local Specials or a dealer quote.
+- Lease term: term varies
+- Due at signing: Varies by ZIP, trim, and dealer.
+- Incentives: Toyota shows a 'Find the Right Offer for You' block on the Crown page, but exact APR and lease numbers are localized and not exposed without ZIP/dealer context.
+- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
+- Best for: Hybrid sedan buyers who want elevated seating and a more premium Toyota ownership profile.
+- Financial strengths: Hybrid-only positioning helps operating-cost efficiency, and ToyotaCare offsets early maintenance cost.
+- Financial concerns: Toyota does not expose a national Crown payment offer on the model page; real monthly cost depends on local specials and dealer inventory.
+- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
+- Snapshot date: March 25, 2026
+- Sources:
+  - https://www.toyota.com/crown/
+  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/owners/warranty-owners-manuals/
+  - https://www.toyota.com/electrified-vehicles/warranty/
