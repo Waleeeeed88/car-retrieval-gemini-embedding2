@@ -1,0 +1,24 @@
+# 2026 Toyota RAV4 Finance Snapshot
+
+- Market: US
+- MSRP: Toyota.com starting MSRP shown: $31,900
+- Total before tax: Toyota.com lists a starting MSRP of $31,900 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- APR: Toyota financing offers vary by ZIP code, model, term, and approved credit; check Toyota deals and incentives for current regional programs.
+- Finance payment: Use the Toyota payment estimator or dealer quote for current monthly payment estimates.
+- Finance down payment: Varies by lender approval, incentives, taxes, fees, and buyer structure.
+- Lease payment: Lease estimates vary by region, trim, mileage allowance, and available specials.
+- Lease term: term varies
+- Due at signing: Varies by dealer, taxes, fees, first payment, and any available incentives.
+- Incentives: Toyota advertises regional deals and incentives that can change frequently and should be confirmed locally.
+- Warranty: See Toyota Manuals and Warranties for the current model-year guide and exact coverage details.
+- Best for: Buyers who want the safest mainstream bet in Toyota's compact SUV range.
+- Financial strengths: High-demand segment and wide trim spread make it easy to shop by budget.
+- Financial concerns: Popular compact SUVs can carry heavier demand pressure and fewer easy bargains in some markets.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.toyota.com/rav4/
+  - https://www.toyota.com/all-vehicles/
+  - https://www.toyota.com/deals-incentives/
+  - https://www.toyota.com/payment-estimator/
+  - https://www.toyota.com/owners/warranty-owners-manuals/

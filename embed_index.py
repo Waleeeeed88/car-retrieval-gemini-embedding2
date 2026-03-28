@@ -13,8 +13,12 @@ if __package__ in {None, ""}:
     sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from config import get_settings
-from utils.embedding_utils import GeminiEmbedder, average_embeddings
-from utils.feature_utils import build_embedding_context_text, build_feature_payload
+from utils.embedding_utils import GeminiEmbedder, average_embeddings, weighted_average_embeddings
+from utils.feature_utils import (
+    build_embedding_context_text,
+    build_feature_payload,
+    build_image_embedding_brief,
+)
 from utils.io_utils import (
     build_car_record,
     configure_logging,
@@ -117,6 +121,8 @@ def embed_car_items(
                     "features": feature_payload["features"],
                     "spec_facts": feature_payload["spec_facts"],
                     "image_traits": feature_payload["image_traits"],
+                    "image_profile": feature_payload["image_profile_lines"],
+                    "image_quality_flags": feature_payload["image_quality_flags"],
                 },
             )
             vectors.append(vector)
@@ -128,18 +134,24 @@ def embed_car_items(
     pdf_path = car_record["pdf_path"]
     if pdf_path.exists():
         try:
-            pdf_vector = embedder.embed_pdf(pdf_path)
             pdf_context_text = build_embedding_context_text(
                 modality="pdf",
                 metadata=car_record["metadata"],
                 feature_payload=feature_payload,
                 original_text=pdf_text[:4000],
             )
-            pdf_context_vector = embedder.embed_text(pdf_context_text)
-            vector = average_embeddings([pdf_vector, pdf_context_vector])
-            chunk_count = len(
-                split_pdf_into_chunks(pdf_path, embedder.settings.pdf_max_pages_per_request)
-            )
+            if pdf_path.suffix.lower() in {".txt", ".md"}:
+                vector = embedder.embed_text(pdf_context_text)
+                page_count = None
+                chunk_count = None
+            else:
+                pdf_vector = embedder.embed_pdf(pdf_path)
+                pdf_context_vector = embedder.embed_text(pdf_context_text)
+                vector = average_embeddings([pdf_vector, pdf_context_vector])
+                page_count = get_pdf_page_count(pdf_path)
+                chunk_count = len(
+                    split_pdf_into_chunks(pdf_path, embedder.settings.pdf_max_pages_per_request)
+                )
             record = build_item_record(
                 car_record=car_record,
                 modality="pdf",
@@ -147,12 +159,14 @@ def embed_car_items(
                 dataset_root=dataset_root,
                 item_suffix="pdf",
                 extra={
-                    "page_count": get_pdf_page_count(pdf_path),
+                    "page_count": page_count,
                     "pdf_chunk_count": chunk_count,
                     "colors": feature_payload["colors"],
                     "features": feature_payload["features"],
                     "spec_facts": feature_payload["spec_facts"],
                     "image_traits": feature_payload["image_traits"],
+                    "image_profile": feature_payload["image_profile_lines"],
+                    "image_quality_flags": feature_payload["image_quality_flags"],
                 },
             )
             vectors.append(vector)
@@ -170,10 +184,19 @@ def embed_car_items(
                 modality="image",
                 metadata=car_record["metadata"],
                 feature_payload=feature_payload,
-                original_text="Primary exterior vehicle image.",
+                original_text=build_image_embedding_brief(
+                    metadata=car_record["metadata"],
+                    feature_payload=feature_payload,
+                    view_type=image_path.stem,
+                ),
             )
             image_context_vector = embedder.embed_text(image_context_text)
-            vector = average_embeddings([image_vector, image_context_vector])
+            vector = weighted_average_embeddings(
+                [
+                    (image_vector, embedder.settings.image_vector_weight),
+                    (image_context_vector, embedder.settings.image_context_weight),
+                ]
+            )
             record = build_item_record(
                 car_record=car_record,
                 modality="image",
@@ -186,6 +209,8 @@ def embed_car_items(
                     "features": feature_payload["features"],
                     "spec_facts": feature_payload["spec_facts"],
                     "image_traits": feature_payload["image_traits"],
+                    "image_profile": feature_payload["image_profile_lines"],
+                    "image_quality_flags": feature_payload["image_quality_flags"],
                 },
             )
             vectors.append(vector)

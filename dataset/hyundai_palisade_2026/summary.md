@@ -1,0 +1,23 @@
+# 2026 Hyundai Palisade Summary
+
+- Dataset ID: 129
+- Slug: `hyundai_palisade_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Hyundai USA pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Hyundai vehicles page shows Starting MSRP: $39,435.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $39,435 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- Category: suv
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Click here for an overview on the all-new 2026 Palisade, a 3-row upscale SUV from Hyundai. View trims, current offers, warranty info and more at Hyundai USA!
+- Best for: Three-row SUV buyers who want Hyundai's upscale family-hauler positioning.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.hyundaiusa.com/us/en/vehicles/palisade
+- Lineup source URL: https://www.hyundaiusa.com/us/en/vehicles
+- Offers source URL: https://www.hyundaiusa.com/us/en/offers
+- Manuals/Warranties source URL: https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+- Warranty source URL: https://www.hyundaiusa.com/us/en/assurance/america-best-warranty
+- Image source URL: https://s7d1.scene7.com/is/image/hyundai/2025-palisade-vehicle-browse-hero?wid=1200&hei=630&qlt=85,0&fmt=webp

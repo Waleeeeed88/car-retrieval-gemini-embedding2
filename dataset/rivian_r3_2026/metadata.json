@@ -1,0 +1,52 @@
+{
+  "id": "110",
+  "slug": "rivian_r3_2026",
+  "make": "Rivian",
+  "model": "R3",
+  "year": 2026,
+  "market": "US",
+  "category": "crossover",
+  "drivetrain": "AWD",
+  "fuel_type": "electric",
+  "price_range": "TBD",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from live official Rivian pages",
+    "image": "https://images.ctfassets.net/2md5qhoeajym/6AGs5wOLoeUhLXYklBLXfi/ba205416dc616558c0ae94b06fdbee09/8dce03cb-aaea-4f17-b6f1-6e55b6231b79.jpeg"
+  },
+  "source_urls": {
+    "model_page": "https://rivian.com/en-US/r3"
+  },
+  "finance_snapshot": {
+    "msrp": "Rivian has not published a live U.S. MSRP on the public R3 page.",
+    "total_before_tax": "R3 is a future model page, so final MSRP, destination, taxes, fees, and option structure are not yet public.",
+    "apr": "No live APR program is published on the R3 page.",
+    "finance_payment": "No public monthly finance payment is published on the R3 page.",
+    "finance_down_payment": "Not published on the public R3 page.",
+    "lease_payment": "No public lease estimate is published on the R3 page.",
+    "lease_term": "not published",
+    "due_at_signing": "not published",
+    "incentives": "Future incentives and launch economics are not yet public.",
+    "warranty": "Final production-vehicle warranty and purchase-program details have not been published on the R3 page.",
+    "best_for": "Shoppers tracking Rivian's smaller future crossover rather than the current R1 lineup.",
+    "financial_strengths": "Gives the dataset a distinct future Rivian crossover entry beyond the truck/SUV-heavy current lineup.",
+    "financial_concerns": "No public price means this entry remains financially speculative until Rivian publishes launch details.",
+    "notes": "Snapshot uses Rivian's official R3 page on March 26, 2026. Public pricing was not published on the page at capture time.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Official Rivian R3 share image used as the canonical image for this future-model entry."
+  }
+}

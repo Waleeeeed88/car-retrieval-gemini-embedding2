@@ -1,0 +1,23 @@
+# 2026 Nissan Rogue Finance Snapshot
+
+- Market: US
+- MSRP: Nissan public page example vehicle shown price: $40,530.
+- Total before tax: Nissan public page example vehicle shown price: $40,530. $1,495 destination and handling charge referenced in Nissan's public Rogue pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- APR: Current APR was not cleanly exposed on the public Nissan model page in this pass; check Nissan Finance or retailer quoting for live programs.
+- Finance payment: Use Nissan Finance or a retailer quote for current payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, lender terms, and structure.
+- Lease payment: Current public Nissan lease payment was not captured cleanly from the model page in this pass.
+- Lease term: not captured in this pass
+- Due at signing: not captured in this pass
+- Incentives: Public Nissan offers can vary by ZIP code, dealer, and time period; verify live offers before using them operationally.
+- Warranty: See Nissan owner resources and manuals for current ownership documentation and vehicle details.
+- Best for: Compact-SUV shoppers who want Nissan's mainstream volume crossover with available AWD and current tech.
+- Financial strengths: Rogue stays central to Nissan's U.S. crossover lineup and carries the broadest mainstream appeal here.
+- Financial concerns: On March 26, 2026, Nissan titled the page as 2026.5 Rogue, so this folder uses 2026 naming but notes that exact public model-page date context.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.nissanusa.com/vehicles/crossovers-suvs/rogue.html
+  - https://www.nissanusa.com/vehicles/new.html
+  - https://www.nissanfinance.com/s/
+  - https://www.nissanusa.com/owners/manuals-guides.html

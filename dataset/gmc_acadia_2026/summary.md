@@ -1,0 +1,24 @@
+# 2026 GMC Acadia Summary
+
+- Dataset ID: 82
+- Slug: `gmc_acadia_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $43,800
+- Total before tax: GMC.com lists a starting price of $43,800 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: FWD/AWD
+- Fuel type: gasoline
+- Vehicle summary: Mid-size three-row SUV aimed at family buyers who want space and a more upscale GMC identity.
+- Vehicle summary: Acadia sits between the smaller Terrain and the full-size Yukon range in the GMC lineup.
+- Best for: Families who want a roomy midsize GMC SUV with a stronger premium feel than a basic three-row crossover.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/suvs/acadia
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: Front View of the GMC Acadia Mid-Size SUV Parked on the Beach

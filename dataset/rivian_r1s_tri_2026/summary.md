@@ -1,0 +1,21 @@
+# 2026 Rivian R1S Tri Summary
+
+- Dataset ID: 107
+- Slug: `rivian_r1s_tri_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Rivian pricing pages where available
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Rivian R1S page shows: From $106,990.
+- Total before tax: Public Rivian pricing starts at $106,990 before taxes, registration, optional equipment, and local fees.
+- Category: suv
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: Performance-focused current R1S trim positioned above Dual in Rivian's live SUV lineup.
+- Vehicle summary: Public page specs position this as a higher-output step before Quad.
+- Best for: Buyers who want a higher-performance R1S without paying full Quad pricing.
+- Notes: Snapshot uses Rivian U.S. live R1S pricing card on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model Page URL: https://rivian.com/en-US/r1s
+- Warranty Page URL: https://rivian.com/en-US/support/article/new-vehicle-limited-warranty-guide
+- Image source URL: https://images.ctfassets.net/2md5qhoeajym/2pmoThbEsIuxUFlBzOH05w/389ca217b8f90725d8e5cee01352e051/240527_ElliotRoss_Seattle_1447_v1_3000px_FINAL.jpg

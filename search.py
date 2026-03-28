@@ -50,10 +50,13 @@ def pretty_print_results(results: list[dict[str, object]]) -> None:
         )
         colors = result.get("colors") or []
         features = result.get("features") or []
+        image_profile = result.get("image_profile") or []
         if colors:
             print(f"      colors: {', '.join(str(color) for color in colors)}")
         if features:
             print(f"      features: {', '.join(str(feature) for feature in features[:8])}")
+        if image_profile:
+            print(f"      image: {', '.join(str(line) for line in image_profile[:4])}")
 
 
 def build_query_embedding(args: argparse.Namespace, embedder: GeminiEmbedder) -> tuple[str, object]:

@@ -68,19 +68,32 @@ def relative_to_dataset(path: Path, dataset_root: Path) -> str:
     return path.resolve().relative_to(dataset_root.resolve()).as_posix()
 
 
+def resolve_spec_path(car_dir: Path, supported_files: tuple[str, ...]) -> Path:
+    for filename in supported_files:
+        candidate = car_dir / filename
+        if candidate.exists():
+            return candidate
+    return car_dir / supported_files[0]
+
+
 def build_car_record(car_dir: Path, settings: Settings) -> dict[str, Any]:
     metadata = load_json(car_dir / "metadata.json")
+    image_paths = list_image_files(
+        car_dir / "images",
+        settings.supported_image_extensions,
+    )
+    image_paths = sorted(
+        image_paths,
+        key=lambda path: (0 if path.stem.lower() == "front" else 1, path.name.lower()),
+    )
     return {
         "car_dir": car_dir,
         "car_id": str(metadata.get("slug") or metadata.get("id") or car_dir.name),
         "metadata": metadata,
         "summary_path": car_dir / "summary.md",
         "finance_path": car_dir / "finance.md",
-        "pdf_path": car_dir / "spec.pdf",
-        "image_paths": list_image_files(
-            car_dir / "images",
-            settings.supported_image_extensions,
-        ),
+        "pdf_path": resolve_spec_path(car_dir, settings.supported_pdf_files),
+        "image_paths": image_paths,
     }
 
 
@@ -128,6 +141,8 @@ def get_pdf_page_count(pdf_path: Path) -> int:
 
 
 def extract_pdf_text(pdf_path: Path, max_pages: int | None = None) -> str:
+    if pdf_path.suffix.lower() in {".txt", ".md"}:
+        return read_text(pdf_path)
     reader = PdfReader(str(pdf_path))
     pages = reader.pages[:max_pages] if max_pages else reader.pages
     extracted = []

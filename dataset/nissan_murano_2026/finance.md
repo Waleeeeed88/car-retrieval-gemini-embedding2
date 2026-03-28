@@ -1,0 +1,23 @@
+# 2026 Nissan Murano Finance Snapshot
+
+- Market: US
+- MSRP: Nissan public page example vehicle shown price: $50,800.
+- Total before tax: Nissan public page example vehicle shown price: $50,800. $1,545 destination and handling charge referenced in Nissan's public Murano pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- APR: Current APR was not cleanly exposed on the public Nissan model page in this pass; check Nissan Finance or retailer quoting for live programs.
+- Finance payment: Use Nissan Finance or a retailer quote for current payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, lender terms, and structure.
+- Lease payment: Current public Nissan lease payment was not captured cleanly from the model page in this pass.
+- Lease term: not captured in this pass
+- Due at signing: not captured in this pass
+- Incentives: Public Nissan offers can vary by ZIP code, dealer, and time period; verify live offers before using them operationally.
+- Warranty: See Nissan owner resources and manuals for current ownership documentation and vehicle details.
+- Best for: Shoppers who want Nissan's softer, comfort-focused midsize SUV positioning rather than a rugged three-row setup.
+- Financial strengths: Murano leans into comfort and premium feel, which gives it a clearer identity than a generic midsize SUV pitch.
+- Financial concerns: Shown-vehicle pricing sits high enough that Murano has to justify itself against stronger luxury-adjacent competition.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.nissanusa.com/vehicles/crossovers-suvs/murano.html
+  - https://www.nissanusa.com/vehicles/new.html
+  - https://www.nissanfinance.com/s/
+  - https://www.nissanusa.com/owners/manuals-guides.html

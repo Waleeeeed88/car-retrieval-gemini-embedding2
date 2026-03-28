@@ -1,0 +1,21 @@
+# 2026 Tesla Model S Plaid Summary
+
+- Dataset ID: 96
+- Slug: `tesla_model_s_plaid_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Tesla Design Studio pricing and finance views
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Tesla Design Studio cash price shown: $109,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $109,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- Category: sedan
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: High-performance flagship Model S configuration that sits at the top of Tesla's sedan range.
+- Vehicle summary: Plaid exists more as a halo statement and performance choice than as a mainstream value option.
+- Best for: High-budget buyers who want Tesla's highest-profile sedan performance badge.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.tesla.com/models/design#overview
+- Warranty source URL: https://www.tesla.com/support/vehicle-warranty
+- Image source URL: https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-S-New-Social.jpg

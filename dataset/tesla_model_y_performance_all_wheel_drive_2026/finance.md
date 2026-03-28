@@ -1,0 +1,21 @@
+# 2026 Tesla Model Y Performance All-Wheel Drive Finance Snapshot
+
+- Market: US
+- MSRP: Tesla Design Studio cash price shown: $57,490
+- Total before tax: Tesla Design Studio shows a vehicle price of $57,490. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- APR: Current finance example shown by Tesla: 0% APR, $3,300 down, 72 mo.
+- Finance payment: Tesla Design Studio finance estimate shown: $899 /mo.
+- Finance down payment: 0% APR, $3,300 down, 72 mo
+- Lease payment: Varies by ZIP code, eligibility, and current Tesla lease availability.
+- Lease term: term varies
+- Due at signing: Varies by Tesla financing or lease terms, taxes, fees, and buyer profile.
+- Incentives: Tesla may show estimated savings or tax-related messaging in the Design Studio; eligibility and final value vary.
+- Warranty: See Tesla vehicle warranty details for current basic and battery/drive-unit coverage.
+- Best for: Buyers who want a fast Tesla crossover rather than a standard EV family hauler.
+- Financial strengths: Performance positioning gives the Model Y a stronger halo role in Tesla's highest-volume body style.
+- Financial concerns: At this price, buyers start comparing it against broader premium and performance EV choices.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this dataset pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.tesla.com/modely/design#overview
+  - https://www.tesla.com/support/vehicle-warranty

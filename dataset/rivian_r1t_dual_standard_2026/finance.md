@@ -1,0 +1,21 @@
+# 2026 Rivian R1T Dual Standard Finance Snapshot
+
+- Market: US
+- MSRP: Rivian R1T page shows: From $72,990.
+- Total before tax: Public Rivian pricing starts at $72,990 before taxes, registration, delivery variations, optional equipment, and local fees.
+- APR: Rivian does not publish a universal APR on the main R1T page; final financing depends on approved credit and lender terms.
+- Finance payment: Use Rivian purchase flow or lender quote for current financed payment estimates.
+- Finance down payment: Not published as a standard finance example on the R1T page.
+- Lease payment: Live Rivian example offer shows $899/mo.
+- Lease term: 36 months / 30,000 total miles in the example offer.
+- Due at signing: Example offer shows $8,794 due at signing.
+- Incentives: Rivian pricing and lease examples can change and should be verified in the live build or purchase flow.
+- Warranty: See Rivian's New Vehicle Limited Warranty guide for current coverage terms.
+- Best for: Buyers who want the lowest advertised entry into the R1T lineup.
+- Financial strengths: Lowest advertised R1T price point and a public lease example make this the clearest value-oriented R1T entry.
+- Financial concerns: Final payment can change materially with options, delivery fees, taxes, and regional availability.
+- Notes: Snapshot uses Rivian U.S. live R1T pricing and lease example on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://rivian.com/en-US/r1t
+  - https://rivian.com/en-US/support/article/new-vehicle-limited-warranty-guide

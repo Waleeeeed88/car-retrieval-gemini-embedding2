@@ -224,6 +224,135 @@ def describe_image_visual_traits(image_path: Path) -> list[str]:
     return traits
 
 
+def describe_image_render_profile(image_path: Path) -> dict[str, Any]:
+    if not image_path.exists():
+        return {
+            "profile_lines": [],
+            "quality_flags": [],
+            "composition": {},
+        }
+
+    with Image.open(image_path) as image:
+        rgb = image.convert("RGB")
+        width, height = rgb.size
+        resized = rgb.resize((240, 240))
+        pixels = list(resized.getdata())
+
+    def is_near_white(pixel: tuple[int, int, int]) -> bool:
+        return min(pixel) >= 235 and max(pixel) - min(pixel) <= 18
+
+    white_mask = [is_near_white(pixel) for pixel in pixels]
+    white_ratio = sum(white_mask) / max(len(white_mask), 1)
+
+    border_pixels: list[tuple[int, int, int]] = []
+    border_band = 18
+    for y in range(240):
+        for x in range(240):
+            if x < border_band or x >= 240 - border_band or y < border_band or y >= 240 - border_band:
+                border_pixels.append(pixels[y * 240 + x])
+    border_white_ratio = (
+        sum(1 for pixel in border_pixels if is_near_white(pixel)) / max(len(border_pixels), 1)
+    )
+
+    subject_indices = [index for index, pixel in enumerate(pixels) if not is_near_white(pixel)]
+    profile_lines: list[str] = []
+    quality_flags: list[str] = []
+    composition: dict[str, Any] = {
+        "white_ratio": round(white_ratio, 4),
+        "border_white_ratio": round(border_white_ratio, 4),
+        "source_size": f"{width}x{height}",
+    }
+
+    if subject_indices:
+        xs = [index % 240 for index in subject_indices]
+        ys = [index // 240 for index in subject_indices]
+        min_x, max_x = min(xs), max(xs)
+        min_y, max_y = min(ys), max(ys)
+        bbox_width = max_x - min_x + 1
+        bbox_height = max_y - min_y + 1
+        bbox_area_ratio = (bbox_width * bbox_height) / float(240 * 240)
+        center_x = (min_x + max_x) / 2
+        center_offset = abs(center_x - 119.5) / 119.5
+
+        composition.update(
+            {
+                "subject_bbox_ratio": round(bbox_area_ratio, 4),
+                "subject_center_offset": round(center_offset, 4),
+            }
+        )
+
+        if border_white_ratio >= 0.8:
+            profile_lines.append("clean studio-style light background")
+        elif border_white_ratio >= 0.6:
+            profile_lines.append("mostly clean light background")
+        else:
+            profile_lines.append("non-studio or busy background")
+
+        if bbox_area_ratio >= 0.48:
+            profile_lines.append("large vehicle presence in frame")
+        elif bbox_area_ratio >= 0.3:
+            profile_lines.append("balanced vehicle framing")
+        else:
+            profile_lines.append("small vehicle presence in frame")
+            quality_flags.append("subject appears small relative to canvas")
+
+        if center_offset <= 0.14:
+            profile_lines.append("centered vehicle composition")
+        else:
+            profile_lines.append("off-center vehicle composition")
+
+        if bbox_width / max(bbox_height, 1) >= 1.35:
+            profile_lines.append("wide vehicle silhouette")
+        elif bbox_width / max(bbox_height, 1) <= 0.95:
+            profile_lines.append("tall vehicle silhouette")
+
+        if width < 900 or height < 500:
+            quality_flags.append("low native source resolution")
+    else:
+        profile_lines.append("vehicle subject not clearly isolated")
+        quality_flags.append("vehicle subject not clearly isolated")
+
+    return {
+        "profile_lines": _deduplicate(profile_lines),
+        "quality_flags": _deduplicate(quality_flags),
+        "composition": composition,
+    }
+
+
+def build_image_embedding_brief(
+    *,
+    metadata: dict[str, Any],
+    feature_payload: dict[str, Any],
+    view_type: str | None,
+) -> str:
+    make = str(metadata.get("make", "")).strip()
+    model = str(metadata.get("model", "")).strip()
+    year = str(metadata.get("year", "")).strip()
+    view_label = (view_type or "primary").replace("_", " ").strip()
+    category = (
+        metadata.get("category")
+        or metadata.get("body_type")
+        or metadata.get("vehicle_type")
+        or metadata.get("segment")
+        or "vehicle"
+    )
+    colors = ", ".join(feature_payload.get("colors", [])) or "not specified"
+    profile = ", ".join(feature_payload.get("image_profile_lines", [])) or "no visual profile extracted"
+    quality_flags = ", ".join(feature_payload.get("image_quality_flags", [])) or "none"
+
+    return "\n".join(
+        [
+            f"Canonical exterior image for {year} {make} {model}".strip(),
+            f"View label: {view_label}",
+            f"Vehicle type: {category}",
+            f"Known colors: {colors}",
+            f"Visual profile: {profile}",
+            f"Quality flags: {quality_flags}",
+            "Use this image as the primary appearance reference for vehicle retrieval.",
+        ]
+    )
+
+
 def build_feature_payload(
     metadata: dict[str, Any],
     *,
@@ -240,6 +369,11 @@ def build_feature_payload(
 
     image_colors = detect_image_colors(image_path) if image_path else []
     image_traits = describe_image_visual_traits(image_path) if image_path else []
+    image_profile = describe_image_render_profile(image_path) if image_path else {
+        "profile_lines": [],
+        "quality_flags": [],
+        "composition": {},
+    }
     text_colors = extract_color_mentions(summary_text, finance_text, pdf_text, snapshot_text)
     colors = _deduplicate(image_colors + text_colors)
 
@@ -277,6 +411,9 @@ def build_feature_payload(
         "features": features,
         "spec_facts": spec_facts,
         "image_traits": image_traits,
+        "image_profile_lines": image_profile.get("profile_lines", []),
+        "image_quality_flags": image_profile.get("quality_flags", []),
+        "image_composition": image_profile.get("composition", {}),
         "searchable_attributes": {
             "make": metadata.get("make"),
             "model": metadata.get("model"),
@@ -303,6 +440,8 @@ def build_embedding_context_text(
     features = ", ".join(feature_payload.get("features", [])) or "not specified"
     spec_facts = ", ".join(feature_payload.get("spec_facts", [])) or "not specified"
     image_traits = ", ".join(feature_payload.get("image_traits", [])) or "not specified"
+    image_profile = ", ".join(feature_payload.get("image_profile_lines", [])) or "not specified"
+    image_quality_flags = ", ".join(feature_payload.get("image_quality_flags", [])) or "none"
 
     lines = [
         f"Document type: {modality}",
@@ -316,6 +455,8 @@ def build_embedding_context_text(
         f"Features: {features}",
         f"Spec facts: {spec_facts}",
         f"Image traits: {image_traits}",
+        f"Image profile: {image_profile}",
+        f"Image quality flags: {image_quality_flags}",
     ]
 
     if modality in {"finance", "summary", "pdf"} and finance_snapshot:

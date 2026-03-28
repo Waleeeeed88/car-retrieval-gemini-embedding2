@@ -1,0 +1,25 @@
+# 2026 BMW i4 Summary
+
+- Dataset ID: 58
+- Slug: `bmw_i4_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from BMWUSA pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: BMWUSA.com starting MSRP shown: $57,900
+- Total before tax: BMWUSA.com lists a starting MSRP of $57,900 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: sedan
+- Drivetrain: RWD/AWD
+- Fuel type: electric
+- Vehicle summary: All-electric Gran Coupe for buyers who want BMW sedan styling with EV positioning and premium-brand cachet.
+- Vehicle summary: BMW places the i4 as a mainstream EV option within its passenger-car lineup rather than only as a halo product.
+- Best for: EV shoppers who want a premium badge and sedan-like shape instead of a crossover.
+- Notes: Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.bmwusa.com/vehicles/i-series/i4/bmw-i4-gran-coupe.html
+- All models source URL: https://www.bmwusa.com/all-bmws.html
+- Finance source URL: https://www.bmwusa.com/financial-services.html
+- Offers source URL: https://www.bmwusa.com/special-offers.html
+- Payment estimator URL: https://www.bmwusa.com/financial-services/car-payment-estimator.html
+- Ownership source URL: https://www.bmwusa.com/explore/bmw-value.html
+- Image note: A BMW i4 Electric Vehicle

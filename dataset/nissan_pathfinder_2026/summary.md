@@ -1,0 +1,22 @@
+# 2026 Nissan Pathfinder Summary
+
+- Dataset ID: 118
+- Slug: `nissan_pathfinder_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Nissan pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Nissan public page example vehicle shown price: $52,400.
+- Total before tax: Nissan public page example vehicle shown price: $52,400. $1,545 destination and handling charge referenced in Nissan's public Pathfinder pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- Category: suv
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Experience the 2026 Nissan Pathfinder: Midsize SUV with 6,000 lbs towing ability, seating for 8, and advanced 4x4. Delve into its features and pricing today!
+- Best for: Households that still need a conventional three-row SUV with towing and available off-pavement capability.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.nissanusa.com/vehicles/crossovers-suvs/pathfinder.html
+- Lineup source URL: https://www.nissanusa.com/vehicles/new.html
+- Finance source URL: https://www.nissanfinance.com/s/
+- Manuals source URL: https://www.nissanusa.com/owners/manuals-guides.html
+- Image source URL: https://www.nissanusa.com/content/dam/Nissan/us/vehicles/pathfinder/2026/overview/rock-creek-banner/2026-nissan-pathfinder-scenic-overlook-exterior-design.png

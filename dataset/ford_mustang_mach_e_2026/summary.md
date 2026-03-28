@@ -1,0 +1,23 @@
+# 2026 Ford Mustang Mach-E Summary
+
+- Dataset ID: 40
+- Slug: `ford_mustang_mach_e_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Ford.com pricing and finance support pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Ford.com starting MSRP shown: $37,795
+- Total before tax: Ford.com lists a starting MSRP of $37,795 before destination/delivery, taxes, title, registration, and dealer fees.
+- Category: suv
+- Drivetrain: RWD or AWD
+- Fuel type: electric
+- Vehicle summary: Battery-electric crossover that carries Mustang branding into the EV space.
+- Vehicle summary: Ford markets Mach-E around all-electric driving, multiple battery and trim personalities, and performance or style packages depending configuration.
+- Best for: Best fit for EV buyers who want a mainstream service network and sportier design than a typical compact crossover.
+- Notes: Snapshot uses Ford.com public pricing and model-page content on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.ford.com/suvs/mach-e/
+- Finance source URL: https://www.ford.com/finance/
+- Payment calculator URL: https://www.ford.com/finance/payment-calculator/
+- Warranty source URL: https://www.ford.com/support/owner-manuals-details/
+- Image note: 2026 Ford Mustang Mach-E with Sport Appearance Package

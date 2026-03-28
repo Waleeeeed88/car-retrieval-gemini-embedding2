@@ -1,0 +1,22 @@
+# 2026 Nissan Sentra Summary
+
+- Dataset ID: 111
+- Slug: `nissan_sentra_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Nissan pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Nissan public page example vehicle shown price: $25,000.
+- Total before tax: Nissan public page example vehicle shown price: $25,000. $1,245 destination and handling charge referenced in Nissan's public Sentra pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- Category: sedan
+- Drivetrain: FWD
+- Fuel type: gasoline
+- Vehicle summary: Experience the all-new 2026 Nissan Sentra with 149 HP, 30/38 MPG, and advanced tech features. Discover Sentra features, trims, specs, pricing, and more.
+- Best for: Compact-sedan shoppers who want a straightforward current Nissan sedan entry with updated styling and safety tech.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.nissanusa.com/vehicles/cars/sentra.html
+- Lineup source URL: https://www.nissanusa.com/vehicles/new.html
+- Finance source URL: https://www.nissanfinance.com/s/
+- Manuals source URL: https://www.nissanusa.com/owners/manuals-guides.html
+- Image source URL: https://www.nissanusa.com/content/dam/Nissan/us/vehicles/sentra/2026/overview/mosaic/2026-nissan-sentra-side-view-parked-front-building-windows-subtle-lighting-dusk.jpg

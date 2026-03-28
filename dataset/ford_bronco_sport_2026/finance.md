@@ -1,0 +1,23 @@
+# 2026 Ford Bronco Sport Finance Snapshot
+
+- Market: US
+- MSRP: Ford.com starting MSRP shown: $31,845
+- Total before tax: Ford.com lists a starting MSRP of $31,845 before destination/delivery, taxes, title, registration, and dealer fees.
+- APR: Ford support disclosures say special APR offers require Ford Credit financing and not all buyers qualify; current rates vary by model, ZIP code, and credit profile.
+- Finance payment: Use Ford Credit and the Ford payment calculator for location-specific estimates.
+- Finance down payment: Varies by lender approval, trim, incentives, and customer structure.
+- Lease payment: Use Ford's payment calculator or dealer quote for current lease estimates.
+- Lease term: term varies
+- Due at signing: Varies by dealer, taxes, fees, and any available incentives.
+- Incentives: Ford notes that available offers and incentives can vary and should be confirmed with a local dealer.
+- Warranty: See Ford Owner?s Manual & Warranty resources for the current model-year warranty guide and exact model-specific coverage.
+- Best for: Small-SUV buyers who value standard AWD and outdoors-oriented packaging.
+- Financial strengths: Starts near mainstream compact-SUV pricing while keeping a stronger adventure identity.
+- Financial concerns: Special appearance or off-road-oriented trims can add cost without changing the core footprint.
+- Notes: Snapshot uses Ford.com public pricing and Ford support finance disclosures on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.ford.com/suvs/bronco-sport/
+  - https://www.ford.com/finance/
+  - https://www.ford.com/finance/payment-calculator/
+  - https://www.ford.com/support/owner-manuals-details/

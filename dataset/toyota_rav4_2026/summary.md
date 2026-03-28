@@ -1,0 +1,24 @@
+# 2026 Toyota RAV4 Summary
+
+- Dataset ID: 44
+- Slug: `toyota_rav4_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Toyota.com pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Toyota.com starting MSRP shown: $31,900
+- Total before tax: Toyota.com lists a starting MSRP of $31,900 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- Category: suv
+- Drivetrain: FWD/AWD
+- Fuel type: gasoline/hybrid
+- Vehicle summary: Compact SUV with mainstream appeal across commuter, family, and fleet-friendly use cases.
+- Vehicle summary: Toyota positions RAV4 as one of its broadest-volume choices, with gas and electrified variants in the same family.
+- Best for: Buyers who want the safest mainstream bet in Toyota's compact SUV range.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.toyota.com/rav4/
+- All vehicles source URL: https://www.toyota.com/all-vehicles/
+- Deals source URL: https://www.toyota.com/deals-incentives/
+- Payment estimator URL: https://www.toyota.com/payment-estimator/
+- Warranty source URL: https://www.toyota.com/owners/warranty-owners-manuals/
+- Image note: RAV4

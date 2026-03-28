@@ -1,0 +1,53 @@
+{
+  "id": "104",
+  "slug": "rivian_r1t_quad_2026",
+  "make": "Rivian",
+  "model": "R1T Quad",
+  "year": 2026,
+  "market": "US",
+  "category": "pickup",
+  "drivetrain": "AWD",
+  "fuel_type": "electric",
+  "price_range": "$115,990",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from live official Rivian pages",
+    "image": "https://images.ctfassets.net/2md5qhoeajym/7amTVJoqSqPIrLtQw0IiMm/9f3397a537fb5812d8b65dd13c2d4a01/20240519_Dustin_Akssland_NOLA_Peregrine_08919_3000px_FINAL__1_.jpg"
+  },
+  "source_urls": {
+    "model_page": "https://rivian.com/en-US/r1t",
+    "warranty_page": "https://rivian.com/en-US/support/article/new-vehicle-limited-warranty-guide"
+  },
+  "finance_snapshot": {
+    "msrp": "Rivian R1T page shows: From $115,990.",
+    "total_before_tax": "Public Rivian pricing starts at $115,990 before taxes, registration, optional equipment, and local fees.",
+    "apr": "Rivian does not publish a universal APR on the main R1T page; final financing depends on approved credit and lender terms.",
+    "finance_payment": "Not shown as a standard finance example on the public R1T page.",
+    "finance_down_payment": "Not published on the public R1T page.",
+    "lease_payment": "Rivian config card shows estimated payment: $1,899/mo.",
+    "lease_term": "term details not shown on the public card snapshot",
+    "due_at_signing": "Not published in the visible public card snippet.",
+    "incentives": "Rivian pricing and estimates can change and should be verified in the live build or purchase flow.",
+    "warranty": "See Rivian's New Vehicle Limited Warranty guide for current coverage terms.",
+    "best_for": "Buyers who want the highest-positioned current R1T configuration.",
+    "financial_strengths": "Acts as the Rivian truck halo with the clearest top-of-range positioning.",
+    "financial_concerns": "Very high entry price increases payment sensitivity and cross-shopping pressure.",
+    "notes": "Snapshot uses Rivian U.S. live R1T pricing card on March 26, 2026.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Official Rivian R1T share image reused across current R1T configurations in this dataset pass."
+  }
+}

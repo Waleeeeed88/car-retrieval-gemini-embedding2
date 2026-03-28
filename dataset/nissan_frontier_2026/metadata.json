@@ -1,0 +1,55 @@
+{
+  "id": "120",
+  "slug": "nissan_frontier_2026",
+  "make": "Nissan",
+  "model": "Frontier",
+  "year": 2026,
+  "market": "US",
+  "category": "pickup",
+  "drivetrain": "varies",
+  "fuel_type": "gasoline",
+  "price_range": "$47,965 shown",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from live official Nissan USA model pages and Nissan Finance site access check",
+    "image": "https://www.nissanusa.com/content/dam/Nissan/us/vehicles/frontier/2026/overview/pfa/nissan-frontier-pickup-heisman-house-road-trip-xl.jpg"
+  },
+  "source_urls": {
+    "model_page": "https://www.nissanusa.com/vehicles/trucks/frontier.html",
+    "lineup_page": "https://www.nissanusa.com/vehicles/new.html",
+    "finance_page": "https://www.nissanfinance.com/s/",
+    "owners_manuals": "https://www.nissanusa.com/owners/manuals-guides.html"
+  },
+  "finance_snapshot": {
+    "msrp": "Nissan public page example vehicle shown price: $47,965.",
+    "total_before_tax": "Nissan public page example vehicle shown price: $47,965. $1,745 destination and handling charge referenced in Nissan's public Frontier pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.",
+    "apr": "Current APR was not cleanly exposed on the public Nissan model page in this pass; check Nissan Finance or retailer quoting for live programs.",
+    "finance_payment": "Use Nissan Finance or a retailer quote for current payment estimates.",
+    "finance_down_payment": "Varies by approved credit, taxes, fees, lender terms, and structure.",
+    "lease_payment": "Current public Nissan lease payment was not captured cleanly from the model page in this pass.",
+    "lease_term": "not captured in this pass",
+    "due_at_signing": "not captured in this pass",
+    "incentives": "Public Nissan offers can vary by ZIP code, dealer, and time period; verify live offers before using them operationally.",
+    "warranty": "See Nissan owner resources and manuals for current ownership documentation and vehicle details.",
+    "best_for": "Pickup buyers who want a simpler midsize truck with strong off-road and towing messaging.",
+    "financial_strengths": "Frontier stays easy to position as Nissan's durable, midsize-truck workhorse.",
+    "financial_concerns": "Shown-vehicle pricing can push the public number well above where base-trim truck shoppers expect to start.",
+    "notes": "Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical Nissan USA image per vehicle. Higher-resolution overview/profile assets were preferred over the low-resolution product cutouts."
+  }
+}

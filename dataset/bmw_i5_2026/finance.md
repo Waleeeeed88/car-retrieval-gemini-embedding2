@@ -1,0 +1,25 @@
+# 2026 BMW i5 Finance Snapshot
+
+- Market: US
+- MSRP: BMWUSA.com starting MSRP shown: $67,100
+- Total before tax: BMWUSA.com lists a starting MSRP of $67,100 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- APR: BMW financing and lease programs vary by model, ZIP code, term, and approved credit; check BMW special offers for current regional programs.
+- Finance payment: Use BMW?s car payment estimator or a BMW Center quote for current monthly payment estimates.
+- Finance down payment: Varies by lender approval, taxes, fees, incentives, and buyer structure.
+- Lease payment: Lease estimates vary by region, trim, mileage allowance, and current BMW Financial Services programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: BMW publishes regional lease and financing offers that can change frequently and should be confirmed with a local BMW Center.
+- Warranty: See BMW value and ownership resources for current warranty, maintenance, and roadside-assistance details.
+- Best for: Premium EV shoppers who want a midsize executive sedan rather than a luxury SUV.
+- Financial strengths: Sits in a premium EV price band where badge strength and design matter to buyers.
+- Financial concerns: Higher EV purchase price and optional content can push it deep into luxury-budget territory.
+- Notes: Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.bmwusa.com/vehicles/i-series/i5/bmw-i5-overview.html
+  - https://www.bmwusa.com/all-bmws.html
+  - https://www.bmwusa.com/financial-services.html
+  - https://www.bmwusa.com/special-offers.html
+  - https://www.bmwusa.com/financial-services/car-payment-estimator.html
+  - https://www.bmwusa.com/explore/bmw-value.html

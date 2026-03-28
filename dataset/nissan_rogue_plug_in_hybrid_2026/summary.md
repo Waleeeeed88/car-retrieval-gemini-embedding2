@@ -1,0 +1,22 @@
+# 2026 Nissan Rogue Plug-in Hybrid Summary
+
+- Dataset ID: 116
+- Slug: `nissan_rogue_plug_in_hybrid_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Nissan pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Nissan public page example vehicle shown price: $50,620.
+- Total before tax: Nissan public page example vehicle shown price: $50,620. $2,190 destination and handling charge referenced in Nissan's public Rogue Plug-in Hybrid pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- Category: suv
+- Drivetrain: AWD
+- Fuel type: plug-in hybrid
+- Vehicle summary: Discover the 2026 Nissan Rogue PHEV, a 7-passenger AWD SUV with up to 420 miles of total range, electric driving capability, and family-ready versatility.
+- Best for: Family buyers who want Nissan's electrified three-row-adjacent utility pitch rather than a traditional gas-only Rogue.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.nissanusa.com/vehicles/crossovers-suvs/rogue-plug-in-hybrid.html
+- Lineup source URL: https://www.nissanusa.com/vehicles/new.html
+- Finance source URL: https://www.nissanfinance.com/s/
+- Manuals source URL: https://www.nissanusa.com/owners/manuals-guides.html
+- Image source URL: https://www.nissanusa.com/content/dam/Nissan/us/vehicles/rogue-plug-in-hybrid/2026/overview/PFA/2026-nissan-rogue-plug-in-hybrid-suv-xl.jpg

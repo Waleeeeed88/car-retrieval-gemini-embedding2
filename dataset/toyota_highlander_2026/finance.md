@@ -1,23 +1,24 @@
 # 2026 Toyota Highlander Finance Snapshot
 
 - Market: US
-- MSRP: $45,570
-- Total before tax: Starting MSRP about $45,570 before tax, destination, and dealer fees.
-- APR: Toyota routes current finance offers through ZIP-based Local Specials.
-- Finance payment: Use Toyota Local Specials or a dealer quote.
-- Finance down payment: Varies by ZIP, trim, and credit profile.
-- Lease payment: Use Toyota Local Specials or a dealer quote.
+- MSRP: Toyota.com starting MSRP shown: $45,570
+- Total before tax: Toyota.com lists a starting MSRP of $45,570 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- APR: Toyota financing offers vary by ZIP code, model, term, and approved credit; check Toyota deals and incentives for current regional programs.
+- Finance payment: Use the Toyota payment estimator or dealer quote for current monthly payment estimates.
+- Finance down payment: Varies by lender approval, incentives, taxes, fees, and buyer structure.
+- Lease payment: Lease estimates vary by region, trim, mileage allowance, and available specials.
 - Lease term: term varies
-- Due at signing: Varies by ZIP, trim, and dealer.
-- Incentives: Toyota's Highlander page includes offer discovery but keeps exact APR and lease terms behind ZIP/dealer context.
-- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
-- Best for: Three-row shoppers who want Toyota reliability without stepping up to a full-size SUV.
-- Financial strengths: Mainstream three-row pricing plus ToyotaCare can keep ownership cost manageable for families.
-- Financial concerns: Localized incentives and destination charges make the final out-the-door number meaningfully higher than the entry MSRP.
-- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
-- Snapshot date: March 25, 2026
+- Due at signing: Varies by dealer, taxes, fees, first payment, and any available incentives.
+- Incentives: Toyota advertises regional deals and incentives that can change frequently and should be confirmed locally.
+- Warranty: See Toyota Manuals and Warranties for the current model-year guide and exact coverage details.
+- Best for: Households that need three rows but still want a mainstream midsize footprint.
+- Financial strengths: Strong brand trust and familiar three-row packaging make the value case easy to understand.
+- Financial concerns: As transaction prices rise, buyers may compare it directly with larger vehicles or entry luxury alternatives.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
 - Sources:
   - https://www.toyota.com/highlander/
-  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/all-vehicles/
+  - https://www.toyota.com/deals-incentives/
+  - https://www.toyota.com/payment-estimator/
   - https://www.toyota.com/owners/warranty-owners-manuals/
-  - https://www.toyota.com/electrified-vehicles/warranty/

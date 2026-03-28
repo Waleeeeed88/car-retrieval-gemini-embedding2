@@ -1,0 +1,21 @@
+# 2026 Rivian R1T Tri Summary
+
+- Dataset ID: 103
+- Slug: `rivian_r1t_tri_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Rivian pricing pages where available
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Rivian R1T page shows: From $100,990.
+- Total before tax: Public Rivian pricing starts at $100,990 before taxes, registration, optional equipment, and local fees.
+- Category: pickup
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: Performance-focused current R1T trim positioned above Dual in Rivian's live lineup.
+- Vehicle summary: Page specs highlight stronger acceleration and output than the Dual trims.
+- Best for: Buyers who want a more aggressive R1T performance step without paying full Quad pricing.
+- Notes: Snapshot uses Rivian U.S. live R1T pricing card on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model Page URL: https://rivian.com/en-US/r1t
+- Warranty Page URL: https://rivian.com/en-US/support/article/new-vehicle-limited-warranty-guide
+- Image source URL: https://images.ctfassets.net/2md5qhoeajym/7amTVJoqSqPIrLtQw0IiMm/9f3397a537fb5812d8b65dd13c2d4a01/20240519_Dustin_Akssland_NOLA_Peregrine_08919_3000px_FINAL__1_.jpg

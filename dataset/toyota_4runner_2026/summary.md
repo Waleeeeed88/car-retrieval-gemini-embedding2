@@ -1,0 +1,24 @@
+# 2026 Toyota 4Runner Summary
+
+- Dataset ID: 46
+- Slug: `toyota_4runner_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Toyota.com pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Toyota.com starting MSRP shown: $41,870
+- Total before tax: Toyota.com lists a starting MSRP of $41,870 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- Category: suv
+- Drivetrain: 4WD
+- Fuel type: gasoline/hybrid
+- Vehicle summary: Truck-based SUV positioned for buyers who care more about rugged image and adventure use than crossover softness.
+- Vehicle summary: Toyota keeps 4Runner in the lineup for buyers who want a more traditional utility-focused SUV character.
+- Best for: Buyers who want Toyota SUV branding with stronger off-road identity than a typical crossover.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.toyota.com/4runner/
+- All vehicles source URL: https://www.toyota.com/all-vehicles/
+- Deals source URL: https://www.toyota.com/deals-incentives/
+- Payment estimator URL: https://www.toyota.com/payment-estimator/
+- Warranty source URL: https://www.toyota.com/owners/warranty-owners-manuals/
+- Image note: 4Runner

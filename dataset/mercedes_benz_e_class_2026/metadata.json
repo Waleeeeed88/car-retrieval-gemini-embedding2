@@ -1,0 +1,56 @@
+{
+  "id": "68",
+  "slug": "mercedes_benz_e_class_2026",
+  "make": "Mercedes-Benz",
+  "model": "E-Class Sedan",
+  "year": 2026,
+  "market": "US",
+  "category": "sedan",
+  "drivetrain": "varies",
+  "fuel_type": "gasoline",
+  "price_range": "$63k+",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from official Mercedes-Benz pricing and finance pages",
+    "image": "https://www.mbusa.com/content/dam/mb-nafta/us/myco/my26/e-class/e-sedan/class-page/2026-E-SEDAN-HC-D.jpg"
+  },
+  "source_urls": {
+    "model_page": "https://www.mbusa.com/en/vehicles/class/e-class/sedan",
+    "all_vehicles": "https://www.mbusa.com/en/all-vehicles",
+    "special_offers": "https://www.mbusa.com/en/special-offers",
+    "financial_services": "https://www.mbfs.com/home",
+    "owners_manuals": "https://www.mbusa.com/en/owners/manuals"
+  },
+  "finance_snapshot": {
+    "msrp": "MBUSA.com starting price shown: $63,900",
+    "total_before_tax": "MBUSA.com lists a starting price of $63,900 before destination, taxes, title, registration, dealer fees, and optional equipment.",
+    "apr": "Mercedes-Benz financing and lease programs vary by model, region, term, and approved credit; check official special offers and MBFS for current programs.",
+    "finance_payment": "Use Mercedes-Benz dealer quoting or Mercedes-Benz Financial Services tools for current payment estimates.",
+    "finance_down_payment": "Varies by approved credit, taxes, fees, incentives, and deal structure.",
+    "lease_payment": "Lease estimates vary by model, mileage allowance, region, and current official programs.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by taxes, fees, first payment, incentives, and retailer structure.",
+    "incentives": "Mercedes-Benz special offers can change frequently and should be confirmed with a local retailer.",
+    "warranty": "See Mercedes-Benz owner and service resources for current warranty and maintenance details.",
+    "best_for": "Buyers who want a more upscale executive sedan without moving all the way to flagship pricing.",
+    "financial_strengths": "Executive-sedan positioning gives it strong premium credibility and broad business-use appeal.",
+    "financial_concerns": "As with many executive sedans, well-equipped builds can climb quickly into higher budget bands.",
+    "notes": "Snapshot uses Mercedes-Benz USA pricing and official finance pages on March 26, 2026.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle. Local image is downloaded from the official Mercedes-Benz USA hero asset."
+  }
+}

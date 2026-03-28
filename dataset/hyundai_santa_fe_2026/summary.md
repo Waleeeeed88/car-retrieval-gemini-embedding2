@@ -1,0 +1,23 @@
+# 2026 Hyundai Santa Fe Summary
+
+- Dataset ID: 128
+- Slug: `hyundai_santa_fe_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Hyundai USA pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Hyundai vehicles page shows Starting MSRP: $35,050.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $35,050 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- Category: suv
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: The 2026 Santa Fe compact SUV features a wider, aggressive front grille, digital cluster, available HTRAC AWD and up to 271 hp. Build one at Hyundai USA.
+- Best for: Families who want Hyundai's bolder midsize utility offering without going all the way to Palisade size.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.hyundaiusa.com/us/en/vehicles/santa-fe
+- Lineup source URL: https://www.hyundaiusa.com/us/en/vehicles
+- Offers source URL: https://www.hyundaiusa.com/us/en/offers
+- Manuals/Warranties source URL: https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+- Warranty source URL: https://www.hyundaiusa.com/us/en/assurance/america-best-warranty
+- Image source URL: https://s7d1.scene7.com/is/image/hyundai/2024-santa-fe-search-results?wid=1200&hei=630&qlt=85,0&fmt=webp

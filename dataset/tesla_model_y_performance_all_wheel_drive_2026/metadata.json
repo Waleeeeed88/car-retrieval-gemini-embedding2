@@ -1,0 +1,53 @@
+{
+  "id": "94",
+  "slug": "tesla_model_y_performance_all_wheel_drive_2026",
+  "make": "Tesla",
+  "model": "Model Y Performance All-Wheel Drive",
+  "year": 2026,
+  "market": "US",
+  "category": "suv",
+  "drivetrain": "AWD",
+  "fuel_type": "electric",
+  "price_range": "$57,490",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from live Tesla Design Studio pricing and finance views",
+    "image": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-2-Social.png"
+  },
+  "source_urls": {
+    "model_page": "https://www.tesla.com/modely/design#overview",
+    "vehicle_warranty": "https://www.tesla.com/support/vehicle-warranty"
+  },
+  "finance_snapshot": {
+    "msrp": "Tesla Design Studio cash price shown: $57,490",
+    "total_before_tax": "Tesla Design Studio shows a vehicle price of $57,490. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.",
+    "apr": "Current finance example shown by Tesla: 0% APR, $3,300 down, 72 mo.",
+    "finance_payment": "Tesla Design Studio finance estimate shown: $899 /mo.",
+    "finance_down_payment": "0% APR, $3,300 down, 72 mo",
+    "lease_payment": "Varies by ZIP code, eligibility, and current Tesla lease availability.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by Tesla financing or lease terms, taxes, fees, and buyer profile.",
+    "incentives": "Tesla may show estimated savings or tax-related messaging in the Design Studio; eligibility and final value vary.",
+    "warranty": "See Tesla vehicle warranty details for current basic and battery/drive-unit coverage.",
+    "best_for": "Buyers who want a fast Tesla crossover rather than a standard EV family hauler.",
+    "financial_strengths": "Performance positioning gives the Model Y a stronger halo role in Tesla's highest-volume body style.",
+    "financial_concerns": "At this price, buyers start comparing it against broader premium and performance EV choices.",
+    "notes": "Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this dataset pass uses current official configurations to create 10 Tesla entries.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle. Tesla entries reuse one official Tesla image per base model across related configurations."
+  }
+}

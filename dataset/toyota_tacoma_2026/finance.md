@@ -1,0 +1,24 @@
+# 2026 Toyota Tacoma Finance Snapshot
+
+- Market: US
+- MSRP: Toyota.com starting MSRP shown: $32,245
+- Total before tax: Toyota.com lists a starting MSRP of $32,245 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- APR: Toyota financing offers vary by ZIP code, model, term, and approved credit; check Toyota deals and incentives for current regional programs.
+- Finance payment: Use the Toyota payment estimator or dealer quote for current monthly payment estimates.
+- Finance down payment: Varies by lender approval, incentives, taxes, fees, and buyer structure.
+- Lease payment: Lease estimates vary by region, trim, mileage allowance, and available specials.
+- Lease term: term varies
+- Due at signing: Varies by dealer, taxes, fees, first payment, and any available incentives.
+- Incentives: Toyota advertises regional deals and incentives that can change frequently and should be confirmed locally.
+- Warranty: See Toyota Manuals and Warranties for the current model-year guide and exact coverage details.
+- Best for: Buyers who want pickup flexibility without moving into a full-size truck payment tier.
+- Financial strengths: Strong name recognition in the midsize truck segment and broad trim visibility.
+- Financial concerns: Popular truck trims and accessories can push the total cost well above the base MSRP snapshot.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.toyota.com/tacoma/
+  - https://www.toyota.com/all-vehicles/
+  - https://www.toyota.com/deals-incentives/
+  - https://www.toyota.com/payment-estimator/
+  - https://www.toyota.com/owners/warranty-owners-manuals/

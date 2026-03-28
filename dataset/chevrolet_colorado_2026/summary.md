@@ -1,0 +1,25 @@
+# 2026 Chevrolet Colorado Summary
+
+- Dataset ID: 78
+- Slug: `chevrolet_colorado_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Chevrolet pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Chevrolet.com starting price shown: $32,400
+- Total before tax: Chevrolet.com lists a starting price of $32,400 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: truck
+- Drivetrain: 2WD/4WD
+- Fuel type: gasoline
+- Vehicle summary: Midsize pickup built for buyers who need truck utility but do not want full-size size and spend.
+- Vehicle summary: Colorado fills Chevrolet's smaller-truck role for lifestyle, light-work, and outdoor-use customers.
+- Best for: Truck shoppers who want Chevy pickup utility without moving into full-size cost and footprint.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.chevrolet.com/trucks/colorado
+- All vehicles source URL: https://www.chevrolet.com/vehicles
+- Current offers URL: https://www.chevrolet.com/current-offers
+- Special offers URL: https://www.chevrolet.com/special-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.chevrolet.com/support/vehicle/manuals-guides
+- Image note: 2026 Chevrolet Colorado

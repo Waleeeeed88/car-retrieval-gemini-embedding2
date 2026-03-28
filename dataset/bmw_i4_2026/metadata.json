@@ -1,0 +1,57 @@
+{
+  "id": "58",
+  "slug": "bmw_i4_2026",
+  "make": "BMW",
+  "model": "i4",
+  "year": 2026,
+  "market": "US",
+  "category": "sedan",
+  "drivetrain": "RWD/AWD",
+  "fuel_type": "electric",
+  "price_range": "$57k-$70k+",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from official BMW USA pricing and finance pages",
+    "image": "local_drop:img/i42026.jpg"
+  },
+  "source_urls": {
+    "model_page": "https://www.bmwusa.com/vehicles/i-series/i4/bmw-i4-gran-coupe.html",
+    "all_models": "https://www.bmwusa.com/all-bmws.html",
+    "financial_services": "https://www.bmwusa.com/financial-services.html",
+    "special_offers": "https://www.bmwusa.com/special-offers.html",
+    "payment_estimator": "https://www.bmwusa.com/financial-services/car-payment-estimator.html",
+    "bmw_value": "https://www.bmwusa.com/explore/bmw-value.html"
+  },
+  "finance_snapshot": {
+    "msrp": "BMWUSA.com starting MSRP shown: $57,900",
+    "total_before_tax": "BMWUSA.com lists a starting MSRP of $57,900 before destination, taxes, title, registration, dealer fees, and optional equipment.",
+    "apr": "BMW financing and lease programs vary by model, ZIP code, term, and approved credit; check BMW special offers for current regional programs.",
+    "finance_payment": "Use BMW?s car payment estimator or a BMW Center quote for current monthly payment estimates.",
+    "finance_down_payment": "Varies by lender approval, taxes, fees, incentives, and buyer structure.",
+    "lease_payment": "Lease estimates vary by region, trim, mileage allowance, and current BMW Financial Services programs.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by taxes, fees, first payment, incentives, and retailer structure.",
+    "incentives": "BMW publishes regional lease and financing offers that can change frequently and should be confirmed with a local BMW Center.",
+    "warranty": "See BMW value and ownership resources for current warranty, maintenance, and roadside-assistance details.",
+    "best_for": "EV shoppers who want a premium badge and sedan-like shape instead of a crossover.",
+    "financial_strengths": "Combines BMW brand recognition with a clearly defined electric-vehicle identity.",
+    "financial_concerns": "Charging setup, insurance, and EV depreciation trends can weigh heavily on the ownership equation.",
+    "notes": "Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle. Canonical image refreshed on March 28, 2026 from a user-provided replacement image."
+  }
+}

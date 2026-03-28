@@ -1,0 +1,24 @@
+# 2026 Mercedes-Benz CLE Coupe Summary
+
+- Dataset ID: 70
+- Slug: `mercedes_benz_cle_coupe_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Mercedes-Benz pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: MBUSA.com starting price shown: $59,550
+- Total before tax: MBUSA.com lists a starting price of $59,550 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: coupe
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Buyers who want a two-door Mercedes with style-first appeal and luxury-brand presence.
+- Vehicle summary: Mercedes-Benz positions the CLE Coupe as part of its current U.S. luxury lineup with styling, technology, and brand-led appeal.
+- Best for: Buyers who want a two-door Mercedes with style-first appeal and luxury-brand presence.
+- Notes: Snapshot uses Mercedes-Benz USA pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.mbusa.com/en/vehicles/class/cle/coupe
+- All vehicles source URL: https://www.mbusa.com/en/all-vehicles
+- Offers source URL: https://www.mbusa.com/en/special-offers
+- Finance source URL: https://www.mbfs.com/home
+- Owners manuals URL: https://www.mbusa.com/en/owners/manuals
+- Image note: Logo

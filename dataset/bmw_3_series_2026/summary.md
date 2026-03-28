@@ -1,0 +1,25 @@
+# 2026 BMW 3 Series Summary
+
+- Dataset ID: 55
+- Slug: `bmw_3_series_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from BMWUSA pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: BMWUSA.com starting MSRP shown: $48,000
+- Total before tax: BMWUSA.com lists a starting MSRP of $48,000 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: sedan
+- Drivetrain: RWD/AWD
+- Fuel type: gasoline
+- Vehicle summary: Compact luxury sports sedan that sits at the center of BMW?s traditional performance-sedan identity.
+- Vehicle summary: BMW continues to use the 3 Series as a key entry in premium sedan shopping for both enthusiasts and daily commuters.
+- Best for: Drivers who still want a premium sport sedan rather than moving into an SUV.
+- Notes: Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.bmwusa.com/vehicles/3-series/3-series-sedan/bmw-3-series-sedan.html
+- All models source URL: https://www.bmwusa.com/all-bmws.html
+- Finance source URL: https://www.bmwusa.com/financial-services.html
+- Offers source URL: https://www.bmwusa.com/special-offers.html
+- Payment estimator URL: https://www.bmwusa.com/financial-services/car-payment-estimator.html
+- Ownership source URL: https://www.bmwusa.com/explore/bmw-value.html
+- Image note: 3 Series

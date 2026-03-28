@@ -1,0 +1,24 @@
+# 2026 Hyundai Venue Finance Snapshot
+
+- Market: US
+- MSRP: Hyundai vehicles page shows Starting MSRP: $20,550.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $20,550 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- APR: Current APR varies by model, term, region, and approved credit. Check Hyundai USA offers for live programs.
+- Finance payment: Use Hyundai offers and retailer quoting for current payment estimates.
+- Finance down payment: Varies by approved credit, incentives, fees, and transaction structure.
+- Lease payment: Current lease examples vary by ZIP code and offer program. Check Hyundai USA offers for live lease terms.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, incentives, first payment, and deal structure.
+- Incentives: Hyundai USA publishes model-dependent offers that can change frequently by region and date.
+- Warranty: See Hyundai manuals and warranty resources for current ownership documentation and warranty details.
+- Best for: Budget-focused city drivers who want Hyundai's smallest current crossover.
+- Financial strengths: Lowest entry price in this Hyundai batch keeps Venue positioned as the easiest point of entry.
+- Financial concerns: Smaller footprint and simpler packaging mean it can be skipped quickly by shoppers who want more space or AWD.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.hyundaiusa.com/us/en/vehicles/venue
+  - https://www.hyundaiusa.com/us/en/vehicles
+  - https://www.hyundaiusa.com/us/en/offers
+  - https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+  - https://www.hyundaiusa.com/us/en/assurance/america-best-warranty

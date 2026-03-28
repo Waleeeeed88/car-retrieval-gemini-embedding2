@@ -1,0 +1,24 @@
+# 2026 Mercedes-Benz GLA SUV Summary
+
+- Dataset ID: 61
+- Slug: `mercedes_benz_gla_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Mercedes-Benz pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: MBUSA.com starting price shown: $41,500
+- Total before tax: MBUSA.com lists a starting price of $41,500 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Entry-luxury SUV shoppers who want Mercedes-Benz branding in a smaller footprint.
+- Vehicle summary: Mercedes-Benz positions the GLA SUV as part of its current U.S. luxury lineup with styling, technology, and brand-led appeal.
+- Best for: Entry-luxury SUV shoppers who want Mercedes-Benz branding in a smaller footprint.
+- Notes: Snapshot uses Mercedes-Benz USA pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.mbusa.com/en/vehicles/class/gla/suv
+- All vehicles source URL: https://www.mbusa.com/en/all-vehicles
+- Offers source URL: https://www.mbusa.com/en/special-offers
+- Finance source URL: https://www.mbfs.com/home
+- Owners manuals URL: https://www.mbusa.com/en/owners/manuals
+- Image note: 2026 GLA SUV

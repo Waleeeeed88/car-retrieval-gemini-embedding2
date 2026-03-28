@@ -1,0 +1,25 @@
+# 2026 Chevrolet Equinox EV Finance Snapshot
+
+- Market: US
+- MSRP: Chevrolet.com starting price shown: $34,995
+- Total before tax: Chevrolet.com lists a starting price of $34,995 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- APR: Chevrolet financing and lease programs vary by model, region, term, and approved credit; check official current offers, special offers, and GM Financial for current programs.
+- Finance payment: Use Chevrolet shopping tools, dealer quotes, or GM Financial resources for current monthly payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, incentives, trade value, and deal structure.
+- Lease payment: Lease estimates vary by trim, region, mileage allowance, and current official Chevrolet programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: Chevrolet current offers and special offers can change frequently and should be confirmed with a local dealer.
+- Warranty: See Chevrolet owner manuals and support resources for current warranty and maintenance details.
+- Best for: Mainstream EV shoppers who want a recognizable crossover shape rather than a premium-price electric SUV.
+- Financial strengths: EV positioning in a mainstream crossover format makes it easier to compare against familiar gas SUVs.
+- Financial concerns: Charging setup, insurance, and EV depreciation concerns still matter for payment-sensitive buyers.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.chevrolet.com/electric/equinox-ev
+  - https://www.chevrolet.com/vehicles
+  - https://www.chevrolet.com/current-offers
+  - https://www.chevrolet.com/special-offers
+  - https://www.gmfinancial.com/en-us/home.html
+  - https://www.chevrolet.com/support/vehicle/manuals-guides

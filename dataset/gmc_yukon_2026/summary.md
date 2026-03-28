@@ -1,0 +1,24 @@
+# 2026 GMC Yukon Summary
+
+- Dataset ID: 83
+- Slug: `gmc_yukon_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $69,600
+- Total before tax: GMC.com lists a starting price of $69,600 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: RWD/4WD
+- Fuel type: gasoline/diesel
+- Vehicle summary: Full-size SUV meant for buyers who need real towing ability, passenger space, and road presence.
+- Vehicle summary: Yukon is a flagship GMC SUV for shoppers who are well beyond compact and midsize crossover needs.
+- Best for: Full-size SUV buyers who want maximum space, towing confidence, and a higher-end GMC presentation.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/suvs/yukon
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: Front Three-Quarters View of the GMC Yukon Parked on a Dirt Road

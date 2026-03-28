@@ -1,0 +1,23 @@
+# 2026 Ford Mustang Summary
+
+- Dataset ID: 34
+- Slug: `ford_mustang_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Ford.com pricing and finance support pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Ford.com starting MSRP shown: $32,640
+- Total before tax: Ford.com lists a starting MSRP of $32,640 before destination/delivery, taxes, title, registration, and dealer fees.
+- Category: coupe
+- Drivetrain: RWD
+- Fuel type: gasoline
+- Vehicle summary: Rear-wheel-drive sports car offered as fastback or convertible depending trim.
+- Vehicle summary: Ford positions Mustang around EcoBoost and V8 performance, multiple appearance packages, and a broad enthusiast-oriented trim range.
+- Best for: Best fit for buyers who want an affordable performance car with a large factory and aftermarket ecosystem.
+- Notes: Snapshot uses Ford.com public pricing and model-page content on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.ford.com/cars/mustang/
+- Finance source URL: https://www.ford.com/finance/
+- Payment calculator URL: https://www.ford.com/finance/payment-calculator/
+- Warranty source URL: https://www.ford.com/support/owner-manuals-details/
+- Image note: 2026 Ford Mustang EcoBoost Fastback screenshot from Ford.com

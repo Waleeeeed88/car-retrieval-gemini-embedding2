@@ -1,0 +1,22 @@
+# 2026 Nissan Murano Summary
+
+- Dataset ID: 117
+- Slug: `nissan_murano_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Nissan pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Nissan public page example vehicle shown price: $50,800.
+- Total before tax: Nissan public page example vehicle shown price: $50,800. $1,545 destination and handling charge referenced in Nissan's public Murano pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- Category: suv
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Drive the 2026 Nissan Murano luxury mid-size SUV with a VC-Turbo engine, available AWD, spa-like interior with massaging seats and Google built-in tech.
+- Best for: Shoppers who want Nissan's softer, comfort-focused midsize SUV positioning rather than a rugged three-row setup.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.nissanusa.com/vehicles/crossovers-suvs/murano.html
+- Lineup source URL: https://www.nissanusa.com/vehicles/new.html
+- Finance source URL: https://www.nissanfinance.com/s/
+- Manuals source URL: https://www.nissanusa.com/owners/manuals-guides.html
+- Image source URL: https://www.nissanusa.com/content/dam/Nissan/us/vehicles/murano/2026/overview/2026-nissan-murano-side-profile-silver-d-t.jpg

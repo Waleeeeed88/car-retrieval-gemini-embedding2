@@ -1,0 +1,23 @@
+# 2026 Nissan Kicks Finance Snapshot
+
+- Market: US
+- MSRP: Nissan public page example vehicle shown price: $31,165.
+- Total before tax: Nissan public page example vehicle shown price: $31,165. $1,545 destination and handling charge referenced in Nissan's public Kicks pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- APR: Current APR was not cleanly exposed on the public Nissan model page in this pass; check Nissan Finance or retailer quoting for live programs.
+- Finance payment: Use Nissan Finance or a retailer quote for current payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, lender terms, and structure.
+- Lease payment: Current public Nissan lease payment was not captured cleanly from the model page in this pass.
+- Lease term: not captured in this pass
+- Due at signing: not captured in this pass
+- Incentives: Public Nissan offers can vary by ZIP code, dealer, and time period; verify live offers before using them operationally.
+- Warranty: See Nissan owner resources and manuals for current ownership documentation and vehicle details.
+- Best for: Urban crossover shoppers who want a smaller footprint and current Nissan tech without moving up in size.
+- Financial strengths: Subcompact-crossover pricing and packaging keep Kicks in a broad mainstream value zone.
+- Financial concerns: The public page scrape yielded shown-vehicle pricing rather than a cleanly isolated base MSRP.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.nissanusa.com/vehicles/crossovers-suvs/kicks.html
+  - https://www.nissanusa.com/vehicles/new.html
+  - https://www.nissanfinance.com/s/
+  - https://www.nissanusa.com/owners/manuals-guides.html

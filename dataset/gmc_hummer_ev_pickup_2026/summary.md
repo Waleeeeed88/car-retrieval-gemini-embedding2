@@ -1,0 +1,24 @@
+# 2026 GMC HUMMER EV Pickup Summary
+
+- Dataset ID: 89
+- Slug: `gmc_hummer_ev_pickup_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $97,200
+- Total before tax: GMC.com lists a starting price of $97,200 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: truck
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: Flagship electric pickup built to emphasize image, power, and off-road theater more than value buying.
+- Vehicle summary: HUMMER EV Pickup targets shoppers who want an electric supertruck rather than a normal pickup.
+- Best for: Buyers with a very high budget who want a halo EV truck rather than a conventional work pickup.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/electric/hummer-ev/pickup-truck
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: Front Three-Quarter View of the GMC HUMMER EV Pickup Truck

@@ -1,0 +1,28 @@
+# 2026 GMC Sierra 1500 Finance Snapshot
+
+- Market: US
+- MSRP: GMC.com starting price shown: $38,300
+- Total before tax: GMC.com lists a starting price of $38,300 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- APR: GMC financing and lease programs vary by model, region, term, and approved credit; check official current offers and GM Financial for current programs.
+- Finance payment: Use GMC shopping tools, dealer quotes, or GM Financial resources for current monthly payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, incentives, trade value, and deal structure.
+- Lease payment: Lease estimates vary by trim, region, mileage allowance, and current official GMC programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: GMC current offers can change frequently and should be confirmed with a local dealer.
+- Warranty: See GMC owner manuals and support resources for current warranty and maintenance details.
+- Best for: Full-size truck buyers who want a more premium GMC take on towing, hauling, and daily use.
+- Financial strengths: Broad full-size truck demand and strong GMC brand positioning support its market role.
+- Financial concerns: Configuration-based pricing can escalate quickly, especially in premium trims.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.gmc.com/trucks/sierra/1500
+  - https://www.gmc.com/help-me-find/vehicle-lineup
+  - https://www.gmc.com/suvs
+  - https://www.gmc.com/trucks
+  - https://www.gmc.com/electric
+  - https://www.gmc.com/vans
+  - https://www.gmc.com/current-offers
+  - https://www.gmfinancial.com/en-us/home.html
+  - https://www.gmc.com/support/vehicle/manuals-guides

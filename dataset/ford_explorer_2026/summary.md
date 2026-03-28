@@ -1,0 +1,23 @@
+# 2026 Ford Explorer Summary
+
+- Dataset ID: 38
+- Slug: `ford_explorer_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Ford.com pricing and finance support pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Ford.com starting MSRP shown: $38,465
+- Total before tax: Ford.com lists a starting MSRP of $38,465 before destination/delivery, taxes, title, registration, and dealer fees.
+- Category: suv
+- Drivetrain: RWD or AWD
+- Fuel type: gasoline
+- Vehicle summary: Midsize three-row SUV designed for family hauling with a broad trim spread.
+- Vehicle summary: Ford highlights available BlueCruise, performance-oriented ST branding, and new Tremor positioning for buyers who want more than a base commuter SUV.
+- Best for: Best fit for buyers who need three rows but still want stronger styling and trim differentiation than a typical family crossover.
+- Notes: Snapshot uses Ford.com public pricing and model-page content on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.ford.com/suvs/explorer/
+- Finance source URL: https://www.ford.com/finance/
+- Payment calculator URL: https://www.ford.com/finance/payment-calculator/
+- Warranty source URL: https://www.ford.com/support/owner-manuals-details/
+- Image note: 2026 Ford Explorer Tremor parked on muddy rock

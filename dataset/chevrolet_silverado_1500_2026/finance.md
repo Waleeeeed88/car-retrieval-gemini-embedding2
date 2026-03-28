@@ -1,0 +1,25 @@
+# 2026 Chevrolet Silverado 1500 Finance Snapshot
+
+- Market: US
+- MSRP: Chevrolet.com starting price shown: $36,900
+- Total before tax: Chevrolet.com lists a starting price of $36,900 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- APR: Chevrolet financing and lease programs vary by model, region, term, and approved credit; check official current offers, special offers, and GM Financial for current programs.
+- Finance payment: Use Chevrolet shopping tools, dealer quotes, or GM Financial resources for current monthly payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, incentives, trade value, and deal structure.
+- Lease payment: Lease estimates vary by trim, region, mileage allowance, and current official Chevrolet programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: Chevrolet current offers and special offers can change frequently and should be confirmed with a local dealer.
+- Warranty: See Chevrolet owner manuals and support resources for current warranty and maintenance details.
+- Best for: Full-size truck buyers balancing work use, towing, and family duty in one vehicle.
+- Financial strengths: Full-size pickup demand and broad trim coverage give Silverado a strong market role.
+- Financial concerns: Transaction prices swing widely with trims and packages, making affordability highly configuration-dependent.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.chevrolet.com/trucks/silverado/1500
+  - https://www.chevrolet.com/vehicles
+  - https://www.chevrolet.com/current-offers
+  - https://www.chevrolet.com/special-offers
+  - https://www.gmfinancial.com/en-us/home.html
+  - https://www.chevrolet.com/support/vehicle/manuals-guides

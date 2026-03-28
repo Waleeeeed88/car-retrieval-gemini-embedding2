@@ -1,0 +1,25 @@
+# 2026 Chevrolet Trailblazer Summary
+
+- Dataset ID: 72
+- Slug: `chevrolet_trailblazer_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Chevrolet pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Chevrolet.com starting price shown: $23,300
+- Total before tax: Chevrolet.com lists a starting price of $23,300 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: FWD/AWD
+- Fuel type: gasoline
+- Vehicle summary: Small SUV positioned above Trax for shoppers who want a little more versatility and available all-weather traction.
+- Vehicle summary: Chevrolet uses Trailblazer to bridge the gap between entry-level crossover pricing and a more lifestyle-oriented feel.
+- Best for: Buyers who want a small SUV with more style and available AWD than the lowest-priced crossover choices.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.chevrolet.com/suvs/trailblazer
+- All vehicles source URL: https://www.chevrolet.com/vehicles
+- Current offers URL: https://www.chevrolet.com/current-offers
+- Special offers URL: https://www.chevrolet.com/special-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.chevrolet.com/support/vehicle/manuals-guides
+- Image note: 2026 Chevrolet Trailblazer

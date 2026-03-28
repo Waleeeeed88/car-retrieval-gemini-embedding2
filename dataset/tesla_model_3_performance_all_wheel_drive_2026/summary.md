@@ -1,0 +1,21 @@
+# 2026 Tesla Model 3 Performance All-Wheel Drive Summary
+
+- Dataset ID: 92
+- Slug: `tesla_model_3_performance_all_wheel_drive_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Tesla Design Studio pricing and finance views
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Tesla Design Studio cash price shown: $54,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $54,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- Category: sedan
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: Top Model 3 configuration for buyers who want the sharpest performance version of Tesla's sedan.
+- Vehicle summary: It trades the low-cost appeal of base Model 3 trims for a more premium and aggressive setup.
+- Best for: Buyers who want the smallest Tesla with the strongest acceleration and all-wheel-drive grip.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.tesla.com/model3/design#overview
+- Warranty source URL: https://www.tesla.com/support/vehicle-warranty
+- Image source URL: https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Social-LHD.jpg

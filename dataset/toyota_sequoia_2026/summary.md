@@ -1,0 +1,24 @@
+# 2026 Toyota Sequoia Summary
+
+- Dataset ID: 49
+- Slug: `toyota_sequoia_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Toyota.com pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Toyota.com starting MSRP shown: $64,825
+- Total before tax: Toyota.com lists a starting MSRP of $64,825 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- Category: suv
+- Drivetrain: 4WD
+- Fuel type: hybrid
+- Vehicle summary: Full-size SUV aimed at buyers who want large-family or towing use cases under a mainstream badge.
+- Vehicle summary: Toyota positions Sequoia above its midsize family SUVs for buyers who need full-size presence and capacity.
+- Best for: Large-family and utility-focused buyers who need a true full-size Toyota SUV.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.toyota.com/sequoia/
+- All vehicles source URL: https://www.toyota.com/all-vehicles/
+- Deals source URL: https://www.toyota.com/deals-incentives/
+- Payment estimator URL: https://www.toyota.com/payment-estimator/
+- Warranty source URL: https://www.toyota.com/owners/warranty-owners-manuals/
+- Image note: Sequoia

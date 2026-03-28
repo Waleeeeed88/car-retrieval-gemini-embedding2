@@ -1,0 +1,24 @@
+# 2026 GMC Terrain Summary
+
+- Dataset ID: 81
+- Slug: `gmc_terrain_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $30,200
+- Total before tax: GMC.com lists a starting price of $30,200 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: FWD/AWD
+- Fuel type: gasoline
+- Vehicle summary: Small SUV positioned for buyers who want everyday crossover utility with a more upscale GMC presentation.
+- Vehicle summary: Terrain is the GMC entry point for shoppers who do not need a larger three-row SUV or pickup truck.
+- Best for: Buyers who want a premium-leaning small SUV without moving into luxury-brand pricing.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/suvs/terrain
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: Exterior Front Three-Quarters View of the GMC Terrain Small SUV

@@ -1,0 +1,23 @@
+# 2026 Ford Bronco Sport Summary
+
+- Dataset ID: 36
+- Slug: `ford_bronco_sport_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Ford.com pricing and finance support pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Ford.com starting MSRP shown: $31,845
+- Total before tax: Ford.com lists a starting MSRP of $31,845 before destination/delivery, taxes, title, registration, and dealer fees.
+- Category: suv
+- Drivetrain: AWD
+- Fuel type: gasoline
+- Vehicle summary: Compact SUV with a more adventure-oriented brief than Escape.
+- Vehicle summary: Ford markets Bronco Sport around standard AWD, off-road flavor, and utility-focused trims for buyers who want light-trail confidence.
+- Best for: Best fit for buyers who want small-SUV size with a stronger outdoors image and more standard traction.
+- Notes: Snapshot uses Ford.com public pricing and model-page content on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.ford.com/suvs/bronco-sport/
+- Finance source URL: https://www.ford.com/finance/
+- Payment calculator URL: https://www.ford.com/finance/payment-calculator/
+- Warranty source URL: https://www.ford.com/support/owner-manuals-details/
+- Image note: Two 2026 Ford Bronco Sport vehicles parked side by side

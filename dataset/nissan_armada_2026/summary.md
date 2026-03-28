@@ -1,0 +1,22 @@
+# 2026 Nissan Armada Summary
+
+- Dataset ID: 119
+- Slug: `nissan_armada_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Nissan pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Nissan public page example vehicle shown price: $78,530.
+- Total before tax: Nissan public page example vehicle shown price: $78,530. $2,245 destination and handling charge referenced in Nissan's public Armada pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- Category: suv
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Discover the new 2026 Nissan Armada, a full-size SUV with a twin-turbo V6, impressive towing, seating for eight, and the off-road-ready PRO-4X trim.
+- Best for: Buyers who need Nissan's full-size SUV footprint, towing capacity, and top-end family utility.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html
+- Lineup source URL: https://www.nissanusa.com/vehicles/new.html
+- Finance source URL: https://www.nissanfinance.com/s/
+- Manuals source URL: https://www.nissanusa.com/owners/manuals-guides.html
+- Image source URL: https://www.nissanusa.com/content/dam/Nissan/us/vehicles/armada/2026/overview/2026-nissan-armada-graphite-gray-driveway-side-profile-v2.jpg

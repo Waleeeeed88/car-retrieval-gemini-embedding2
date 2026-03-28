@@ -1,18 +1,24 @@
 # 2026 Toyota Sienna Summary
 
-- Dataset ID: 09
+- Dataset ID: 50
 - Slug: `toyota_sienna_2026`
 - Market: US
-- PDF asset: `spec.pdf` copied from `09_Toyota Sienna (2026).pdf`
-- Finance asset: `finance.md` copied from `09_2026_Toyota_Sienna.md`
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Toyota.com pricing and shopping pages
 - Image asset: `images/front.jpg`
-- MSRP snapshot: $40,420
-- Total before tax: Starting MSRP about $40,420 before tax, destination, and dealer fees.
-- Best for: Large families who want hybrid fuel economy in a true minivan package.
-- Financial strengths: Hybrid efficiency can materially reduce family fuel spend, and ToyotaCare helps with early maintenance.
-- Financial concerns: Family-vehicle insurance, destination, and dealer-add-on risk can move the payment more than headline MSRP suggests.
-- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
-- Snapshot date: March 25, 2026
-- Spec source URL: https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/sienna_brochure.pdf
-- Image source page: https://www.toyota.com/sienna/photo-gallery/
-- Image note: Dataset stores one canonical local image per vehicle.
+- MSRP snapshot: Toyota.com starting MSRP shown: $40,420
+- Total before tax: Toyota.com lists a starting MSRP of $40,420 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- Category: minivan
+- Drivetrain: FWD/AWD
+- Fuel type: hybrid
+- Vehicle summary: Minivan focused on family-hauling practicality, sliding-door convenience, and predictable daily use.
+- Vehicle summary: Toyota keeps Sienna as the dedicated people-mover for buyers who care more about function than SUV image.
+- Best for: Families who need the most practical passenger and cargo packaging in Toyota's lineup.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.toyota.com/sienna/
+- All vehicles source URL: https://www.toyota.com/all-vehicles/
+- Deals source URL: https://www.toyota.com/deals-incentives/
+- Payment estimator URL: https://www.toyota.com/payment-estimator/
+- Warranty source URL: https://www.toyota.com/owners/warranty-owners-manuals/
+- Image note: Sienna

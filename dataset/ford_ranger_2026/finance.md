@@ -1,0 +1,23 @@
+# 2026 Ford Ranger Finance Snapshot
+
+- Market: US
+- MSRP: Ford.com starting MSRP shown: $33,350
+- Total before tax: Ford.com lists a starting MSRP of $33,350 before destination/delivery, taxes, title, registration, and dealer fees.
+- APR: Ford support disclosures say special APR offers require Ford Credit financing and not all buyers qualify; current rates vary by model, ZIP code, and credit profile.
+- Finance payment: Use Ford Credit and the Ford payment calculator for location-specific estimates.
+- Finance down payment: Varies by lender approval, trim, incentives, and customer structure.
+- Lease payment: Use Ford's payment calculator or dealer quote for current lease estimates.
+- Lease term: term varies
+- Due at signing: Varies by dealer, taxes, fees, and any available incentives.
+- Incentives: Ford notes that available offers and incentives can vary and should be confirmed with a local dealer.
+- Warranty: See Ford Owner?s Manual & Warranty resources for the current model-year warranty guide and exact model-specific coverage.
+- Best for: Midsize-truck shoppers who want more off-road depth than a compact truck.
+- Financial strengths: Lower entry price than full-size trucks with strong utility positioning.
+- Financial concerns: Upper trims and Raptor variants can escalate quickly beyond the base MSRP.
+- Notes: Snapshot uses Ford.com public pricing and Ford support finance disclosures on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.ford.com/trucks/ranger/
+  - https://www.ford.com/finance/
+  - https://www.ford.com/finance/payment-calculator/
+  - https://www.ford.com/support/owner-manuals-details/

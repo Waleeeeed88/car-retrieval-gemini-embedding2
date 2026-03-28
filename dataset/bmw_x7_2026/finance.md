@@ -1,0 +1,25 @@
+# 2026 BMW X7 Finance Snapshot
+
+- Market: US
+- MSRP: BMWUSA.com starting MSRP shown: $87,500
+- Total before tax: BMWUSA.com lists a starting MSRP of $87,500 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- APR: BMW financing and lease programs vary by model, ZIP code, term, and approved credit; check BMW special offers for current regional programs.
+- Finance payment: Use BMW?s car payment estimator or a BMW Center quote for current monthly payment estimates.
+- Finance down payment: Varies by lender approval, taxes, fees, incentives, and buyer structure.
+- Lease payment: Lease estimates vary by region, trim, mileage allowance, and current BMW Financial Services programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: BMW publishes regional lease and financing offers that can change frequently and should be confirmed with a local BMW Center.
+- Warranty: See BMW value and ownership resources for current warranty, maintenance, and roadside-assistance details.
+- Best for: Households wanting full-size luxury SUV space without leaving the BMW showroom.
+- Financial strengths: Flagship-size packaging gives BMW a clear answer for premium three-row SUV buyers.
+- Financial concerns: A high sticker, taxes, insurance, and optional equipment can make the ownership math heavy fast.
+- Notes: Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.bmwusa.com/vehicles/x-series/x7/bmw-x7.html
+  - https://www.bmwusa.com/all-bmws.html
+  - https://www.bmwusa.com/financial-services.html
+  - https://www.bmwusa.com/special-offers.html
+  - https://www.bmwusa.com/financial-services/car-payment-estimator.html
+  - https://www.bmwusa.com/explore/bmw-value.html

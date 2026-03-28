@@ -1,0 +1,56 @@
+{
+  "id": "130",
+  "slug": "hyundai_ioniq_5_2026",
+  "make": "Hyundai",
+  "model": "IONIQ 5",
+  "year": 2026,
+  "market": "US",
+  "category": "suv",
+  "drivetrain": "varies",
+  "fuel_type": "electric",
+  "price_range": "$35,000",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from Hyundai USA public model pages and vehicles/offers pages",
+    "image": "https://s7d1.scene7.com/is/image/hyundai/2022-ioniq-5?wid=1200&hei=630&qlt=85,0&fmt=webp"
+  },
+  "source_urls": {
+    "model_page": "https://www.hyundaiusa.com/us/en/vehicles/ioniq-5",
+    "lineup_page": "https://www.hyundaiusa.com/us/en/vehicles",
+    "offers_page": "https://www.hyundaiusa.com/us/en/offers",
+    "manuals_warranties": "https://owners.hyundaiusa.com/us/en/resources/manuals-warranties",
+    "warranty_page": "https://www.hyundaiusa.com/us/en/assurance/america-best-warranty"
+  },
+  "finance_snapshot": {
+    "msrp": "Hyundai vehicles page shows Starting MSRP: $35,000.",
+    "total_before_tax": "Hyundai vehicles page shows Starting MSRP of $35,000 before taxes, title, registration, destination, retailer charges, and optional equipment.",
+    "apr": "Current APR varies by model, term, region, and approved credit. Check Hyundai USA offers for live programs.",
+    "finance_payment": "Use Hyundai offers and retailer quoting for current payment estimates.",
+    "finance_down_payment": "Varies by approved credit, incentives, fees, and transaction structure.",
+    "lease_payment": "Current lease examples vary by ZIP code and offer program. Check Hyundai USA offers for live lease terms.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by taxes, fees, incentives, first payment, and deal structure.",
+    "incentives": "Hyundai USA publishes model-dependent offers that can change frequently by region and date.",
+    "warranty": "See Hyundai manuals and warranty resources for current ownership documentation and warranty details.",
+    "best_for": "EV shoppers who want Hyundai's most established electric utility model.",
+    "financial_strengths": "IONIQ 5 gives Hyundai a strong mainstream EV entry with recognizable design and solid range messaging.",
+    "financial_concerns": "EV demand remains more incentive-sensitive than comparable gas or hybrid segments.",
+    "notes": "Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical Hyundai official image per vehicle. This pass uses Hyundai USA Scene7 share assets to keep image quality consistent."
+  }
+}

@@ -1,0 +1,23 @@
+# 2026 Hyundai Elantra Summary
+
+- Dataset ID: 122
+- Slug: `hyundai_elantra_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Hyundai USA pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Hyundai vehicles page shows Starting MSRP: $22,625.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $22,625 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- Category: sedan
+- Drivetrain: FWD
+- Fuel type: gasoline
+- Vehicle summary: Introducing the 2026 Elantra compact car featuring technical innovations inside and out. Learn more about our compact sedan with bold lines at Hyundai USA!
+- Best for: Compact-sedan shoppers who still want a mainstream Hyundai car rather than a crossover.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.hyundaiusa.com/us/en/vehicles/elantra
+- Lineup source URL: https://www.hyundaiusa.com/us/en/vehicles
+- Offers source URL: https://www.hyundaiusa.com/us/en/offers
+- Manuals/Warranties source URL: https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+- Warranty source URL: https://www.hyundaiusa.com/us/en/assurance/america-best-warranty
+- Image source URL: https://s7d1.scene7.com/is/image/hyundai/2024-elantra-open-graph?wid=1200&hei=630&qlt=85,0&fmt=webp

@@ -1,0 +1,24 @@
+# 2026 Toyota Tacoma Summary
+
+- Dataset ID: 47
+- Slug: `toyota_tacoma_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Toyota.com pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Toyota.com starting MSRP shown: $32,245
+- Total before tax: Toyota.com lists a starting MSRP of $32,245 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- Category: truck
+- Drivetrain: RWD/4WD
+- Fuel type: gasoline/hybrid
+- Vehicle summary: Midsize pickup aimed at buyers who want a smaller truck footprint without leaving the mainstream truck market.
+- Vehicle summary: Toyota positions Tacoma as the everyday pickup for lifestyle, light work, and off-road adjacent shopping.
+- Best for: Buyers who want pickup flexibility without moving into a full-size truck payment tier.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.toyota.com/tacoma/
+- All vehicles source URL: https://www.toyota.com/all-vehicles/
+- Deals source URL: https://www.toyota.com/deals-incentives/
+- Payment estimator URL: https://www.toyota.com/payment-estimator/
+- Warranty source URL: https://www.toyota.com/owners/warranty-owners-manuals/
+- Image note: Tacoma

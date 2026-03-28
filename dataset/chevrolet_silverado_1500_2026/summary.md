@@ -1,0 +1,25 @@
+# 2026 Chevrolet Silverado 1500 Summary
+
+- Dataset ID: 79
+- Slug: `chevrolet_silverado_1500_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Chevrolet pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Chevrolet.com starting price shown: $36,900
+- Total before tax: Chevrolet.com lists a starting price of $36,900 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: truck
+- Drivetrain: 2WD/4WD
+- Fuel type: gasoline/diesel
+- Vehicle summary: Full-size pickup positioned for work, towing, and everyday utility across a broad trim ladder.
+- Vehicle summary: Silverado 1500 remains one of Chevrolet's core revenue models and a high-visibility truck choice.
+- Best for: Full-size truck buyers balancing work use, towing, and family duty in one vehicle.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.chevrolet.com/trucks/silverado/1500
+- All vehicles source URL: https://www.chevrolet.com/vehicles
+- Current offers URL: https://www.chevrolet.com/current-offers
+- Special offers URL: https://www.chevrolet.com/special-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.chevrolet.com/support/vehicle/manuals-guides
+- Image note: 2026 Chevrolet Silverado

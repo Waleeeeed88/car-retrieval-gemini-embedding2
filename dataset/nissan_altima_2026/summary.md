@@ -1,0 +1,22 @@
+# 2026 Nissan Altima Summary
+
+- Dataset ID: 112
+- Slug: `nissan_altima_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Nissan pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Nissan public page example vehicle shown price: $30,930.
+- Total before tax: Nissan public page example vehicle shown price: $30,930. $2,190 destination and handling charge referenced in Nissan's public Altima pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- Category: sedan
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Discover the 2026 Nissan Altima, a midsize 4-door sedan with available Intelligent AWD and advanced tech. Explore features, trims, specs, pricing, and more.
+- Best for: Drivers who still want a midsize sedan with available AWD instead of moving into a crossover.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.nissanusa.com/vehicles/cars/altima.html
+- Lineup source URL: https://www.nissanusa.com/vehicles/new.html
+- Finance source URL: https://www.nissanfinance.com/s/
+- Manuals source URL: https://www.nissanusa.com/owners/manuals-guides.html
+- Image source URL: https://www.nissanusa.com/content/dam/Nissan/us/vehicles/altima/2026/overview/offers/2026-nissan-altima-side-profile.jpg

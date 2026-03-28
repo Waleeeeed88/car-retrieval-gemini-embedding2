@@ -1,23 +1,24 @@
 # 2026 Toyota Prius Finance Snapshot
 
 - Market: US
-- MSRP: $28,550
-- Total before tax: Starting MSRP about $28,550 before tax, destination, and dealer fees.
-- APR: Toyota routes current finance offers through ZIP-based Local Specials.
-- Finance payment: Use Toyota Local Specials or a dealer quote.
-- Finance down payment: Varies by ZIP, trim, and credit profile.
-- Lease payment: Use Toyota Local Specials or a dealer quote.
+- MSRP: Toyota.com starting MSRP shown: $28,550
+- Total before tax: Toyota.com lists a starting MSRP of $28,550 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- APR: Toyota financing offers vary by ZIP code, model, term, and approved credit; check Toyota deals and incentives for current regional programs.
+- Finance payment: Use the Toyota payment estimator or dealer quote for current monthly payment estimates.
+- Finance down payment: Varies by lender approval, incentives, taxes, fees, and buyer structure.
+- Lease payment: Lease estimates vary by region, trim, mileage allowance, and available specials.
 - Lease term: term varies
-- Due at signing: Varies by ZIP, trim, and dealer.
-- Incentives: Toyota's Prius page points shoppers to localized offers; published national APR and lease numbers were not visible without ZIP context.
-- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
-- Best for: Drivers who want one of the lowest fuel-cost ownership profiles in this list.
-- Financial strengths: Strong efficiency plus Toyota's hybrid battery coverage helps long-run cost confidence.
-- Financial concerns: Real purchase cost still depends on local supply and Toyota's local specials rather than a national payment ad.
-- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
-- Snapshot date: March 25, 2026
+- Due at signing: Varies by dealer, taxes, fees, first payment, and any available incentives.
+- Incentives: Toyota advertises regional deals and incentives that can change frequently and should be confirmed locally.
+- Warranty: See Toyota Manuals and Warranties for the current model-year guide and exact coverage details.
+- Best for: Efficiency-first buyers who want a recognizable hybrid without stepping into a crossover body style.
+- Financial strengths: Strong hybrid brand equity and a clear economy-focused value proposition.
+- Financial concerns: Shoppers wanting more room or a taller seating position may move to hybrid SUVs instead.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
 - Sources:
   - https://www.toyota.com/prius/
-  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/all-vehicles/
+  - https://www.toyota.com/deals-incentives/
+  - https://www.toyota.com/payment-estimator/
   - https://www.toyota.com/owners/warranty-owners-manuals/
-  - https://www.toyota.com/electrified-vehicles/warranty/

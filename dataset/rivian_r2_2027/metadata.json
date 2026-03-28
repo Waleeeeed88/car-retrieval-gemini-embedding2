@@ -1,0 +1,52 @@
+{
+  "id": "109",
+  "slug": "rivian_r2_2027",
+  "make": "Rivian",
+  "model": "R2",
+  "year": 2027,
+  "market": "US",
+  "category": "suv",
+  "drivetrain": "AWD",
+  "fuel_type": "electric",
+  "price_range": "$45,000 est.",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from live official Rivian pages",
+    "image": "https://res.cloudinary.com/rivian-main/image/upload/f_auto/q_auto/v1/gold-iris/metadata/R2?_a=BAVHt2B00"
+  },
+  "source_urls": {
+    "model_page": "https://rivian.com/r2"
+  },
+  "finance_snapshot": {
+    "msrp": "Rivian states an additional R2 Standard variant will arrive in late 2027 starting around $45,000.",
+    "total_before_tax": "R2 is a future vehicle page, so final MSRP, destination, taxes, fees, and option structure are not yet fully published.",
+    "apr": "No live APR program is published on the R2 reservation page.",
+    "finance_payment": "No public monthly finance payment is published on the R2 page.",
+    "finance_down_payment": "Reservation and eventual purchase structure may differ; standard finance down-payment terms are not published.",
+    "lease_payment": "No public lease estimate is published on the R2 page.",
+    "lease_term": "not published",
+    "due_at_signing": "not published",
+    "incentives": "Future incentives, tax treatment, and reservation-to-purchase economics are not yet finalized publicly.",
+    "warranty": "Current production-vehicle warranty details do not yet establish final R2 purchase-program terms.",
+    "best_for": "Buyers watching Rivian's next smaller SUV rather than today's larger R1S.",
+    "financial_strengths": "The around-$45,000 entry point gives Rivian a materially lower price target than the R1 lineup.",
+    "financial_concerns": "Final pricing, timing, and equipment can change before launch, so the real transaction profile remains uncertain.",
+    "notes": "Snapshot uses Rivian's official R2 page on March 26, 2026. Rivian shows R2 as Coming 2027 and notes an additional Standard variant in late 2027 starting around $45,000.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Official Rivian R2 share image used as the canonical image for this future-model entry."
+  }
+}

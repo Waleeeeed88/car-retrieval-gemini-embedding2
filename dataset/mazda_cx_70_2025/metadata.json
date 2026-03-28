@@ -17,7 +17,7 @@
   "source_files": {
     "pdf": "carPDFs/30_Mazda CX-70 (2025).pdf",
     "finance": "financing/30_2025_Mazda_CX_70.md",
-    "image": "carImages/30_2025 Mazda CX-70.jpg"
+    "image": "local_drop:img/mazdacx70.jpg"
   },
   "source_urls": {
     "spec_pdf": "https://filecache.mediaroom.com/mr5mr_mazdausa2/223945/download/2025_CX-70_Spec_Deck.pdf",
@@ -44,6 +44,6 @@
     "local_source_image_count": 1,
     "stored_image_count": 1,
     "canonical_image": "images/front.jpg",
-    "note": "Dataset stores one canonical local image per vehicle."
+    "note": "Dataset stores one canonical local image per vehicle. Canonical image refreshed on March 28, 2026 from a user-provided replacement image."
   }
 }

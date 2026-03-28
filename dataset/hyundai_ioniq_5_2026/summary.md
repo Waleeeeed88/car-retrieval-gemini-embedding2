@@ -1,0 +1,23 @@
+# 2026 Hyundai IONIQ 5 Summary
+
+- Dataset ID: 130
+- Slug: `hyundai_ioniq_5_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Hyundai USA pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Hyundai vehicles page shows Starting MSRP: $35,000.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $35,000 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- Category: suv
+- Drivetrain: varies
+- Fuel type: electric
+- Vehicle summary: Get to know the 2026 IONIQ 5 electric SUV, winner of 3 World Car Awards featuring power up to 320 hp, EPA-est. 303 mile range, available HTRAC AWD, and more!
+- Best for: EV shoppers who want Hyundai's most established electric utility model.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.hyundaiusa.com/us/en/vehicles/ioniq-5
+- Lineup source URL: https://www.hyundaiusa.com/us/en/vehicles
+- Offers source URL: https://www.hyundaiusa.com/us/en/offers
+- Manuals/Warranties source URL: https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+- Warranty source URL: https://www.hyundaiusa.com/us/en/assurance/america-best-warranty
+- Image source URL: https://s7d1.scene7.com/is/image/hyundai/2022-ioniq-5?wid=1200&hei=630&qlt=85,0&fmt=webp

@@ -1,0 +1,25 @@
+# 2026 BMW X5 Summary
+
+- Dataset ID: 53
+- Slug: `bmw_x5_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from BMWUSA pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: BMWUSA.com starting MSRP shown: $68,300
+- Total before tax: BMWUSA.com lists a starting MSRP of $68,300 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: RWD/AWD
+- Fuel type: gasoline
+- Vehicle summary: Midsize luxury SUV positioned above the compact class for buyers who want more space and premium presence.
+- Vehicle summary: BMW treats the X5 as a cornerstone premium SUV with broader comfort, size, and status than the smaller X models.
+- Best for: Buyers stepping into a larger premium SUV with family use and upscale expectations.
+- Notes: Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.bmwusa.com/vehicles/x-series/x5/bmw-x5.html
+- All models source URL: https://www.bmwusa.com/all-bmws.html
+- Finance source URL: https://www.bmwusa.com/financial-services.html
+- Offers source URL: https://www.bmwusa.com/special-offers.html
+- Payment estimator URL: https://www.bmwusa.com/financial-services/car-payment-estimator.html
+- Ownership source URL: https://www.bmwusa.com/explore/bmw-value.html
+- Image note: X5

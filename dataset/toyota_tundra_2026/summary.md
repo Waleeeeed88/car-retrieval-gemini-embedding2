@@ -1,0 +1,24 @@
+# 2026 Toyota Tundra Summary
+
+- Dataset ID: 48
+- Slug: `toyota_tundra_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Toyota.com pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Toyota.com starting MSRP shown: $41,260
+- Total before tax: Toyota.com lists a starting MSRP of $41,260 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- Category: truck
+- Drivetrain: RWD/4WD
+- Fuel type: gasoline/hybrid
+- Vehicle summary: Full-size pickup for buyers who need truck capability but want to stay in Toyota's retail ecosystem.
+- Vehicle summary: Toyota uses Tundra to cover the mainstream full-size truck market with utility and upscale trim range.
+- Best for: Truck shoppers comparing full-size pickups but still prioritizing Toyota brand preference.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.toyota.com/tundra/
+- All vehicles source URL: https://www.toyota.com/all-vehicles/
+- Deals source URL: https://www.toyota.com/deals-incentives/
+- Payment estimator URL: https://www.toyota.com/payment-estimator/
+- Warranty source URL: https://www.toyota.com/owners/warranty-owners-manuals/
+- Image note: Tundra

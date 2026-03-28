@@ -1,0 +1,28 @@
+# 2026 GMC Sierra Heavy Duty Finance Snapshot
+
+- Market: US
+- MSRP: GMC.com starting price shown: $47,000
+- Total before tax: GMC.com lists a starting price of $47,000 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- APR: GMC financing and lease programs vary by model, region, term, and approved credit; check official current offers and GM Financial for current programs.
+- Finance payment: Use GMC shopping tools, dealer quotes, or GM Financial resources for current monthly payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, incentives, trade value, and deal structure.
+- Lease payment: Lease estimates vary by trim, region, mileage allowance, and current official GMC programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: GMC current offers can change frequently and should be confirmed with a local dealer.
+- Warranty: See GMC owner manuals and support resources for current warranty and maintenance details.
+- Best for: Heavy-duty truck buyers with serious towing, hauling, or commercial-style needs.
+- Financial strengths: High towing capacity gives it a clear commercial and heavy-use role.
+- Financial concerns: Heavy-duty ownership costs and practical size make it excessive for casual truck buyers.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.gmc.com/trucks/sierra/2500hd-3500hd
+  - https://www.gmc.com/help-me-find/vehicle-lineup
+  - https://www.gmc.com/suvs
+  - https://www.gmc.com/trucks
+  - https://www.gmc.com/electric
+  - https://www.gmc.com/vans
+  - https://www.gmc.com/current-offers
+  - https://www.gmfinancial.com/en-us/home.html
+  - https://www.gmc.com/support/vehicle/manuals-guides

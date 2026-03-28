@@ -1,0 +1,23 @@
+# 2026 Hyundai Tucson Hybrid Summary
+
+- Dataset ID: 127
+- Slug: `hyundai_tucson_hybrid_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Hyundai USA pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Hyundai vehicles page shows Starting MSRP: $32,450.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $32,450 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- Category: suv
+- Drivetrain: AWD
+- Fuel type: hybrid
+- Vehicle summary: Check out the 2026 Tucson Hybrid compact hybrid SUV with HTRAC All Wheel Drive and class-leading safety features. Experience Tucson Hybrid at Hyundai USA!
+- Best for: Compact-SUV buyers who want Hyundai utility with stronger efficiency positioning.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.hyundaiusa.com/us/en/vehicles/tucson-hybrid
+- Lineup source URL: https://www.hyundaiusa.com/us/en/vehicles
+- Offers source URL: https://www.hyundaiusa.com/us/en/offers
+- Manuals/Warranties source URL: https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+- Warranty source URL: https://www.hyundaiusa.com/us/en/assurance/america-best-warranty
+- Image source URL: https://s7d1.scene7.com/is/image/hyundai/2025-tucson-hev-search-results?wid=1200&hei=630&qlt=85,0&fmt=webp

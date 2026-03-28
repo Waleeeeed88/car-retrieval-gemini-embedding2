@@ -1,12 +1,16 @@
 {
-  "id": "02",
+  "id": "42",
   "slug": "toyota_camry_2026",
   "make": "Toyota",
   "model": "Camry",
   "year": 2026,
   "market": "US",
+  "category": "sedan",
+  "drivetrain": "FWD/AWD",
+  "fuel_type": "hybrid",
+  "price_range": "$29k-$35k+",
   "paths": {
-    "spec_pdf": "spec.pdf",
+    "spec_pdf": "specs.md",
     "finance_md": "finance.md",
     "summary_md": "summary.md",
     "metadata_json": "metadata.json",
@@ -15,35 +19,38 @@
     }
   },
   "source_files": {
-    "pdf": "carPDFs/02_Toyota Camry (2026).pdf",
-    "finance": "financing/02_2026_Toyota_Camry.md",
-    "image": "carImages/02_2026 Toyota Camry.jpg"
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from official Toyota pricing and shopping pages",
+    "image": "https://tmna.aemassets.toyota.com/is/image/toyota/toyota/jellies/max/2026/camry/le/2552/795/1.png?bg=fff&fmt=jpeg&qlt=90&wid=1600"
   },
   "source_urls": {
-    "spec_pdf": "https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/camry_ebrochure.pdf",
-    "image_gallery": "https://www.toyota.com/camry/photo-gallery/"
+    "model_page": "https://www.toyota.com/camry/",
+    "all_vehicles": "https://www.toyota.com/all-vehicles/",
+    "deals_incentives": "https://www.toyota.com/deals-incentives/",
+    "payment_estimator": "https://www.toyota.com/payment-estimator/",
+    "manuals_warranties": "https://www.toyota.com/owners/warranty-owners-manuals/"
   },
   "finance_snapshot": {
-    "msrp": "$29,100",
-    "total_before_tax": "Starting MSRP about $29,100 before tax, destination, and dealer fees.",
-    "apr": "Toyota routes current finance offers through ZIP-based Local Specials.",
-    "finance_payment": "Use Toyota Local Specials or a dealer quote.",
-    "finance_down_payment": "Varies by ZIP, trim, and credit profile.",
-    "lease_payment": "Use Toyota Local Specials or a dealer quote.",
+    "msrp": "Toyota.com starting MSRP shown: $29,100",
+    "total_before_tax": "Toyota.com lists a starting MSRP of $29,100 before destination processing and handling, taxes, title, license, registration, and dealer fees.",
+    "apr": "Toyota financing offers vary by ZIP code, model, term, and approved credit; check Toyota deals and incentives for current regional programs.",
+    "finance_payment": "Use the Toyota payment estimator or dealer quote for current monthly payment estimates.",
+    "finance_down_payment": "Varies by lender approval, incentives, taxes, fees, and buyer structure.",
+    "lease_payment": "Lease estimates vary by region, trim, mileage allowance, and available specials.",
     "lease_term": "term varies",
-    "due_at_signing": "Varies by ZIP, trim, and dealer.",
-    "incentives": "Camry's page exposes Toyota's local-offers entry point, but exact APR, lease payment, and due-at-signing numbers stay behind ZIP-based local specials.",
-    "warranty": "Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.",
-    "best_for": "Mainstream midsize-sedan shoppers who want low running costs and strong resale.",
-    "financial_strengths": "Low entry price for the segment and ToyotaCare improve the early-year cash picture.",
-    "financial_concerns": "The real deal depends on local Toyota cash, APR, and inventory rather than a visible national payment ad.",
-    "notes": "Snapshot uses Toyota US pricing on March 25, 2026.",
-    "snapshot_date": "March 25, 2026"
+    "due_at_signing": "Varies by dealer, taxes, fees, first payment, and any available incentives.",
+    "incentives": "Toyota advertises regional deals and incentives that can change frequently and should be confirmed locally.",
+    "warranty": "See Toyota Manuals and Warranties for the current model-year guide and exact coverage details.",
+    "best_for": "Drivers who want a mainstream midsize sedan instead of moving to a compact SUV.",
+    "financial_strengths": "Well-known nameplate and hybrid positioning support strong market recognition.",
+    "financial_concerns": "Sedan demand is narrower than crossover demand, so monthly payment comparisons often include SUVs.",
+    "notes": "Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.",
+    "snapshot_date": "March 26, 2026"
   },
   "image_strategy": {
     "local_source_image_count": 1,
     "stored_image_count": 1,
     "canonical_image": "images/front.jpg",
-    "note": "Dataset stores one canonical local image per vehicle."
+    "note": "Dataset stores one canonical local image per vehicle. Canonical image refreshed on March 27, 2026 from an official manufacturer image asset chosen for a cleaner vehicle render."
   }
 }

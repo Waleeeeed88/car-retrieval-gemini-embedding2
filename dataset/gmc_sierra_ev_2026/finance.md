@@ -1,0 +1,28 @@
+# 2026 GMC Sierra EV Finance Snapshot
+
+- Market: US
+- MSRP: GMC.com starting price shown: $62,400
+- Total before tax: GMC.com lists a starting price of $62,400 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- APR: GMC financing and lease programs vary by model, region, term, and approved credit; check official current offers and GM Financial for current programs.
+- Finance payment: Use GMC shopping tools, dealer quotes, or GM Financial resources for current monthly payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, incentives, trade value, and deal structure.
+- Lease payment: Lease estimates vary by trim, region, mileage allowance, and current official GMC programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: GMC current offers can change frequently and should be confirmed with a local dealer.
+- Warranty: See GMC owner manuals and support resources for current warranty and maintenance details.
+- Best for: Truck buyers who want a premium electric pickup instead of a conventional gas full-size truck.
+- Financial strengths: Electric-truck positioning and GMC branding create a strong premium alternative in the segment.
+- Financial concerns: Pricing, charging, and EV depreciation questions still affect the ownership calculation.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.gmc.com/electric/sierra-ev
+  - https://www.gmc.com/help-me-find/vehicle-lineup
+  - https://www.gmc.com/suvs
+  - https://www.gmc.com/trucks
+  - https://www.gmc.com/electric
+  - https://www.gmc.com/vans
+  - https://www.gmc.com/current-offers
+  - https://www.gmfinancial.com/en-us/home.html
+  - https://www.gmc.com/support/vehicle/manuals-guides

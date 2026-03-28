@@ -1,0 +1,23 @@
+# 2026 Hyundai Kona Summary
+
+- Dataset ID: 124
+- Slug: `hyundai_kona_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Hyundai USA pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Hyundai vehicles page shows Starting MSRP: $25,500.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $25,500 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- Category: crossover
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Introducing the 2026 Kona. Stunning inside, and out Kona elevates the small SUV in every way. HTRAC AWD and a turbocharged engine are optional. Learn more.
+- Best for: Small-SUV shoppers who want a more upscale-feeling Hyundai subcompact crossover.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.hyundaiusa.com/us/en/vehicles/kona
+- Lineup source URL: https://www.hyundaiusa.com/us/en/vehicles
+- Offers source URL: https://www.hyundaiusa.com/us/en/offers
+- Manuals/Warranties source URL: https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+- Warranty source URL: https://www.hyundaiusa.com/us/en/assurance/america-best-warranty
+- Image source URL: https://s7d1.scene7.com/is/image/hyundai/2025-kona-search-results?wid=1200&hei=630&qlt=85,0&fmt=webp

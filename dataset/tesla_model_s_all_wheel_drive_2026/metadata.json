@@ -1,0 +1,53 @@
+{
+  "id": "95",
+  "slug": "tesla_model_s_all_wheel_drive_2026",
+  "make": "Tesla",
+  "model": "Model S All-Wheel Drive",
+  "year": 2026,
+  "market": "US",
+  "category": "sedan",
+  "drivetrain": "AWD",
+  "fuel_type": "electric",
+  "price_range": "$94,990",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from live Tesla Design Studio pricing and finance views",
+    "image": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-S-New-Social.jpg"
+  },
+  "source_urls": {
+    "model_page": "https://www.tesla.com/models/design#overview",
+    "vehicle_warranty": "https://www.tesla.com/support/vehicle-warranty"
+  },
+  "finance_snapshot": {
+    "msrp": "Tesla Design Studio cash price shown: $94,990",
+    "total_before_tax": "Tesla Design Studio shows a vehicle price of $94,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.",
+    "apr": "Current finance example shown by Tesla: 3.99% APR, $5,150 down, 72 mo.",
+    "finance_payment": "Tesla Design Studio finance estimate shown: $1,429 /mo.",
+    "finance_down_payment": "3.99% APR, $5,150 down, 72 mo",
+    "lease_payment": "Varies by ZIP code, eligibility, and current Tesla lease availability.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by Tesla financing or lease terms, taxes, fees, and buyer profile.",
+    "incentives": "Tesla may show estimated savings or tax-related messaging in the Design Studio; eligibility and final value vary.",
+    "warranty": "See Tesla vehicle warranty details for current basic and battery/drive-unit coverage.",
+    "best_for": "Luxury EV buyers who want Tesla's flagship sedan without moving to Plaid pricing.",
+    "financial_strengths": "Flagship sedan status and long-range positioning give it a premium role in Tesla's lineup.",
+    "financial_concerns": "The price puts it in a very narrow part of the market with stronger luxury-brand competition.",
+    "notes": "Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this dataset pass uses current official configurations to create 10 Tesla entries.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle. Tesla entries reuse one official Tesla image per base model across related configurations."
+  }
+}

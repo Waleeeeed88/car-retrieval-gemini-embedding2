@@ -1,0 +1,24 @@
+# 2026 GMC Sierra Heavy Duty Summary
+
+- Dataset ID: 87
+- Slug: `gmc_sierra_heavy_duty_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $47,000
+- Total before tax: GMC.com lists a starting price of $47,000 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: truck
+- Drivetrain: 2WD/4WD
+- Fuel type: gasoline/diesel
+- Vehicle summary: Heavy-duty pickup aimed at buyers who need real tow and payload capability beyond light-duty trucks.
+- Vehicle summary: Sierra Heavy Duty is GMC's answer for commercial work and maximum towing use cases.
+- Best for: Heavy-duty truck buyers with serious towing, hauling, or commercial-style needs.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/trucks/sierra/2500hd-3500hd
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: GMC Sierra Heavy Duty capability hero image from the official model page

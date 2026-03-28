@@ -1,0 +1,24 @@
+# 2026 GMC Canyon Summary
+
+- Dataset ID: 85
+- Slug: `gmc_canyon_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $38,900
+- Total before tax: GMC.com lists a starting price of $38,900 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: truck
+- Drivetrain: 2WD/4WD
+- Fuel type: gasoline
+- Vehicle summary: Mid-size pickup for shoppers who need real truck utility in a more manageable size than a full-size pickup.
+- Vehicle summary: Canyon gives GMC a smaller-truck option for everyday use, outdoor activity, and lighter-duty work.
+- Best for: Buyers who want GMC pickup utility without taking on the size and spend of a full-size truck.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/trucks/canyon
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: Exterior View of a GMC Canyon Pickup Truck Parked Off-Road Over Rough Terrain

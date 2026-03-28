@@ -1,0 +1,21 @@
+# 2026 Tesla Model 3 Rear-Wheel Drive Finance Snapshot
+
+- Market: US
+- MSRP: Tesla Design Studio cash price shown: $36,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $36,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- APR: Current finance example shown by Tesla: 6.29% APR, $3,250 down, 84 mo.
+- Finance payment: Tesla Design Studio finance estimate shown: $519 /mo.
+- Finance down payment: 6.29% APR, $3,250 down, 84 mo
+- Lease payment: Varies by ZIP code, eligibility, and current Tesla lease availability.
+- Lease term: term varies
+- Due at signing: Varies by Tesla financing or lease terms, taxes, fees, and buyer profile.
+- Incentives: Tesla may show estimated savings or tax-related messaging in the Design Studio; eligibility and final value vary.
+- Warranty: See Tesla vehicle warranty details for current basic and battery/drive-unit coverage.
+- Best for: Shoppers who want Tesla entry pricing in a mainstream-size electric sedan.
+- Financial strengths: Lowest entry point in Tesla's current U.S. car lineup keeps it easier to compare on monthly payment.
+- Financial concerns: Sedan demand is narrower than crossover demand, and incentives can shift fast in the EV market.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this dataset pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.tesla.com/model3/design#overview
+  - https://www.tesla.com/support/vehicle-warranty

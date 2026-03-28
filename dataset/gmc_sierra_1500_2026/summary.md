@@ -1,0 +1,24 @@
+# 2026 GMC Sierra 1500 Summary
+
+- Dataset ID: 86
+- Slug: `gmc_sierra_1500_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $38,300
+- Total before tax: GMC.com lists a starting price of $38,300 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: truck
+- Drivetrain: 2WD/4WD
+- Fuel type: gasoline/diesel
+- Vehicle summary: Full-size pickup built for work, towing, and daily use with a more polished GMC presentation.
+- Vehicle summary: Sierra 1500 remains one of GMC's core volume and image vehicles in the truck market.
+- Best for: Full-size truck buyers who want a more premium GMC take on towing, hauling, and daily use.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/trucks/sierra/1500
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: GMC Sierra 1500 capability hero image from the official model page

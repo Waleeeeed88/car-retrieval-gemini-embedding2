@@ -1,0 +1,25 @@
+# 2026 Chevrolet Equinox Summary
+
+- Dataset ID: 73
+- Slug: `chevrolet_equinox_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Chevrolet pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Chevrolet.com starting price shown: $28,800
+- Total before tax: Chevrolet.com lists a starting price of $28,800 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: FWD/AWD
+- Fuel type: gasoline
+- Vehicle summary: Compact SUV serving as Chevrolet's core everyday family crossover for mainstream buyers.
+- Vehicle summary: Equinox is one of the lineup's broad-volume choices and fits buyers moving up from smaller crossovers.
+- Best for: Mainstream compact-SUV buyers who want the safest middle-ground choice in the Chevrolet lineup.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.chevrolet.com/suvs/equinox
+- All vehicles source URL: https://www.chevrolet.com/vehicles
+- Current offers URL: https://www.chevrolet.com/current-offers
+- Special offers URL: https://www.chevrolet.com/special-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.chevrolet.com/support/vehicle/manuals-guides
+- Image note: 2026 Chevrolet Equinox

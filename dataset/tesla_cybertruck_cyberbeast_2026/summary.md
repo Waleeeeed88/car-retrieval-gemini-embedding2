@@ -1,0 +1,21 @@
+# 2026 Tesla Cybertruck Cyberbeast Summary
+
+- Dataset ID: 100
+- Slug: `tesla_cybertruck_cyberbeast_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Tesla Design Studio pricing and finance views
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Tesla Design Studio cash price shown: $99,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $99,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- Category: truck
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: Halo Cybertruck configuration aimed at buyers who want the most aggressive Tesla pickup identity.
+- Vehicle summary: Cyberbeast sits at the top of Tesla's truck range and functions more as a statement model than a value buy.
+- Best for: High-budget buyers who want Tesla's halo electric truck rather than a standard pickup.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.tesla.com/cybertruck/design#overview
+- Warranty source URL: https://www.tesla.com/support/vehicle-warranty
+- Image source URL: https://digitalassets.tesla.com/co1n/image/upload/f_auto,q_auto/prod/static_assets/CYBERTRUCK/CT-Configurator-Hero-All-Wheel-Drive-20inch-Core-Desktop.jpg?&

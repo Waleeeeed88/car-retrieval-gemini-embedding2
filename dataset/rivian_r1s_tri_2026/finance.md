@@ -1,0 +1,21 @@
+# 2026 Rivian R1S Tri Finance Snapshot
+
+- Market: US
+- MSRP: Rivian R1S page shows: From $106,990.
+- Total before tax: Public Rivian pricing starts at $106,990 before taxes, registration, optional equipment, and local fees.
+- APR: Rivian does not publish a universal APR on the main R1S page; final financing depends on approved credit and lender terms.
+- Finance payment: Not shown as a standard finance example on the public R1S page.
+- Finance down payment: Not published on the public R1S page.
+- Lease payment: Rivian config card shows estimated payment: $1,469/mo.
+- Lease term: term details not shown on the public card snapshot
+- Due at signing: Not published in the visible public card snippet.
+- Incentives: Rivian pricing and estimates can change and should be verified in the live build or purchase flow.
+- Warranty: See Rivian's New Vehicle Limited Warranty guide for current coverage terms.
+- Best for: Buyers who want a higher-performance R1S without paying full Quad pricing.
+- Financial strengths: Occupies the performance middle ground between the mainstream Dual entries and the top-end Quad.
+- Financial concerns: Six-figure pricing increases monthly-payment sensitivity and reduces the addressable shopper pool.
+- Notes: Snapshot uses Rivian U.S. live R1S pricing card on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://rivian.com/en-US/r1s
+  - https://rivian.com/en-US/support/article/new-vehicle-limited-warranty-guide

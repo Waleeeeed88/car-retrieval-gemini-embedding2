@@ -1,0 +1,21 @@
+# 2026 Tesla Cybertruck Dual Motor All-Wheel Drive Finance Snapshot
+
+- Market: US
+- MSRP: Tesla Design Studio cash price shown: $69,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $69,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- APR: Current finance example shown by Tesla: 3.99% APR, $4,050 down, 72 mo.
+- Finance payment: Tesla Design Studio finance estimate shown: $1,099 /mo.
+- Finance down payment: 3.99% APR, $4,050 down, 72 mo
+- Lease payment: Varies by ZIP code, eligibility, and current Tesla lease availability.
+- Lease term: term varies
+- Due at signing: Varies by Tesla financing or lease terms, taxes, fees, and buyer profile.
+- Incentives: Tesla may show estimated savings or tax-related messaging in the Design Studio; eligibility and final value vary.
+- Warranty: See Tesla vehicle warranty details for current basic and battery/drive-unit coverage.
+- Best for: Truck buyers who want the Cybertruck shape and EV concept at the lowest current cash price.
+- Financial strengths: Acts as the entry point into Tesla's pickup offering while keeping the distinctive Cybertruck identity.
+- Financial concerns: Truck utility buyers may still question value relative to more conventional pickups.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this dataset pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.tesla.com/cybertruck/design#overview
+  - https://www.tesla.com/support/vehicle-warranty

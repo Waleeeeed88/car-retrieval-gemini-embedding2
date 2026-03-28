@@ -1,0 +1,24 @@
+# 2026 Mercedes-Benz S-Class Sedan Summary
+
+- Dataset ID: 69
+- Slug: `mercedes_benz_s_class_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Mercedes-Benz pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: MBUSA.com starting price shown: $119,500
+- Total before tax: MBUSA.com lists a starting price of $119,500 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: sedan
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Flagship luxury-sedan buyers prioritizing prestige, comfort, and technology.
+- Vehicle summary: Mercedes-Benz positions the S-Class Sedan as part of its current U.S. luxury lineup with styling, technology, and brand-led appeal.
+- Best for: Flagship luxury-sedan buyers prioritizing prestige, comfort, and technology.
+- Notes: Snapshot uses Mercedes-Benz USA pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.mbusa.com/en/vehicles/class/s-class/sedan
+- All vehicles source URL: https://www.mbusa.com/en/all-vehicles
+- Offers source URL: https://www.mbusa.com/en/special-offers
+- Finance source URL: https://www.mbfs.com/home
+- Owners manuals URL: https://www.mbusa.com/en/owners/manuals
+- Image note: Logo

@@ -1,0 +1,24 @@
+# 2025 GMC Savana Cargo Summary
+
+- Dataset ID: 90
+- Slug: `gmc_savana_cargo_2025`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $41,800
+- Total before tax: GMC.com lists a starting price of $41,800 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: van
+- Drivetrain: RWD/AWD
+- Fuel type: gasoline
+- Vehicle summary: Full-size cargo van focused on business and fleet work where enclosed storage and upfit potential matter most.
+- Vehicle summary: Savana Cargo remains a utilitarian GMC van choice for commercial buyers rather than retail family shoppers.
+- Best for: Business buyers who need a traditional cargo van for equipment, deliveries, or service work.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/vans/previous-year/savana/cargo
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: Front Three-Quarters View of the GMC Savana Cargo Van

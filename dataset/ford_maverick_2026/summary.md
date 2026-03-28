@@ -1,0 +1,23 @@
+# 2026 Ford Maverick Summary
+
+- Dataset ID: 31
+- Slug: `ford_maverick_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Ford.com pricing and finance support pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Ford.com starting MSRP shown: $28,145
+- Total before tax: Ford.com lists a starting MSRP of $28,145 before destination/delivery, taxes, title, registration, and dealer fees.
+- Category: pickup
+- Drivetrain: FWD or AWD
+- Fuel type: hybrid or gasoline
+- Vehicle summary: Compact pickup focused on urban usability and weekend utility.
+- Vehicle summary: Ford highlights hybrid availability, available AWD, FLEXBED storage, and towing up to 4,000 lbs when properly equipped.
+- Best for: Best fit for buyers who want pickup practicality without jumping to a full-size truck.
+- Notes: Snapshot uses Ford.com public pricing and model-page content on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.ford.com/trucks/maverick/
+- Finance source URL: https://www.ford.com/finance/
+- Payment calculator URL: https://www.ford.com/finance/payment-calculator/
+- Warranty source URL: https://www.ford.com/support/owner-manuals-details/
+- Image note: 2026 Ford Maverick Lariat parked near a lake with two kayaks in the bed

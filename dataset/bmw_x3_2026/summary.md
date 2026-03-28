@@ -1,0 +1,25 @@
+# 2026 BMW X3 Summary
+
+- Dataset ID: 52
+- Slug: `bmw_x3_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from BMWUSA pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: BMWUSA.com starting MSRP shown: $51,300
+- Total before tax: BMWUSA.com lists a starting MSRP of $51,300 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: AWD
+- Fuel type: gasoline
+- Vehicle summary: Core midsize luxury SUV positioned for buyers who want a premium daily driver with BMW handling identity.
+- Vehicle summary: BMW presents the X3 as a central X-series product that balances size, price, and mainstream premium appeal.
+- Best for: Luxury SUV buyers who want a practical size without moving into the brand?s larger and more expensive SUVs.
+- Notes: Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.bmwusa.com/vehicles/x-series/x3/bmw-x3.html
+- All models source URL: https://www.bmwusa.com/all-bmws.html
+- Finance source URL: https://www.bmwusa.com/financial-services.html
+- Offers source URL: https://www.bmwusa.com/special-offers.html
+- Payment estimator URL: https://www.bmwusa.com/financial-services/car-payment-estimator.html
+- Ownership source URL: https://www.bmwusa.com/explore/bmw-value.html
+- Image note: X3

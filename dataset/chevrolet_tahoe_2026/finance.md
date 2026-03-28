@@ -1,0 +1,25 @@
+# 2026 Chevrolet Tahoe Finance Snapshot
+
+- Market: US
+- MSRP: Chevrolet.com starting price shown: $60,700
+- Total before tax: Chevrolet.com lists a starting price of $60,700 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- APR: Chevrolet financing and lease programs vary by model, region, term, and approved credit; check official current offers, special offers, and GM Financial for current programs.
+- Finance payment: Use Chevrolet shopping tools, dealer quotes, or GM Financial resources for current monthly payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, incentives, trade value, and deal structure.
+- Lease payment: Lease estimates vary by trim, region, mileage allowance, and current official Chevrolet programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: Chevrolet current offers and special offers can change frequently and should be confirmed with a local dealer.
+- Warranty: See Chevrolet owner manuals and support resources for current warranty and maintenance details.
+- Best for: Buyers who need real full-size SUV room, towing confidence, and Chevrolet brand familiarity.
+- Financial strengths: Large-SUV utility and name recognition keep it relevant for family, towing, and fleet-style use.
+- Financial concerns: High sticker, fuel, tax, and insurance costs materially raise the ownership burden.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.chevrolet.com/suvs/tahoe
+  - https://www.chevrolet.com/vehicles
+  - https://www.chevrolet.com/current-offers
+  - https://www.chevrolet.com/special-offers
+  - https://www.gmfinancial.com/en-us/home.html
+  - https://www.chevrolet.com/support/vehicle/manuals-guides

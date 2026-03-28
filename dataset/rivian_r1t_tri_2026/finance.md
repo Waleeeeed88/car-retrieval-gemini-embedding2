@@ -1,0 +1,21 @@
+# 2026 Rivian R1T Tri Finance Snapshot
+
+- Market: US
+- MSRP: Rivian R1T page shows: From $100,990.
+- Total before tax: Public Rivian pricing starts at $100,990 before taxes, registration, optional equipment, and local fees.
+- APR: Rivian does not publish a universal APR on the main R1T page; final financing depends on approved credit and lender terms.
+- Finance payment: Not shown as a standard finance example on the public R1T page.
+- Finance down payment: Not published on the public R1T page.
+- Lease payment: Rivian config card shows estimated payment: $1,419/mo.
+- Lease term: term details not shown on the public card snapshot
+- Due at signing: Not published in the visible public card snippet.
+- Incentives: Rivian pricing and estimates can change and should be verified in the live build or purchase flow.
+- Warranty: See Rivian's New Vehicle Limited Warranty guide for current coverage terms.
+- Best for: Buyers who want a more aggressive R1T performance step without paying full Quad pricing.
+- Financial strengths: Sits between the mainstream Dual configurations and the top-end Quad halo price.
+- Financial concerns: Six-figure territory narrows the buyer pool quickly and makes option creep expensive.
+- Notes: Snapshot uses Rivian U.S. live R1T pricing card on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://rivian.com/en-US/r1t
+  - https://rivian.com/en-US/support/article/new-vehicle-limited-warranty-guide

@@ -1,0 +1,21 @@
+# 2026 Tesla Model Y Rear-Wheel Drive Summary
+
+- Dataset ID: 93
+- Slug: `tesla_model_y_rear_wheel_drive_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Tesla Design Studio pricing and finance views
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Tesla Design Studio cash price shown: $39,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $39,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- Category: suv
+- Drivetrain: RWD
+- Fuel type: electric
+- Vehicle summary: Entry Model Y configuration aimed at buyers who want the Tesla crossover shape without stepping up to higher trims.
+- Vehicle summary: This version keeps the core Model Y practicality while holding the purchase price below the premium variants.
+- Best for: Mainstream EV shoppers who want Tesla crossover utility at the lowest current Model Y entry price.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.tesla.com/modely/design#overview
+- Warranty source URL: https://www.tesla.com/support/vehicle-warranty
+- Image source URL: https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-Y-2-Social.png

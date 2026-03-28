@@ -1,0 +1,60 @@
+{
+  "id": "82",
+  "slug": "gmc_acadia_2026",
+  "make": "GMC",
+  "model": "Acadia",
+  "year": 2026,
+  "market": "US",
+  "category": "suv",
+  "drivetrain": "FWD/AWD",
+  "fuel_type": "gasoline",
+  "price_range": "$43k-$50k+",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from official GMC pricing and finance pages",
+    "image": "https://www.gmc.com/content/dam/gmc/na/us/english/index/vehicle-group/suv-segment/v2/2026-gmc-suv-acadia-exterior-1920x960-26PGAC99033.jpg?imwidth=1920"
+  },
+  "source_urls": {
+    "model_page": "https://www.gmc.com/suvs/acadia",
+    "all_vehicles": "https://www.gmc.com/help-me-find/vehicle-lineup",
+    "suvs": "https://www.gmc.com/suvs",
+    "trucks": "https://www.gmc.com/trucks",
+    "electric": "https://www.gmc.com/electric",
+    "vans": "https://www.gmc.com/vans",
+    "current_offers": "https://www.gmc.com/current-offers",
+    "gm_financial": "https://www.gmfinancial.com/en-us/home.html",
+    "manuals_guides": "https://www.gmc.com/support/vehicle/manuals-guides"
+  },
+  "finance_snapshot": {
+    "msrp": "GMC.com starting price shown: $43,800",
+    "total_before_tax": "GMC.com lists a starting price of $43,800 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.",
+    "apr": "GMC financing and lease programs vary by model, region, term, and approved credit; check GMC current offers and GM Financial for current programs.",
+    "finance_payment": "Use GMC shopping tools, dealer quotes, or GM Financial resources for current monthly payment estimates.",
+    "finance_down_payment": "Varies by approved credit, taxes, fees, incentives, trade value, and deal structure.",
+    "lease_payment": "Lease estimates vary by trim, region, mileage allowance, and current official GMC programs.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by taxes, fees, first payment, incentives, and retailer structure.",
+    "incentives": "GMC current offers can change frequently and should be confirmed with a local dealer.",
+    "warranty": "See GMC owner manuals and support resources for current warranty, maintenance, and ownership details.",
+    "best_for": "Families who want a roomy midsize GMC SUV with a stronger premium feel than a basic three-row crossover.",
+    "financial_strengths": "Three-row utility and higher-brand positioning give it a clear role for family buyers.",
+    "financial_concerns": "Monthly payments can climb quickly once trims and family-oriented options are added.",
+    "notes": "Snapshot uses GMC pricing and official finance pages on March 26, 2026.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle. Source image alt: Front View of the GMC Acadia Mid-Size SUV Parked on the Beach"
+  }
+}

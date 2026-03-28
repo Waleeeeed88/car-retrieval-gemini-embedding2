@@ -1,0 +1,25 @@
+# 2026 BMW i5 Summary
+
+- Dataset ID: 59
+- Slug: `bmw_i5_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from BMWUSA pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: BMWUSA.com starting MSRP shown: $67,100
+- Total before tax: BMWUSA.com lists a starting MSRP of $67,100 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: sedan
+- Drivetrain: RWD/AWD
+- Fuel type: electric
+- Vehicle summary: All-electric executive sedan aimed at buyers who want a more upscale EV than the compact premium class.
+- Vehicle summary: BMW positions the i5 as an electric extension of its midsize luxury-sedan space with stronger premium intent.
+- Best for: Premium EV shoppers who want a midsize executive sedan rather than a luxury SUV.
+- Notes: Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.bmwusa.com/vehicles/i-series/i5/bmw-i5-overview.html
+- All models source URL: https://www.bmwusa.com/all-bmws.html
+- Finance source URL: https://www.bmwusa.com/financial-services.html
+- Offers source URL: https://www.bmwusa.com/special-offers.html
+- Payment estimator URL: https://www.bmwusa.com/financial-services/car-payment-estimator.html
+- Ownership source URL: https://www.bmwusa.com/explore/bmw-value.html
+- Image note: A BMW i5 Electric Vehicle

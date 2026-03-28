@@ -1,0 +1,24 @@
+# 2026 Mercedes-Benz S-Class Sedan Finance Snapshot
+
+- Market: US
+- MSRP: MBUSA.com starting price shown: $119,500
+- Total before tax: MBUSA.com lists a starting price of $119,500 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- APR: Mercedes-Benz financing and lease programs vary by model, region, term, and approved credit; check official special offers and MBFS for current programs.
+- Finance payment: Use Mercedes-Benz dealer quoting or Mercedes-Benz Financial Services tools for current payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, incentives, and deal structure.
+- Lease payment: Lease estimates vary by model, mileage allowance, region, and current official programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: Mercedes-Benz special offers can change frequently and should be confirmed with a local retailer.
+- Warranty: See Mercedes-Benz owner and service resources for current warranty and maintenance details.
+- Best for: Flagship luxury-sedan buyers prioritizing prestige, comfort, and technology.
+- Financial strengths: Flagship status gives it strong positioning at the top of the Mercedes sedan lineup.
+- Financial concerns: Very high purchase price makes the total financial commitment significant even before options.
+- Notes: Snapshot uses Mercedes-Benz USA pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.mbusa.com/en/vehicles/class/s-class/sedan
+  - https://www.mbusa.com/en/all-vehicles
+  - https://www.mbusa.com/en/special-offers
+  - https://www.mbfs.com/home
+  - https://www.mbusa.com/en/owners/manuals

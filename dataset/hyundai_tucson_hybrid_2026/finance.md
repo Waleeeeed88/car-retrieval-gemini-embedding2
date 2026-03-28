@@ -1,0 +1,24 @@
+# 2026 Hyundai Tucson Hybrid Finance Snapshot
+
+- Market: US
+- MSRP: Hyundai vehicles page shows Starting MSRP: $32,450.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $32,450 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- APR: Current APR varies by model, term, region, and approved credit. Check Hyundai USA offers for live programs.
+- Finance payment: Use Hyundai offers and retailer quoting for current payment estimates.
+- Finance down payment: Varies by approved credit, incentives, fees, and transaction structure.
+- Lease payment: Current lease examples vary by ZIP code and offer program. Check Hyundai USA offers for live lease terms.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, incentives, first payment, and deal structure.
+- Incentives: Hyundai USA publishes model-dependent offers that can change frequently by region and date.
+- Warranty: See Hyundai manuals and warranty resources for current ownership documentation and warranty details.
+- Best for: Compact-SUV buyers who want Hyundai utility with stronger efficiency positioning.
+- Financial strengths: Hybrid Tucson extends Hyundai's mainstream SUV appeal into a more fuel-efficient lane.
+- Financial concerns: Higher entry price than the standard Tucson reduces its appeal for pure budget shoppers.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.hyundaiusa.com/us/en/vehicles/tucson-hybrid
+  - https://www.hyundaiusa.com/us/en/vehicles
+  - https://www.hyundaiusa.com/us/en/offers
+  - https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+  - https://www.hyundaiusa.com/us/en/assurance/america-best-warranty

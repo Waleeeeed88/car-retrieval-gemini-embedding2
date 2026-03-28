@@ -1,0 +1,22 @@
+# 2026 Nissan Rogue Summary
+
+- Dataset ID: 115
+- Slug: `nissan_rogue_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Nissan pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Nissan public page example vehicle shown price: $40,530.
+- Total before tax: Nissan public page example vehicle shown price: $40,530. $1,495 destination and handling charge referenced in Nissan's public Rogue pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- Category: crossover
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Discover the 2026.5 Nissan Rogue, a 5-passenger compact SUV with bold style, advanced tech, spacious cargo, and available AWD. Explore trims, features, and offers.
+- Best for: Compact-SUV shoppers who want Nissan's mainstream volume crossover with available AWD and current tech.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.nissanusa.com/vehicles/crossovers-suvs/rogue.html
+- Lineup source URL: https://www.nissanusa.com/vehicles/new.html
+- Finance source URL: https://www.nissanfinance.com/s/
+- Manuals source URL: https://www.nissanusa.com/owners/manuals-guides.html
+- Image source URL: https://www.nissanusa.com/content/dam/Nissan/us/vehicles/rogue/2024/overview/offers-carousel/2026-nissan-rogue-side-profile-parked-outside-house.jpg

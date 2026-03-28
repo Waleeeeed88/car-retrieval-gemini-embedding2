@@ -1,0 +1,25 @@
+# 2026 Chevrolet Suburban Summary
+
+- Dataset ID: 77
+- Slug: `chevrolet_suburban_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Chevrolet pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Chevrolet.com starting price shown: $63,700
+- Total before tax: Chevrolet.com lists a starting price of $63,700 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: 2WD/4WD
+- Fuel type: gasoline/diesel
+- Vehicle summary: Long-wheelbase full-size SUV focused on maximum passenger and cargo room in Chevrolet's utility lineup.
+- Vehicle summary: Suburban serves buyers who want the biggest mainstream Chevy SUV rather than a smaller three-row crossover.
+- Best for: Large families and heavy-duty utility buyers who want maximum space in the Chevy SUV range.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.chevrolet.com/suvs/suburban
+- All vehicles source URL: https://www.chevrolet.com/vehicles
+- Current offers URL: https://www.chevrolet.com/current-offers
+- Special offers URL: https://www.chevrolet.com/special-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.chevrolet.com/support/vehicle/manuals-guides
+- Image note: 2026 Chevrolet Suburban

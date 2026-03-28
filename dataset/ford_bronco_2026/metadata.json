@@ -1,0 +1,56 @@
+{
+  "id": "37",
+  "slug": "ford_bronco_2026",
+  "make": "Ford",
+  "model": "Bronco",
+  "year": 2026,
+  "market": "US",
+  "category": "suv",
+  "drivetrain": "4WD",
+  "fuel_type": "gasoline",
+  "price_range": "$39k-$90k+",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from official Ford pricing and finance support pages",
+    "image": "local_drop:img/broncofront.png"
+  },
+  "source_urls": {
+    "model_page": "https://www.ford.com/suvs/bronco/",
+    "finance_home": "https://www.ford.com/finance/",
+    "payment_calculator": "https://www.ford.com/finance/payment-calculator/",
+    "owner_manuals": "https://www.ford.com/support/owner-manuals/",
+    "owner_manuals_details": "https://www.ford.com/support/owner-manuals-details/"
+  },
+  "finance_snapshot": {
+    "msrp": "Ford.com starting MSRP shown: $39,995",
+    "total_before_tax": "Ford.com lists a starting MSRP of $39,995 before destination/delivery, taxes, title, registration, and dealer fees.",
+    "apr": "Ford support disclosures say special APR offers require Ford Credit financing and not all buyers qualify; current rates vary by model, ZIP code, and credit profile.",
+    "finance_payment": "Use Ford Credit and the Ford payment calculator for location-specific estimates.",
+    "finance_down_payment": "Varies by lender approval, trim, incentives, and customer structure.",
+    "lease_payment": "Use Ford's payment calculator or dealer quote for current lease estimates.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by dealer, taxes, fees, and any available incentives.",
+    "incentives": "Ford notes that available offers and incentives can vary and should be confirmed with a local dealer.",
+    "warranty": "See Ford Owner?s Manual & Warranty resources for the current model-year warranty guide and exact model-specific coverage.",
+    "best_for": "SUV buyers who prioritize off-road ability over pure on-road efficiency.",
+    "financial_strengths": "Strong enthusiast demand and trim variety give buyers a wide capability ladder.",
+    "financial_concerns": "Fuel, insurance, and option costs can climb quickly, especially on higher off-road trims.",
+    "notes": "Snapshot uses Ford.com public pricing and Ford support finance disclosures on March 26, 2026.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle. Canonical image refreshed on March 27, 2026 from a user-provided replacement image."
+  }
+}

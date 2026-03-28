@@ -1,0 +1,21 @@
+# 2026 Tesla Model S All-Wheel Drive Summary
+
+- Dataset ID: 95
+- Slug: `tesla_model_s_all_wheel_drive_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Tesla Design Studio pricing and finance views
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Tesla Design Studio cash price shown: $94,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $94,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- Category: sedan
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: Flagship Tesla sedan tuned for luxury, range, and high-end EV buyers rather than mainstream commuters.
+- Vehicle summary: This AWD version is the more restrained Model S choice below the Plaid halo configuration.
+- Best for: Luxury EV buyers who want Tesla's flagship sedan without moving to Plaid pricing.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.tesla.com/models/design#overview
+- Warranty source URL: https://www.tesla.com/support/vehicle-warranty
+- Image source URL: https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-S-New-Social.jpg

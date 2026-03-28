@@ -1,0 +1,53 @@
+{
+  "id": "101",
+  "slug": "rivian_r1t_dual_standard_2026",
+  "make": "Rivian",
+  "model": "R1T Dual Standard",
+  "year": 2026,
+  "market": "US",
+  "category": "pickup",
+  "drivetrain": "AWD",
+  "fuel_type": "electric",
+  "price_range": "$72,990",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from live official Rivian pages",
+    "image": "https://images.ctfassets.net/2md5qhoeajym/7amTVJoqSqPIrLtQw0IiMm/9f3397a537fb5812d8b65dd13c2d4a01/20240519_Dustin_Akssland_NOLA_Peregrine_08919_3000px_FINAL__1_.jpg"
+  },
+  "source_urls": {
+    "model_page": "https://rivian.com/en-US/r1t",
+    "warranty_page": "https://rivian.com/en-US/support/article/new-vehicle-limited-warranty-guide"
+  },
+  "finance_snapshot": {
+    "msrp": "Rivian R1T page shows: From $72,990.",
+    "total_before_tax": "Public Rivian pricing starts at $72,990 before taxes, registration, delivery variations, optional equipment, and local fees.",
+    "apr": "Rivian does not publish a universal APR on the main R1T page; final financing depends on approved credit and lender terms.",
+    "finance_payment": "Use Rivian purchase flow or lender quote for current financed payment estimates.",
+    "finance_down_payment": "Not published as a standard finance example on the R1T page.",
+    "lease_payment": "Live Rivian example offer shows $899/mo.",
+    "lease_term": "36 months / 30,000 total miles in the example offer.",
+    "due_at_signing": "Example offer shows $8,794 due at signing.",
+    "incentives": "Rivian pricing and lease examples can change and should be verified in the live build or purchase flow.",
+    "warranty": "See Rivian's New Vehicle Limited Warranty guide for current coverage terms.",
+    "best_for": "Buyers who want the lowest advertised entry into the R1T lineup.",
+    "financial_strengths": "Lowest advertised R1T price point and a public lease example make this the clearest value-oriented R1T entry.",
+    "financial_concerns": "Final payment can change materially with options, delivery fees, taxes, and regional availability.",
+    "notes": "Snapshot uses Rivian U.S. live R1T pricing and lease example on March 26, 2026.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Official Rivian R1T share image reused across current R1T configurations in this dataset pass."
+  }
+}

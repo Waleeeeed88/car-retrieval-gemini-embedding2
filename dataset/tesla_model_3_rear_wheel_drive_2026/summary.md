@@ -1,0 +1,21 @@
+# 2026 Tesla Model 3 Rear-Wheel Drive Summary
+
+- Dataset ID: 91
+- Slug: `tesla_model_3_rear_wheel_drive_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Tesla Design Studio pricing and finance views
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Tesla Design Studio cash price shown: $36,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $36,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- Category: sedan
+- Drivetrain: RWD
+- Fuel type: electric
+- Vehicle summary: Entry Model 3 configuration positioned as Tesla's most affordable sedan choice in the U.S.
+- Vehicle summary: This trim is the cleanest starting point for buyers prioritizing lower upfront cost over maximum performance.
+- Best for: Shoppers who want Tesla entry pricing in a mainstream-size electric sedan.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.tesla.com/model3/design#overview
+- Warranty source URL: https://www.tesla.com/support/vehicle-warranty
+- Image source URL: https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Social-LHD.jpg

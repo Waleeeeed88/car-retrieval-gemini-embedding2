@@ -1,0 +1,21 @@
+# 2026 Tesla Model X Plaid Finance Snapshot
+
+- Market: US
+- MSRP: Tesla Design Studio cash price shown: $114,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $114,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- APR: Current finance example shown by Tesla: 3.99% APR, $5,700 down, 72 mo.
+- Finance payment: Tesla Design Studio finance estimate shown: $1,734 /mo.
+- Finance down payment: 3.99% APR, $5,700 down, 72 mo
+- Lease payment: Varies by ZIP code, eligibility, and current Tesla lease availability.
+- Lease term: term varies
+- Due at signing: Varies by Tesla financing or lease terms, taxes, fees, and buyer profile.
+- Incentives: Tesla may show estimated savings or tax-related messaging in the Design Studio; eligibility and final value vary.
+- Warranty: See Tesla vehicle warranty details for current basic and battery/drive-unit coverage.
+- Best for: Buyers who want Tesla's highest-end performance SUV rather than a mainstream EV utility vehicle.
+- Financial strengths: Plaid branding creates a distinct halo SUV above the standard Model X.
+- Financial concerns: Pricing is deep into luxury territory, which limits audience size and increases scrutiny on value.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this dataset pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.tesla.com/modelx/design#overview
+  - https://www.tesla.com/support/vehicle-warranty

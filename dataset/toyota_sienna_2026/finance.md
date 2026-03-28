@@ -1,23 +1,24 @@
 # 2026 Toyota Sienna Finance Snapshot
 
 - Market: US
-- MSRP: $40,420
-- Total before tax: Starting MSRP about $40,420 before tax, destination, and dealer fees.
-- APR: Toyota routes current finance offers through ZIP-based Local Specials.
-- Finance payment: Use Toyota Local Specials or a dealer quote.
-- Finance down payment: Varies by ZIP, trim, and credit profile.
-- Lease payment: Use Toyota Local Specials or a dealer quote.
+- MSRP: Toyota.com starting MSRP shown: $40,420
+- Total before tax: Toyota.com lists a starting MSRP of $40,420 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- APR: Toyota financing offers vary by ZIP code, model, term, and approved credit; check Toyota deals and incentives for current regional programs.
+- Finance payment: Use the Toyota payment estimator or dealer quote for current monthly payment estimates.
+- Finance down payment: Varies by lender approval, incentives, taxes, fees, and buyer structure.
+- Lease payment: Lease estimates vary by region, trim, mileage allowance, and available specials.
 - Lease term: term varies
-- Due at signing: Varies by ZIP, trim, and dealer.
-- Incentives: The Sienna page points to Toyota's localized-offer flow; public HTML did not expose a national payment example.
-- Warranty: Toyota New Vehicle Limited Warranty is 36 months/36,000 miles, with powertrain coverage at 60 months/60,000 miles. New Toyotas also include ToyotaCare no-cost maintenance and 24-hour roadside assistance. Hybrid and plug-in models use Toyota's electrified-vehicle warranty program, including the 10-year/150,000-mile hybrid battery coverage called out on Toyota's official electrified warranty page.
-- Best for: Large families who want hybrid fuel economy in a true minivan package.
-- Financial strengths: Hybrid efficiency can materially reduce family fuel spend, and ToyotaCare helps with early maintenance.
-- Financial concerns: Family-vehicle insurance, destination, and dealer-add-on risk can move the payment more than headline MSRP suggests.
-- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
-- Snapshot date: March 25, 2026
+- Due at signing: Varies by dealer, taxes, fees, first payment, and any available incentives.
+- Incentives: Toyota advertises regional deals and incentives that can change frequently and should be confirmed locally.
+- Warranty: See Toyota Manuals and Warranties for the current model-year guide and exact coverage details.
+- Best for: Families who need the most practical passenger and cargo packaging in Toyota's lineup.
+- Financial strengths: Minivan packaging remains one of the most rational family-value plays at this size.
+- Financial concerns: Buyers set on SUV styling may skip the category even when the math favors a van.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
 - Sources:
   - https://www.toyota.com/sienna/
-  - https://www.toyota.com/local-specials/
+  - https://www.toyota.com/all-vehicles/
+  - https://www.toyota.com/deals-incentives/
+  - https://www.toyota.com/payment-estimator/
   - https://www.toyota.com/owners/warranty-owners-manuals/
-  - https://www.toyota.com/electrified-vehicles/warranty/

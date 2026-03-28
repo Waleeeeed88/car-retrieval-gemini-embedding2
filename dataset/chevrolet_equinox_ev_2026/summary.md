@@ -1,0 +1,25 @@
+# 2026 Chevrolet Equinox EV Summary
+
+- Dataset ID: 80
+- Slug: `chevrolet_equinox_ev_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Chevrolet pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Chevrolet.com starting price shown: $34,995
+- Total before tax: Chevrolet.com lists a starting price of $34,995 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: FWD/AWD
+- Fuel type: electric
+- Vehicle summary: Electric crossover meant to give Chevrolet a more accessible EV entry in a familiar compact-SUV form.
+- Vehicle summary: Equinox EV targets shoppers who want to move to an EV without jumping straight into higher luxury pricing.
+- Best for: Mainstream EV shoppers who want a recognizable crossover shape rather than a premium-price electric SUV.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.chevrolet.com/electric/equinox-ev
+- All vehicles source URL: https://www.chevrolet.com/vehicles
+- Current offers URL: https://www.chevrolet.com/current-offers
+- Special offers URL: https://www.chevrolet.com/special-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.chevrolet.com/support/vehicle/manuals-guides
+- Image note: 2026 Chevrolet Equinox EV

@@ -1,0 +1,23 @@
+# 2026 Hyundai Elantra Hybrid Summary
+
+- Dataset ID: 123
+- Slug: `hyundai_elantra_hybrid_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Hyundai USA pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Hyundai vehicles page shows Starting MSRP: $25,450.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $25,450 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- Category: sedan
+- Drivetrain: FWD
+- Fuel type: hybrid
+- Vehicle summary: Click here for an overview of the 2026 Elantra Hybrid compact sedan. View features, specs, options, and more. Build an Elantra Hybrid today at Hyundai USA!
+- Best for: Sedan buyers who want Hyundai efficiency without moving into a full EV.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.hyundaiusa.com/us/en/vehicles/elantra-hybrid
+- Lineup source URL: https://www.hyundaiusa.com/us/en/vehicles
+- Offers source URL: https://www.hyundaiusa.com/us/en/offers
+- Manuals/Warranties source URL: https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+- Warranty source URL: https://www.hyundaiusa.com/us/en/assurance/america-best-warranty
+- Image source URL: https://s7d1.scene7.com/is/image/hyundai/2022-elantra-hev?wid=1200&hei=630&qlt=85,0&fmt=webp

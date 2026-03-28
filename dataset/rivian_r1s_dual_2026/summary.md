@@ -1,0 +1,21 @@
+# 2026 Rivian R1S Dual Summary
+
+- Dataset ID: 106
+- Slug: `rivian_r1s_dual_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Rivian pricing pages where available
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Rivian R1S page shows: From $83,990.
+- Total before tax: Public Rivian pricing starts at $83,990 for the advertised R1S Dual configuration before taxes, registration, options, and local fees.
+- Category: suv
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: Mid-tier current R1S Dual configuration with the next advertised price step above Dual Standard.
+- Vehicle summary: Rivian's live example offer specifically references the Large battery version of this Dual configuration.
+- Best for: Shoppers who want a stronger-range R1S configuration without stepping into Tri or Quad pricing.
+- Notes: Snapshot uses Rivian U.S. live R1S pricing and lease example on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model Page URL: https://rivian.com/en-US/r1s
+- Warranty Page URL: https://rivian.com/en-US/support/article/new-vehicle-limited-warranty-guide
+- Image source URL: https://images.ctfassets.net/2md5qhoeajym/2pmoThbEsIuxUFlBzOH05w/389ca217b8f90725d8e5cee01352e051/240527_ElliotRoss_Seattle_1447_v1_3000px_FINAL.jpg

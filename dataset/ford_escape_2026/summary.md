@@ -1,0 +1,23 @@
+# 2026 Ford Escape Summary
+
+- Dataset ID: 35
+- Slug: `ford_escape_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Ford.com pricing and finance support pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Ford.com starting MSRP shown: $30,350
+- Total before tax: Ford.com lists a starting MSRP of $30,350 before destination/delivery, taxes, title, registration, and dealer fees.
+- Category: suv
+- Drivetrain: FWD or AWD
+- Fuel type: gasoline, hybrid, or plug-in hybrid
+- Vehicle summary: Compact crossover focused on everyday commuting and family use.
+- Vehicle summary: Ford highlights standard gas models plus hybrid and plug-in hybrid availability for buyers prioritizing efficiency.
+- Best for: Best fit for shoppers who want a mainstream compact SUV with electrified powertrain options.
+- Notes: Snapshot uses Ford.com public pricing and model-page content on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.ford.com/suvs/escape/
+- Finance source URL: https://www.ford.com/finance/
+- Payment calculator URL: https://www.ford.com/finance/payment-calculator/
+- Warranty source URL: https://www.ford.com/support/owner-manuals-details/
+- Image note: 2026 Ford Escape Plug-in Hybrid parked on a rooftop lot

@@ -1,0 +1,24 @@
+# 2026 GMC Sierra EV Summary
+
+- Dataset ID: 88
+- Slug: `gmc_sierra_ev_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $62,400
+- Total before tax: GMC.com lists a starting price of $62,400 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: truck
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: All-electric pickup designed for buyers who want truck utility with a premium EV identity.
+- Vehicle summary: Sierra EV gives GMC a higher-end electric truck option instead of a purely work-focused EV pickup.
+- Best for: Truck buyers who want a premium electric pickup instead of a conventional gas full-size truck.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/electric/sierra-ev
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: GMC Sierra EV capability hero image from the official model page

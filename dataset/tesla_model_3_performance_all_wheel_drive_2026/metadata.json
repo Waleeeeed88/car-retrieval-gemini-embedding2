@@ -1,0 +1,53 @@
+{
+  "id": "92",
+  "slug": "tesla_model_3_performance_all_wheel_drive_2026",
+  "make": "Tesla",
+  "model": "Model 3 Performance All-Wheel Drive",
+  "year": 2026,
+  "market": "US",
+  "category": "sedan",
+  "drivetrain": "AWD",
+  "fuel_type": "electric",
+  "price_range": "$54,990",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from live Tesla Design Studio pricing and finance views",
+    "image": "https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-3-Social-LHD.jpg"
+  },
+  "source_urls": {
+    "model_page": "https://www.tesla.com/model3/design#overview",
+    "vehicle_warranty": "https://www.tesla.com/support/vehicle-warranty"
+  },
+  "finance_snapshot": {
+    "msrp": "Tesla Design Studio cash price shown: $54,990",
+    "total_before_tax": "Tesla Design Studio shows a vehicle price of $54,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.",
+    "apr": "Current finance example shown by Tesla: 6.29% APR, $3,250 down, 84 mo.",
+    "finance_payment": "Tesla Design Studio finance estimate shown: $761 /mo.",
+    "finance_down_payment": "6.29% APR, $3,250 down, 84 mo",
+    "lease_payment": "Varies by ZIP code, eligibility, and current Tesla lease availability.",
+    "lease_term": "term varies",
+    "due_at_signing": "Varies by Tesla financing or lease terms, taxes, fees, and buyer profile.",
+    "incentives": "Tesla may show estimated savings or tax-related messaging in the Design Studio; eligibility and final value vary.",
+    "warranty": "See Tesla vehicle warranty details for current basic and battery/drive-unit coverage.",
+    "best_for": "Buyers who want the smallest Tesla with the strongest acceleration and all-wheel-drive grip.",
+    "financial_strengths": "Performance branding gives it a clearer enthusiast angle than the lower Model 3 trims.",
+    "financial_concerns": "Higher pricing narrows the value gap versus larger EVs and better-equipped crossovers.",
+    "notes": "Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this dataset pass uses current official configurations to create 10 Tesla entries.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Dataset stores one canonical local image per vehicle. Tesla entries reuse one official Tesla image per base model across related configurations."
+  }
+}

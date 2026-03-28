@@ -1,0 +1,24 @@
+# 2026 Mercedes-Benz GLB SUV Summary
+
+- Dataset ID: 62
+- Slug: `mercedes_benz_glb_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Mercedes-Benz pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: MBUSA.com starting price shown: $43,800
+- Total before tax: MBUSA.com lists a starting price of $43,800 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Buyers wanting a compact Mercedes SUV with extra utility and family-friendly packaging.
+- Vehicle summary: Mercedes-Benz positions the GLB SUV as part of its current U.S. luxury lineup with styling, technology, and brand-led appeal.
+- Best for: Buyers wanting a compact Mercedes SUV with extra utility and family-friendly packaging.
+- Notes: Snapshot uses Mercedes-Benz USA pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.mbusa.com/en/vehicles/class/glb/suv
+- All vehicles source URL: https://www.mbusa.com/en/all-vehicles
+- Offers source URL: https://www.mbusa.com/en/special-offers
+- Finance source URL: https://www.mbfs.com/home
+- Owners manuals URL: https://www.mbusa.com/en/owners/manuals
+- Image note: GLB SUV

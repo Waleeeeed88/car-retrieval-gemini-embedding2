@@ -1,0 +1,24 @@
+# 2026 GMC HUMMER EV SUV Summary
+
+- Dataset ID: 84
+- Slug: `gmc_hummer_ev_suv_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from GMC pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: GMC.com starting price shown: $97,200
+- Total before tax: GMC.com lists a starting price of $97,200 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: Flagship electric SUV focused on statement-making design, off-road image, and premium positioning.
+- Vehicle summary: HUMMER EV SUV serves buyers who want a bold electric GMC rather than a conventional family EV.
+- Best for: High-budget EV buyers who want extreme GMC branding, off-road image, and a distinctive electric SUV.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.gmc.com/electric/hummer-ev/suv
+- All vehicles source URL: https://www.gmc.com/help-me-find/vehicle-lineup
+- Current offers URL: https://www.gmc.com/current-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.gmc.com/support/vehicle/manuals-guides
+- Image note: Front Three-Quarters View of the GMC HUMMER EV SUV

@@ -1,0 +1,25 @@
+# 2026 Chevrolet Tahoe Summary
+
+- Dataset ID: 76
+- Slug: `chevrolet_tahoe_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Chevrolet pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Chevrolet.com starting price shown: $60,700
+- Total before tax: Chevrolet.com lists a starting price of $60,700 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: 2WD/4WD
+- Fuel type: gasoline/diesel
+- Vehicle summary: Full-size SUV for buyers who need genuine interior space, towing capability, and strong road presence.
+- Vehicle summary: Tahoe remains a key Chevrolet flagship for shoppers who are well past compact and midsize crossover needs.
+- Best for: Buyers who need real full-size SUV room, towing confidence, and Chevrolet brand familiarity.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.chevrolet.com/suvs/tahoe
+- All vehicles source URL: https://www.chevrolet.com/vehicles
+- Current offers URL: https://www.chevrolet.com/current-offers
+- Special offers URL: https://www.chevrolet.com/special-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.chevrolet.com/support/vehicle/manuals-guides
+- Image note: 2026 Chevrolet Tahoe

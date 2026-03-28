@@ -23,8 +23,10 @@ class Settings:
     default_top_k: int = int(os.getenv("CAR_RETRIEVAL_TOP_K", "5"))
     supported_image_extensions: tuple[str, ...] = (".jpg", ".jpeg", ".png")
     supported_text_files: tuple[str, ...] = ("summary.md", "finance.md")
-    supported_pdf_files: tuple[str, ...] = ("spec.pdf",)
+    supported_pdf_files: tuple[str, ...] = ("spec.pdf", "specs.md", "pdf.txt")
     pdf_max_pages_per_request: int = 6
+    image_vector_weight: float = float(os.getenv("CAR_IMAGE_VECTOR_WEIGHT", "0.8"))
+    image_context_weight: float = float(os.getenv("CAR_IMAGE_CONTEXT_WEIGHT", "0.2"))
 
     @property
     def embeddings_json_path(self) -> Path:
@@ -56,9 +58,12 @@ class Settings:
 
 
 def _resolve_path(value: str | Path | None, fallback: Path) -> Path:
-    if value is None:
-        return fallback.resolve()
-    return Path(value).expanduser().resolve()
+    path = fallback if value is None else Path(value).expanduser()
+    if not path.is_absolute():
+        path = (PROJECT_ROOT / path).resolve()
+    else:
+        path = path.resolve()
+    return path
 
 
 def get_settings(

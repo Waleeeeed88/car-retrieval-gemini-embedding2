@@ -1,0 +1,23 @@
+# 2026 Ford Ranger Summary
+
+- Dataset ID: 33
+- Slug: `ford_ranger_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Ford.com pricing and finance support pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Ford.com starting MSRP shown: $33,350
+- Total before tax: Ford.com lists a starting MSRP of $33,350 before destination/delivery, taxes, title, registration, and dealer fees.
+- Category: pickup
+- Drivetrain: RWD or 4WD
+- Fuel type: gasoline
+- Vehicle summary: Midsize pickup positioned between Maverick and F-150.
+- Vehicle summary: Ford emphasizes EcoBoost power, off-road capability, and trims that range from practical work truck to Ranger Raptor performance.
+- Best for: Best fit for buyers who want truck utility and trail readiness without the size of a full-size pickup.
+- Notes: Snapshot uses Ford.com public pricing and model-page content on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.ford.com/trucks/ranger/
+- Finance source URL: https://www.ford.com/finance/
+- Payment calculator URL: https://www.ford.com/finance/payment-calculator/
+- Warranty source URL: https://www.ford.com/support/owner-manuals-details/
+- Image note: 2026 Ford Ranger on a mountainous dirt road

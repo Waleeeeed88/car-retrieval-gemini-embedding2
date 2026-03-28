@@ -1,18 +1,24 @@
 # 2026 Toyota Camry Summary
 
-- Dataset ID: 02
+- Dataset ID: 42
 - Slug: `toyota_camry_2026`
 - Market: US
-- PDF asset: `spec.pdf` copied from `02_Toyota Camry (2026).pdf`
-- Finance asset: `finance.md` copied from `02_2026_Toyota_Camry.md`
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Toyota.com pricing and shopping pages
 - Image asset: `images/front.jpg`
-- MSRP snapshot: $29,100
-- Total before tax: Starting MSRP about $29,100 before tax, destination, and dealer fees.
-- Best for: Mainstream midsize-sedan shoppers who want low running costs and strong resale.
-- Financial strengths: Low entry price for the segment and ToyotaCare improve the early-year cash picture.
-- Financial concerns: The real deal depends on local Toyota cash, APR, and inventory rather than a visible national payment ad.
-- Notes: Snapshot uses Toyota US pricing on March 25, 2026.
-- Snapshot date: March 25, 2026
-- Spec source URL: https://www.toyota.com/content/dam/toyota/brochures/pdf/2026/camry_ebrochure.pdf
-- Image source page: https://www.toyota.com/camry/photo-gallery/
-- Image note: Dataset stores one canonical local image per vehicle.
+- MSRP snapshot: Toyota.com starting MSRP shown: $29,100
+- Total before tax: Toyota.com lists a starting MSRP of $29,100 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- Category: sedan
+- Drivetrain: FWD/AWD
+- Fuel type: hybrid
+- Vehicle summary: Midsize sedan positioned for buyers who still want a traditional four-door with strong everyday usability.
+- Vehicle summary: Toyota presents Camry as a core family-sedan option with electrified efficiency baked into the lineup.
+- Best for: Drivers who want a mainstream midsize sedan instead of moving to a compact SUV.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.toyota.com/camry/
+- All vehicles source URL: https://www.toyota.com/all-vehicles/
+- Deals source URL: https://www.toyota.com/deals-incentives/
+- Payment estimator URL: https://www.toyota.com/payment-estimator/
+- Warranty source URL: https://www.toyota.com/owners/warranty-owners-manuals/
+- Image note: Camry

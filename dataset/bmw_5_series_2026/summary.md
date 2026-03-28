@@ -1,0 +1,25 @@
+# 2026 BMW 5 Series Summary
+
+- Dataset ID: 56
+- Slug: `bmw_5_series_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from BMWUSA pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: BMWUSA.com starting MSRP shown: $60,500
+- Total before tax: BMWUSA.com lists a starting MSRP of $60,500 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: sedan
+- Drivetrain: RWD/AWD
+- Fuel type: gasoline
+- Vehicle summary: Midsize luxury sedan positioned between BMW?s compact sport sedans and flagship executive models.
+- Vehicle summary: BMW uses the 5 Series to blend premium comfort, brand prestige, and everyday executive-car practicality.
+- Best for: Buyers who want more space and a more upscale feel than a compact luxury sedan.
+- Notes: Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.bmwusa.com/vehicles/5-series/sedan/bmw-5-series-sedan-overview.html
+- All models source URL: https://www.bmwusa.com/all-bmws.html
+- Finance source URL: https://www.bmwusa.com/financial-services.html
+- Offers source URL: https://www.bmwusa.com/special-offers.html
+- Payment estimator URL: https://www.bmwusa.com/financial-services/car-payment-estimator.html
+- Ownership source URL: https://www.bmwusa.com/explore/bmw-value.html
+- Image note: 5 Series

@@ -11,7 +11,13 @@ if __package__ in {None, ""}:
 
 from config import get_settings
 from utils.embedding_utils import GeminiEmbedder
-from utils.io_utils import extract_pdf_text, load_index_artifacts, load_json, read_text
+from utils.io_utils import (
+    extract_pdf_text,
+    load_index_artifacts,
+    load_json,
+    read_text,
+    resolve_spec_path,
+)
 from utils.retrieval_utils import build_car_label, rank_records
 
 QUERY_TYPE_OPTIONS = {
@@ -83,13 +89,27 @@ def load_search_resources(dataset_root: str | None, data_dir: str | None):
     return settings, vectors, metadata, embedder
 
 
+def resolve_car_dir(dataset_root: str | Path, car_id: str) -> Path:
+    requested_root = Path(dataset_root)
+    project_dataset_root = Path(__file__).resolve().parent / "dataset"
+    candidates = [
+        requested_root / car_id,
+        project_dataset_root / car_id,
+    ]
+    for candidate in candidates:
+        if (candidate / "metadata.json").exists():
+            return candidate
+    return candidates[0]
+
+
 @st.cache_data(show_spinner=False)
 def load_car_context(dataset_root: str, car_id: str) -> dict[str, object]:
-    car_dir = Path(dataset_root) / car_id
+    settings = get_settings(dataset_root=dataset_root)
+    car_dir = resolve_car_dir(settings.dataset_root, car_id)
     metadata = load_json(car_dir / "metadata.json")
     summary_path = car_dir / "summary.md"
     finance_path = car_dir / "finance.md"
-    spec_path = car_dir / "spec.pdf"
+    spec_path = resolve_spec_path(car_dir, settings.supported_pdf_files)
     images_dir = car_dir / "images"
 
     image_candidates = sorted(path for path in images_dir.iterdir() if path.is_file()) if images_dir.exists() else []
@@ -303,6 +323,8 @@ def feature_lines_from_result(result: dict[str, object]) -> list[str]:
     features = result.get("features") or []
     spec_facts = result.get("spec_facts") or []
     image_traits = result.get("image_traits") or []
+    image_profile = result.get("image_profile") or []
+    image_quality_flags = result.get("image_quality_flags") or []
     if colors:
         lines.append(f"Colors: {', '.join(str(color) for color in colors)}")
     if features:
@@ -311,6 +333,10 @@ def feature_lines_from_result(result: dict[str, object]) -> list[str]:
         lines.append(f"Spec facts: {', '.join(str(fact) for fact in spec_facts[:6])}")
     if image_traits:
         lines.append(f"Image traits: {', '.join(str(trait) for trait in image_traits[:6])}")
+    if image_profile:
+        lines.append(f"Image profile: {', '.join(str(line) for line in image_profile[:6])}")
+    if image_quality_flags:
+        lines.append(f"Image quality flags: {', '.join(str(flag) for flag in image_quality_flags[:4])}")
     return lines
 
 

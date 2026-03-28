@@ -32,6 +32,24 @@ def average_embeddings(vectors: Iterable[np.ndarray]) -> np.ndarray:
     return normalize_vector(stacked.mean(axis=0))
 
 
+def weighted_average_embeddings(weighted_vectors: Iterable[tuple[np.ndarray, float]]) -> np.ndarray:
+    normalized_vectors: list[np.ndarray] = []
+    weights: list[float] = []
+    for vector, weight in weighted_vectors:
+        if weight <= 0:
+            continue
+        normalized_vectors.append(normalize_vector(vector))
+        weights.append(float(weight))
+
+    if not normalized_vectors:
+        raise ValueError("No weighted vectors were provided for aggregation.")
+
+    weight_array = np.asarray(weights, dtype=np.float32)
+    weight_array = weight_array / weight_array.sum()
+    stacked = np.vstack(normalized_vectors)
+    return normalize_vector((stacked * weight_array[:, None]).sum(axis=0))
+
+
 def detect_mime_type(path: Path, fallback: str) -> str:
     guessed, _ = mimetypes.guess_type(path.name)
     return guessed or fallback

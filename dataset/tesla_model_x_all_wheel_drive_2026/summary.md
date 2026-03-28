@@ -1,0 +1,21 @@
+# 2026 Tesla Model X All-Wheel Drive Summary
+
+- Dataset ID: 97
+- Slug: `tesla_model_x_all_wheel_drive_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Tesla Design Studio pricing and finance views
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Tesla Design Studio cash price shown: $99,990
+- Total before tax: Tesla Design Studio shows a vehicle price of $99,990. Tesla notes that price includes destination and order fees but excludes taxes and other fees, and is subject to change.
+- Category: suv
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: Flagship Tesla SUV aimed at buyers who want more space and presence than Model Y provides.
+- Vehicle summary: This AWD version is the more conventional Model X entry before stepping into the Plaid halo trim.
+- Best for: Luxury EV SUV buyers who want Tesla space and Falcon Wing identity without stepping to Plaid.
+- Notes: Snapshot uses live Tesla U.S. Design Studio pricing on March 26, 2026. Tesla's U.S. lineup has fewer than 10 core nameplates, so this pass uses current official configurations to create 10 Tesla entries.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.tesla.com/modelx/design#overview
+- Warranty source URL: https://www.tesla.com/support/vehicle-warranty
+- Image source URL: https://digitalassets.tesla.com/tesla-contents/image/upload/f_auto,q_auto/Model-X-New-Social.jpg

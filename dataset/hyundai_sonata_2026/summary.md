@@ -1,0 +1,23 @@
+# 2026 Hyundai Sonata Summary
+
+- Dataset ID: 125
+- Slug: `hyundai_sonata_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Hyundai USA pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Hyundai vehicles page shows Starting MSRP: $27,450.
+- Total before tax: Hyundai vehicles page shows Starting MSRP of $27,450 before taxes, title, registration, destination, retailer charges, and optional equipment.
+- Category: sedan
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: The 2026 Hyundai Sonata has a sleek and sporty design, coupled with a modern cabin with state-of-the-art technology and safety. Click to learn more!
+- Best for: Drivers who still want a midsize sedan with Hyundai styling and technology focus.
+- Notes: Snapshot uses Hyundai USA public model pages and Hyundai's U.S. vehicles page on March 26, 2026. Starting MSRP was taken from Hyundai's rendered vehicle-card markup.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.hyundaiusa.com/us/en/vehicles/sonata
+- Lineup source URL: https://www.hyundaiusa.com/us/en/vehicles
+- Offers source URL: https://www.hyundaiusa.com/us/en/offers
+- Manuals/Warranties source URL: https://owners.hyundaiusa.com/us/en/resources/manuals-warranties
+- Warranty source URL: https://www.hyundaiusa.com/us/en/assurance/america-best-warranty
+- Image source URL: https://s7d1.scene7.com/is/image/hyundai/2026-sonata-search-results-v2?wid=1200&hei=630&qlt=85,0&fmt=webp

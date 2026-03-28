@@ -1,0 +1,23 @@
+# 2026 Nissan Armada Finance Snapshot
+
+- Market: US
+- MSRP: Nissan public page example vehicle shown price: $78,530.
+- Total before tax: Nissan public page example vehicle shown price: $78,530. $2,245 destination and handling charge referenced in Nissan's public Armada pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- APR: Current APR was not cleanly exposed on the public Nissan model page in this pass; check Nissan Finance or retailer quoting for live programs.
+- Finance payment: Use Nissan Finance or a retailer quote for current payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, lender terms, and structure.
+- Lease payment: Current public Nissan lease payment was not captured cleanly from the model page in this pass.
+- Lease term: not captured in this pass
+- Due at signing: not captured in this pass
+- Incentives: Public Nissan offers can vary by ZIP code, dealer, and time period; verify live offers before using them operationally.
+- Warranty: See Nissan owner resources and manuals for current ownership documentation and vehicle details.
+- Best for: Buyers who need Nissan's full-size SUV footprint, towing capacity, and top-end family utility.
+- Financial strengths: Armada gives Nissan a real full-size SUV anchor with clear towing and space credibility.
+- Financial concerns: At this price level, Armada faces much heavier payment pressure and tougher competitive cross-shopping.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.nissanusa.com/vehicles/crossovers-suvs/armada.html
+  - https://www.nissanusa.com/vehicles/new.html
+  - https://www.nissanfinance.com/s/
+  - https://www.nissanusa.com/owners/manuals-guides.html

@@ -1,0 +1,28 @@
+# 2026 GMC Canyon Finance Snapshot
+
+- Market: US
+- MSRP: GMC.com starting price shown: $38,900
+- Total before tax: GMC.com lists a starting price of $38,900 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- APR: GMC financing and lease programs vary by model, region, term, and approved credit; check official current offers and GM Financial for current programs.
+- Finance payment: Use GMC shopping tools, dealer quotes, or GM Financial resources for current monthly payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, incentives, trade value, and deal structure.
+- Lease payment: Lease estimates vary by trim, region, mileage allowance, and current official GMC programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: GMC current offers can change frequently and should be confirmed with a local dealer.
+- Warranty: See GMC owner manuals and support resources for current warranty and maintenance details.
+- Best for: Buyers who want GMC pickup utility without taking on the size and spend of a full-size truck.
+- Financial strengths: Midsize-truck capability and premium truck branding make it attractive for mixed work and lifestyle use.
+- Financial concerns: Well-equipped midsize trucks can still push into full-size payment territory quickly.
+- Notes: Snapshot uses GMC pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.gmc.com/trucks/canyon
+  - https://www.gmc.com/help-me-find/vehicle-lineup
+  - https://www.gmc.com/suvs
+  - https://www.gmc.com/trucks
+  - https://www.gmc.com/electric
+  - https://www.gmc.com/vans
+  - https://www.gmc.com/current-offers
+  - https://www.gmfinancial.com/en-us/home.html
+  - https://www.gmc.com/support/vehicle/manuals-guides

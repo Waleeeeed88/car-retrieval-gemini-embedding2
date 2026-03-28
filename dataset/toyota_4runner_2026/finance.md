@@ -1,0 +1,24 @@
+# 2026 Toyota 4Runner Finance Snapshot
+
+- Market: US
+- MSRP: Toyota.com starting MSRP shown: $41,870
+- Total before tax: Toyota.com lists a starting MSRP of $41,870 before destination processing and handling, taxes, title, license, registration, and dealer fees.
+- APR: Toyota financing offers vary by ZIP code, model, term, and approved credit; check Toyota deals and incentives for current regional programs.
+- Finance payment: Use the Toyota payment estimator or dealer quote for current monthly payment estimates.
+- Finance down payment: Varies by lender approval, incentives, taxes, fees, and buyer structure.
+- Lease payment: Lease estimates vary by region, trim, mileage allowance, and available specials.
+- Lease term: term varies
+- Due at signing: Varies by dealer, taxes, fees, first payment, and any available incentives.
+- Incentives: Toyota advertises regional deals and incentives that can change frequently and should be confirmed locally.
+- Warranty: See Toyota Manuals and Warranties for the current model-year guide and exact coverage details.
+- Best for: Buyers who want Toyota SUV branding with stronger off-road identity than a typical crossover.
+- Financial strengths: Distinct mission and loyal enthusiast demand help it stand apart from softer family SUVs.
+- Financial concerns: Pricing can climb fast as trims and utility-oriented packages stack up.
+- Notes: Snapshot uses Toyota.com all-vehicles pricing and Toyota support pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.toyota.com/4runner/
+  - https://www.toyota.com/all-vehicles/
+  - https://www.toyota.com/deals-incentives/
+  - https://www.toyota.com/payment-estimator/
+  - https://www.toyota.com/owners/warranty-owners-manuals/

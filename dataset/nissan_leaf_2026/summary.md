@@ -1,0 +1,22 @@
+# 2026 Nissan LEAF Summary
+
+- Dataset ID: 113
+- Slug: `nissan_leaf_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from live official Nissan pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Nissan public page example vehicle shown price: $39,790.
+- Total before tax: Nissan public page example vehicle shown price: $39,790. $1,545 destination and handling charge referenced in Nissan's public LEAF pricing disclaimer. Taxes, title, license, retailer fees, and options are excluded.
+- Category: crossover
+- Drivetrain: varies
+- Fuel type: electric
+- Vehicle summary: Discover the all-new 2026 Nissan LEAF small electric crossover SUV with 5-passenger seating, 303-mile range and fast charging for every journey.
+- Best for: Buyers tracking Nissan's new LEAF crossover format rather than the older hatchback positioning.
+- Notes: Snapshot uses Nissan USA public model pages on March 26, 2026. Public HTML surfaced shown-vehicle pricing more clearly than a clean base MSRP in this pass.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.nissanusa.com/vehicles/electric-cars/leaf.html
+- Lineup source URL: https://www.nissanusa.com/vehicles/new.html
+- Finance source URL: https://www.nissanfinance.com/s/
+- Manuals source URL: https://www.nissanusa.com/owners/manuals-guides.html
+- Image source URL: https://www.nissanusa.com/content/dam/Nissan/us/vehicles/leaf/2026/overview/pfa/all-new-2026-nissan-leaf-v4-XL.jpg

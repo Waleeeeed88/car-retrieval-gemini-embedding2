@@ -1,0 +1,25 @@
+# 2026 Chevrolet Colorado Finance Snapshot
+
+- Market: US
+- MSRP: Chevrolet.com starting price shown: $32,400
+- Total before tax: Chevrolet.com lists a starting price of $32,400 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- APR: Chevrolet financing and lease programs vary by model, region, term, and approved credit; check official current offers, special offers, and GM Financial for current programs.
+- Finance payment: Use Chevrolet shopping tools, dealer quotes, or GM Financial resources for current monthly payment estimates.
+- Finance down payment: Varies by approved credit, taxes, fees, incentives, trade value, and deal structure.
+- Lease payment: Lease estimates vary by trim, region, mileage allowance, and current official Chevrolet programs.
+- Lease term: term varies
+- Due at signing: Varies by taxes, fees, first payment, incentives, and retailer structure.
+- Incentives: Chevrolet current offers and special offers can change frequently and should be confirmed with a local dealer.
+- Warranty: See Chevrolet owner manuals and support resources for current warranty and maintenance details.
+- Best for: Truck shoppers who want Chevy pickup utility without moving into full-size cost and footprint.
+- Financial strengths: Midsize-truck pricing and capability can be easier to justify than a full-size pickup for many buyers.
+- Financial concerns: Well-equipped midsize trucks can get expensive fast and approach full-size payment territory.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Sources:
+  - https://www.chevrolet.com/trucks/colorado
+  - https://www.chevrolet.com/vehicles
+  - https://www.chevrolet.com/current-offers
+  - https://www.chevrolet.com/special-offers
+  - https://www.gmfinancial.com/en-us/home.html
+  - https://www.chevrolet.com/support/vehicle/manuals-guides

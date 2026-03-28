@@ -1,0 +1,23 @@
+# 2026 Ford Bronco Summary
+
+- Dataset ID: 37
+- Slug: `ford_bronco_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Ford.com pricing and finance support pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Ford.com starting MSRP shown: $39,995
+- Total before tax: Ford.com lists a starting MSRP of $39,995 before destination/delivery, taxes, title, registration, and dealer fees.
+- Category: suv
+- Drivetrain: 4WD
+- Fuel type: gasoline
+- Vehicle summary: Body-on-frame off-road SUV aimed directly at trail and open-air use.
+- Vehicle summary: Ford continues to position Bronco around serious 4x4 capability, multiple trim personalities, and a strong aftermarket-friendly identity.
+- Best for: Best fit for buyers who prioritize off-road hardware and lifestyle appeal over crossover-like efficiency.
+- Notes: Snapshot uses Ford.com public pricing and model-page content on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.ford.com/suvs/bronco/
+- Finance source URL: https://www.ford.com/finance/
+- Payment calculator URL: https://www.ford.com/finance/payment-calculator/
+- Warranty source URL: https://www.ford.com/support/owner-manuals-details/
+- Image note: 2026 Ford Bronco Badlands in profile with contrasting roof

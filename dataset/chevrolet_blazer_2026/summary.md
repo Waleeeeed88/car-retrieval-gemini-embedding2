@@ -1,0 +1,25 @@
+# 2026 Chevrolet Blazer Summary
+
+- Dataset ID: 74
+- Slug: `chevrolet_blazer_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Chevrolet pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Chevrolet.com starting price shown: $34,300
+- Total before tax: Chevrolet.com lists a starting price of $34,300 before destination freight charge, taxes, title, license, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: FWD/AWD
+- Fuel type: gasoline
+- Vehicle summary: Midsize two-row SUV aimed at buyers who want more visual attitude than the smaller Equinox.
+- Vehicle summary: Chevrolet treats Blazer as a style-forward step up for shoppers who still want everyday crossover practicality.
+- Best for: Shoppers who want a midsize two-row Chevy SUV with a sportier look than a typical family crossover.
+- Notes: Snapshot uses Chevrolet pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.chevrolet.com/suvs/blazer
+- All vehicles source URL: https://www.chevrolet.com/vehicles
+- Current offers URL: https://www.chevrolet.com/current-offers
+- Special offers URL: https://www.chevrolet.com/special-offers
+- GM Financial URL: https://www.gmfinancial.com/en-us/home.html
+- Manuals source URL: https://www.chevrolet.com/support/vehicle/manuals-guides
+- Image note: 2026 Chevrolet Blazer

@@ -1,0 +1,25 @@
+# 2026 BMW iX Summary
+
+- Dataset ID: 60
+- Slug: `bmw_ix_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from BMWUSA pricing and shopping pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: BMWUSA.com starting MSRP shown: $75,150
+- Total before tax: BMWUSA.com lists a starting MSRP of $75,150 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: AWD
+- Fuel type: electric
+- Vehicle summary: All-electric luxury SUV for buyers who want a high-end BMW EV in a crossover body style.
+- Vehicle summary: BMW positions the iX as one of its flagship electric utility vehicles with a heavier emphasis on technology and premium design.
+- Best for: Luxury EV SUV shoppers who want BMW branding rather than a mainstream electric crossover.
+- Notes: Snapshot uses BMW USA model pricing and BMW Financial Services pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.bmwusa.com/vehicles/bmw-i-series/ix/bmw-ix.html
+- All models source URL: https://www.bmwusa.com/all-bmws.html
+- Finance source URL: https://www.bmwusa.com/financial-services.html
+- Offers source URL: https://www.bmwusa.com/special-offers.html
+- Payment estimator URL: https://www.bmwusa.com/financial-services/car-payment-estimator.html
+- Ownership source URL: https://www.bmwusa.com/explore/bmw-value.html
+- Image note: A BMW iX Electric Vehicle

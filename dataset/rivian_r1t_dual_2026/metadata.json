@@ -1,0 +1,53 @@
+{
+  "id": "102",
+  "slug": "rivian_r1t_dual_2026",
+  "make": "Rivian",
+  "model": "R1T Dual",
+  "year": 2026,
+  "market": "US",
+  "category": "pickup",
+  "drivetrain": "AWD",
+  "fuel_type": "electric",
+  "price_range": "$79,990",
+  "paths": {
+    "spec_pdf": "specs.md",
+    "finance_md": "finance.md",
+    "summary_md": "summary.md",
+    "metadata_json": "metadata.json",
+    "images": {
+      "front": "images/front.jpg"
+    }
+  },
+  "source_files": {
+    "pdf": "Generated `specs.md` from official manufacturer URLs previously stored in `pdf.txt`",
+    "finance": "Generated from live official Rivian pages",
+    "image": "https://images.ctfassets.net/2md5qhoeajym/7amTVJoqSqPIrLtQw0IiMm/9f3397a537fb5812d8b65dd13c2d4a01/20240519_Dustin_Akssland_NOLA_Peregrine_08919_3000px_FINAL__1_.jpg"
+  },
+  "source_urls": {
+    "model_page": "https://rivian.com/en-US/r1t",
+    "warranty_page": "https://rivian.com/en-US/support/article/new-vehicle-limited-warranty-guide"
+  },
+  "finance_snapshot": {
+    "msrp": "Rivian R1T page shows: From $79,990.",
+    "total_before_tax": "Public Rivian pricing starts at $79,990 for the advertised R1T Dual configuration before taxes, registration, options, and local fees.",
+    "apr": "Rivian does not publish a universal APR on the main R1T page; final financing depends on approved credit and lender terms.",
+    "finance_payment": "Use Rivian purchase flow or lender quote for current financed payment estimates.",
+    "finance_down_payment": "Not published as a standard finance example on the R1T page.",
+    "lease_payment": "Live Rivian example offer for R1T Dual with Large battery shows $1,019/mo.",
+    "lease_term": "36 months / 30,000 total miles in the example offer.",
+    "due_at_signing": "Example offer shows $8,914 due at signing.",
+    "incentives": "Rivian pricing and lease examples can change and should be verified in the live build or purchase flow.",
+    "warranty": "See Rivian's New Vehicle Limited Warranty guide for current coverage terms.",
+    "best_for": "Shoppers who want a stronger-range R1T configuration without stepping into Tri or Quad pricing.",
+    "financial_strengths": "Official page gives both an advertised entry price and a live lease example tied to the current Dual configuration.",
+    "financial_concerns": "Battery choice, options, and fees can move the real transaction price above the headline figure quickly.",
+    "notes": "Snapshot uses Rivian U.S. live R1T pricing and lease example on March 26, 2026.",
+    "snapshot_date": "March 26, 2026"
+  },
+  "image_strategy": {
+    "local_source_image_count": 1,
+    "stored_image_count": 1,
+    "canonical_image": "images/front.jpg",
+    "note": "Official Rivian R1T share image reused across current R1T configurations in this dataset pass."
+  }
+}

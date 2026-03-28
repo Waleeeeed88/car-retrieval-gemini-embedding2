@@ -1,0 +1,24 @@
+# 2026 Mercedes-Benz GLS SUV Summary
+
+- Dataset ID: 65
+- Slug: `mercedes_benz_gls_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Mercedes-Benz pricing and finance pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: MBUSA.com starting price shown: $90,250
+- Total before tax: MBUSA.com lists a starting price of $90,250 before destination, taxes, title, registration, dealer fees, and optional equipment.
+- Category: suv
+- Drivetrain: varies
+- Fuel type: gasoline
+- Vehicle summary: Large-family buyers who want a full-size three-row Mercedes SUV.
+- Vehicle summary: Mercedes-Benz positions the GLS SUV as part of its current U.S. luxury lineup with styling, technology, and brand-led appeal.
+- Best for: Large-family buyers who want a full-size three-row Mercedes SUV.
+- Notes: Snapshot uses Mercedes-Benz USA pricing and official finance pages on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.mbusa.com/en/vehicles/class/gls/suv
+- All vehicles source URL: https://www.mbusa.com/en/all-vehicles
+- Offers source URL: https://www.mbusa.com/en/special-offers
+- Finance source URL: https://www.mbfs.com/home
+- Owners manuals URL: https://www.mbusa.com/en/owners/manuals
+- Image note: Logo

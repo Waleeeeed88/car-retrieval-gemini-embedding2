@@ -1,0 +1,23 @@
+# 2026 Ford F-150 Summary
+
+- Dataset ID: 32
+- Slug: `ford_f_150_2026`
+- Market: US
+- Spec asset: `specs.md` generated from official manufacturer sources
+- Finance asset: `finance.md` generated from Ford.com pricing and finance support pages
+- Image asset: `images/front.jpg`
+- MSRP snapshot: Ford.com starting MSRP shown: $39,330
+- Total before tax: Ford.com lists a starting MSRP of $39,330 before destination/delivery, taxes, title, registration, and dealer fees.
+- Category: pickup
+- Drivetrain: RWD or 4WD
+- Fuel type: gasoline or hybrid
+- Vehicle summary: Full-size pickup built around towing, payload, and broad trim choice.
+- Vehicle summary: Ford markets available PowerBoost hybrid power, BlueCruise, and multiple work or luxury-focused configurations.
+- Best for: Best fit for buyers who need serious truck capability and broad trim flexibility.
+- Notes: Snapshot uses Ford.com public pricing and model-page content on March 26, 2026.
+- Snapshot date: March 26, 2026
+- Model source URL: https://www.ford.com/trucks/f150/
+- Finance source URL: https://www.ford.com/finance/
+- Payment calculator URL: https://www.ford.com/finance/payment-calculator/
+- Warranty source URL: https://www.ford.com/support/owner-manuals-details/
+- Image note: 2026 Ford F-150 Platinum with Satin Package pulling a small trailer on a country road
