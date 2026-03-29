@@ -1,0 +1,20 @@
+{
+  "id": "acme_family_suv_2026",
+  "slug": "acme_family_suv_2026",
+  "make": "Acme",
+  "model": "Family Cruiser",
+  "year": 2026,
+  "category": "SUV",
+  "drivetrain": "AWD",
+  "fuel_type": "Gasoline",
+  "price_range": "$34,000-$39,000",
+  "market": "US",
+  "finance_snapshot": {
+    "msrp": "$35,900",
+    "apr": "2.9% APR",
+    "finance_payment": "$489/mo",
+    "lease_payment": "$429/mo",
+    "incentives": "$1,000 loyalty bonus",
+    "warranty": "5 year / 60,000 mile powertrain"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "acme_work_truck_2026",
+  "slug": "acme_work_truck_2026",
+  "make": "Acme",
+  "model": "Payload Pro",
+  "year": 2026,
+  "category": "Truck",
+  "drivetrain": "4WD",
+  "fuel_type": "Gasoline",
+  "price_range": "$41,000-$49,000",
+  "market": "US",
+  "finance_snapshot": {
+    "msrp": "$43,800",
+    "apr": "4.9% APR",
+    "finance_payment": "$699/mo",
+    "lease_payment": "$649/mo",
+    "incentives": "$1,250 commercial bonus cash",
+    "warranty": "5 year / 60,000 mile powertrain"
+  }
+}

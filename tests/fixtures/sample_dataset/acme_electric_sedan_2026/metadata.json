@@ -1,0 +1,20 @@
+{
+  "id": "acme_electric_sedan_2026",
+  "slug": "acme_electric_sedan_2026",
+  "make": "Acme",
+  "model": "Voltline",
+  "year": 2026,
+  "category": "Sedan",
+  "drivetrain": "RWD",
+  "fuel_type": "Electric",
+  "price_range": "$46,000-$52,000",
+  "market": "US",
+  "finance_snapshot": {
+    "msrp": "$47,500",
+    "apr": "1.9% APR",
+    "finance_payment": "$615/mo",
+    "lease_payment": "$559/mo",
+    "incentives": "$2,500 EV lease cash",
+    "warranty": "8 year / 100,000 mile battery warranty"
+  }
+}
